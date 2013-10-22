@@ -1,2 +1,1 @@
-
-Available public [searx instances](https://github.com/asciimoo/searx/wiki/Searx_Instances)
+Available public [searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances)
