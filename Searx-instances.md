@@ -1,2 +1,2 @@
-* [searx.0x2a.tk](http://searx.0x2a.tk) (http only)
+* [searx.0x2a.tk](https://searx.0x2a.tk)
 * [seeks.okhin.fr](https://seeks.okhin.fr/)
