@@ -2,3 +2,4 @@
 * [seeks.okhin.fr](https://seeks.okhin.fr/)
 * [searx.crazypotato.tk](https://searx.crazypotato.tk)
 * [quackquackgo.nl](https://quackquackgo.nl/)
+* [searx.scriptores.com](https://searx.scriptores.com/)
