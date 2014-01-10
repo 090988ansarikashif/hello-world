@@ -3,3 +3,4 @@
 * [searx.crazypotato.tk](https://searx.crazypotato.tk)
 * [quackquackgo.nl](https://quackquackgo.nl/)
 * [searx.scriptores.com](https://searx.scriptores.com/)
+* [seeks.hsbp.org](https://seeks.hsbp.org/)
