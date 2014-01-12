@@ -41,9 +41,9 @@ check everything is fine :
 python searx/webapp.py
 ```
 
-check [http://localhost:8888](http://localhost:8888)
+go to [http://localhost:8888](http://localhost:8888)
 
-if every works fine, disable debug option in searx/settings.py :
+if everything works fine, disable debug option in searx/settings.py :
 ```
 sed -i -e "s/debug = True/debug = False/g" settings.py
 ```
