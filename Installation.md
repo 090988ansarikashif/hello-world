@@ -20,7 +20,7 @@ sudo chown searx:searx -R /usr/local/searx
 
 Install dependencies in a virtualenv :
 ```sh
-sudo searx
+su searx -s /bin/bash
 cd /usr/local/searx
 virtualenv searx-ve
 . searx-ve/bin/activate
