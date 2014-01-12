@@ -22,6 +22,7 @@ Install dependencies in a virtualenv :
 ```sh
 sudo -u searx -i
 cd /usr/local/searx
+virtualenv searx-ve
 . ./searx-ve/bin/activate
 pip install -r requirements.txt
 ```
@@ -32,22 +33,24 @@ cp engines.cfg_sample engines.cfg
 sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" searx/settings.py
 ```
 
-edit searx/settings.py or engines.cfg if necessary.
+Edit searx/settings.py or engines.cfg if necessary.
 
 ## check
-start searx :
+Start searx :
 ```
 python searx/webapp.py
 ```
 
-go to [http://localhost:8888](http://localhost:8888)
+Go to [http://localhost:8888](http://localhost:8888)
 
-if everything works fine, disable debug option in searx/settings.py :
+If everything works fine, disable the debug option in searx/settings.py :
 ```
 sed -i -e "s/debug = True/debug = False/g" searx/settings.py
 ```
 
-At this point searx is not demonized, uwsgi allows this.
+At this point searx is not demonized ; uwsgi allows this.
+
+You can exit the virtualenv and the searx user bash (enter exit command twice).
 
 # uwsgi
 
@@ -89,7 +92,7 @@ chdir = /usr/local/searx/searx/
 callable = app
 ```
 
-Restart uwsgi :
+Activate the uwsgi application and restart :
 ```sh
 cd /etc/uwsgi/apps-enabled
 ln -s ../apps-available/searx.ini
