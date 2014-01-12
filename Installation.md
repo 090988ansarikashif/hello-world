@@ -90,6 +90,12 @@ ln -s ../apps-available/searx.ini
 
 # web server
 ## with nginx
+If nginx is not installed :
+```sh
+sudo apt-get install nginx
+```
+
+create /etc/nginx/sites-available/searx with :
 ```Nginx
 server {
     listen 80;
