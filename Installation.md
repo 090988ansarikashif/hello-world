@@ -2,7 +2,7 @@ step by step installation for Debian / Ubuntu
 
 source : https://about.okhin.fr/posts/Searx/ with some additions
 
-# installation
+# basic installation
 ```sh
 sudo apt-get install build-essential gcc libxslt-dev python-dev
 sudo useradd searx
