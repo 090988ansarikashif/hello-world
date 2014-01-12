@@ -14,7 +14,7 @@ Install searx :
 ```sh
 cd /usr/local
 sudo git clone https://github.com/asciimoo/searx.git
-sudo useradd searx -s /bin/false
+sudo useradd searx -s /bin/false -d /usr/local/searx
 sudo chown searx:searx -R /usr/local/searx
 ```
 
