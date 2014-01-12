@@ -14,16 +14,15 @@ Install searx :
 ```sh
 cd /usr/local
 sudo git clone https://github.com/asciimoo/searx.git
-sudo useradd searx -s /bin/false -d /usr/local/searx
+sudo useradd searx -d /usr/local/searx
 sudo chown searx:searx -R /usr/local/searx
 ```
 
 Install dependencies in a virtualenv :
 ```sh
-su searx -s /bin/bash
+sudo -u searx -i
 cd /usr/local/searx
-virtualenv searx-ve
-. searx-ve/bin/activate
+. ./searx-ve/bin/activate
 pip install -r requirements.txt
 ```
 
