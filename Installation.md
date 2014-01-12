@@ -85,7 +85,7 @@ More sh scripts :
 ```sh
 cd /etc/uwsgi/apps-enabled
 ln -s ../apps-available/searx.ini
-/etc/init.d/uwsgi start
+/etc/init.d/uwsgi restart
 ```
 
 # web server
