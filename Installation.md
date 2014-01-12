@@ -3,12 +3,21 @@ step by step installation for Debian / Ubuntu with virtualenv.
 source : https://about.okhin.fr/posts/Searx/ with some additions
 
 # basic installation
+
+Install packages :
 ```sh
 sudo apt-get install git build-essential gcc libxslt-dev python-dev
+```
+Install searx :
+```sh
 sudo useradd searx
 cd /usr/local
 sudo git clone https://github.com/asciimoo/searx.git
 sudo chown searx:searx -R /usr/local/searx
+```
+
+Instance dependencies with a virtualenv :
+```sh
 sudo searx
 cd /usr/local/searx
 virtualenv searx-ve
@@ -16,27 +25,16 @@ virtualenv searx-ve
 pip install -r requirements.txt
 ```
 
-# configuration
+## configuration
 ```
 cp engines.cfg_sample engines.cfg
 sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" searx/settings.py
 ```
 
-edit searx/settings.py and / or engines.cfg if necessary :
+edit searx/settings.py or engines.cfg if necessary.
 
-```python
-port = 8888
-secret_key = "ultrasecretkey" # change this!
-debug = True
-request_timeout = 5.0 # seconds
-weights = {} # 'search_engine_name': float(weight) | default is 1.0
-blacklist = [] # search engine blacklist
-categories = {} # custom search engine categories
-base_url = None # "https://your.domain.tld/" or None (to use request parameters)
-```
-
-# check
-check everything is fine :
+## check
+start searx :
 ```
 python searx/webapp.py
 ```
@@ -48,13 +46,16 @@ if everything works fine, disable debug option in searx/settings.py :
 sed -i -e "s/debug = True/debug = False/g" settings.py
 ```
 
+At this point searx is not demonized, uwsgi allows this.
+
 # uwsgi
 
+Install packages :
 ```
 sudo apt-get install uwsgi uwsgi-plugin-python
 ```
 
-Create /etc/uwsgi/apps-available/searx.ini with :
+Create the configuration file /etc/uwsgi/apps-available/searx.ini with this content :
 ```
 [uwsgi]
 # Who will run the code
@@ -87,7 +88,7 @@ chdir = /usr/local/searx/searx/
 callable = app
 ```
 
-More sh scripts :
+Restart uwsgi :
 ```sh
 cd /etc/uwsgi/apps-enabled
 ln -s ../apps-available/searx.ini
@@ -95,13 +96,14 @@ ln -s ../apps-available/searx.ini
 ```
 
 # web server
+
 ## with nginx
-If nginx is not installed :
+If nginx is not installed (uwsgi will not work with the package nginx-light) :
 ```sh
 sudo apt-get install nginx
 ```
 
-create /etc/nginx/sites-available/searx with :
+Create the configuration file /etc/nginx/sites-available/searx with this content :
 ```Nginx
 server {
     listen 80;
@@ -123,13 +125,14 @@ sudo /etc/init.d/nginx restart
 ## with apache 
 **FIXME : not tested**
 
+Add wsgi mod :
 ```sh
 sudo apt-get install libapache2-mod-wsgi
 sudo a2enmod mod-wsgi
 ```
 
 Add this configuration :
-```
+```apache
 <Location />
     Options FollowSymLinks Indexes
     SetHandler uwsgi-handler
