@@ -4,9 +4,11 @@ source : https://about.okhin.fr/posts/Searx/ with some additions
 
 # basic installation
 
+For Ubuntu, be sure to have enable universe repository.
+
 Install packages :
 ```sh
-sudo apt-get install git build-essential gcc libxslt-dev python-dev python-virtualenv
+sudo apt-get install git build-essential libxslt-dev python-dev python-virtualenv
 ```
 Install searx :
 ```sh
