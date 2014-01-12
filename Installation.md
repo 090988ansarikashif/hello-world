@@ -12,9 +12,9 @@ sudo apt-get install git build-essential libxslt-dev python-dev python-virtualen
 ```
 Install searx :
 ```sh
-sudo useradd searx -s /bin/false
 cd /usr/local
 sudo git clone https://github.com/asciimoo/searx.git
+sudo useradd searx -s /bin/false
 sudo chown searx:searx -R /usr/local/searx
 ```
 
