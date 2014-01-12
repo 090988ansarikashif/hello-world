@@ -16,7 +16,7 @@ sudo git clone https://github.com/asciimoo/searx.git
 sudo chown searx:searx -R /usr/local/searx
 ```
 
-Instance dependencies with a virtualenv :
+Install dependencies in a virtualenv :
 ```sh
 sudo searx
 cd /usr/local/searx
