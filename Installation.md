@@ -115,19 +115,29 @@ server {
 }
 ```
 
+Restart nginx :
+```sh
+sudo /etc/init.d/nginx restart
+```
+
 ## with apache 
 **FIXME : not tested**
 
 ```sh
 sudo apt-get install libapache2-mod-wsgi
 sudo a2enmod mod-wsgi
-sudo /etc/init.d/apache2 restart
 ```
 
+Add this configuration :
 ```
 <Location />
     Options FollowSymLinks Indexes
     SetHandler uwsgi-handler
     uWSGISocket /run/uwsgi/app/searx/socket
 </Location>
+```
+
+Restart Apache :
+```sh
+sudo /etc/init.d/apache2 restart
 ```
