@@ -92,7 +92,7 @@ ln -s ../apps-available/searx.ini
 ## with nginx
 If nginx is not installed :
 ```sh
-sudo apt-get install nginx-full
+sudo apt-get install nginx
 ```
 
 create /etc/nginx/sites-available/searx with :
