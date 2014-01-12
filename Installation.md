@@ -1,4 +1,4 @@
-step by step installation for Debian / Ubuntu
+step by step installation for Debian / Ubuntu with virtualenv.
 
 source : https://about.okhin.fr/posts/Searx/ with some additions
 
