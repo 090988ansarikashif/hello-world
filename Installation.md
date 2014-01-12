@@ -19,9 +19,10 @@ pip install -r requirements.txt
 # configuration
 ```
 cp engines.cfg_sample engines.cfg
+sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" searx/settings.py
 ```
 
-edit searx/settings.py :
+edit searx/settings.py and / or engines.cfg if necessary :
 
 ```python
 port = 8888
@@ -40,7 +41,12 @@ check everything is fine :
 python searx/webapp.py
 ```
 
-go to [http://localhost:8888](http://localhost:8888)
+check [http://localhost:8888](http://localhost:8888)
+
+if every works fine, disable debug option in searx/settings.py :
+```
+sed -i -e "s/debug = True/debug = False/g" settings.py
+```
 
 # uwsgi
 
