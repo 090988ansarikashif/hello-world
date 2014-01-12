@@ -110,4 +110,18 @@ server {
 ```
 
 ## with apache 
-TODO
+**FIXME : not tested**
+
+```sh
+sudo apt-get install libapache2-mod-wsgi
+sudo a2enmod mod-wsgi
+sudo /etc/init.d/apache2 restart
+```
+
+```
+<Location />
+    Options FollowSymLinks Indexes
+    SetHandler uwsgi-handler
+    uWSGISocket /run/uwsgi/app/searx/socket
+</Location>
+```
