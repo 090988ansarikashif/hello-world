@@ -6,7 +6,7 @@ source : https://about.okhin.fr/posts/Searx/ with some additions
 
 Install packages :
 ```sh
-sudo apt-get install git build-essential gcc libxslt-dev python-dev
+sudo apt-get install git build-essential gcc libxslt-dev python-dev python-virtualenv
 ```
 Install searx :
 ```sh
