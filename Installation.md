@@ -4,7 +4,7 @@ source : https://about.okhin.fr/posts/Searx/ with some additions
 
 # basic installation
 ```sh
-sudo apt-get install build-essential gcc libxslt-dev python-dev
+sudo apt-get install git build-essential gcc libxslt-dev python-dev
 sudo useradd searx
 cd /usr/local
 sudo git clone https://github.com/asciimoo/searx.git
