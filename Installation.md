@@ -45,7 +45,7 @@ go to [http://localhost:8888](http://localhost:8888)
 
 if everything works fine, disable debug option in searx/settings.py :
 ```
-sed -i -e "s/debug = True/debug = False/g" settings.py
+sed -i -e "s/debug = True/debug = False/g" searx/settings.py
 ```
 
 At this point searx is not demonized, uwsgi allows this.
