@@ -131,7 +131,7 @@ sudo /etc/init.d/nginx restart
 
 Add wsgi mod :
 ```sh
-sudo apt-get install libapache2-mod-wsgi
+sudo apt-get install libapache2-mod-uwsgi
 sudo a2enmod mod-wsgi
 ```
 
