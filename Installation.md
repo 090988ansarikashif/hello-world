@@ -30,10 +30,10 @@ pip install -r requirements.txt
 ## configuration
 ```
 cp engines.cfg_sample engines.cfg
-sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" searx/settings.py
+sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" settings.yml
 ```
 
-Edit searx/settings.py or engines.cfg if necessary.
+Edit settings.yml if necessary.
 
 ## check
 Start searx :
@@ -43,9 +43,9 @@ python searx/webapp.py
 
 Go to [http://localhost:8888](http://localhost:8888)
 
-If everything works fine, disable the debug option in searx/settings.py :
+If everything works fine, disable the debug option in settings.yml :
 ```
-sed -i -e "s/debug = True/debug = False/g" searx/settings.py
+sed -i -e "s/debug : True/debug : False/g" settings.yml
 ```
 
 At this point searx is not demonized ; uwsgi allows this.
