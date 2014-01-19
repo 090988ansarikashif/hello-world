@@ -29,7 +29,6 @@ pip install -r requirements.txt
 
 ## configuration
 ```
-cp engines.cfg_sample engines.cfg
 sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" settings.yml
 ```
 
