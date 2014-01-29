@@ -5,3 +5,4 @@
 * [searx.scriptores.com](https://searx.scriptores.com/)
 * [seeks.hsbp.org](https://seeks.hsbp.org/)
 * [search.viewskew.com](https://search.viewskew.com/)
+* [searx.coding4schoki.org](https://searx.coding4schoki.org/)
