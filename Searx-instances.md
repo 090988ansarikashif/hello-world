@@ -1,4 +1,3 @@
-
 Most of the searx instances has a CAcert SSL certificate
 you can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
@@ -12,7 +11,7 @@ you can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**quackquackgo.nl**](https://quackquackgo.nl/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=quackquackgo.nl)
 
-* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org)
+* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 
 * [**searx.scriptores.com**](https://searx.scriptores.com/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.scriptores.com)
 
