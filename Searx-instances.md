@@ -1,5 +1,5 @@
-Most of the searx instances has a CAcert SSL certificate
-you can install the missing root cert from here: http://www.cacert.org/index.php?id=3
+Most of the searx instances have a CAcert SSL certificate.
+You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
 * [**searx.0x2a.tk**](https://searx.0x2a.tk) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.0x2a.tk&s=91.143.84.100)
 
