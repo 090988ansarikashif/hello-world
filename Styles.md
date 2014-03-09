@@ -6,8 +6,6 @@
 
 #### using apt-get
 
-(not tested)
-
 `apt-get install node-less`
 
 ### Compile .less files to style.css
