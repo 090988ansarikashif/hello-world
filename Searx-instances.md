@@ -3,11 +3,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.0x2a.tk**](https://searx.0x2a.tk) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.0x2a.tk&s=91.143.84.100)
 
-* [**search.viewskew.com**](https://search.viewskew.com/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
-
 * [**seeks.okhin.fr**](https://seeks.okhin.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
-
-* [**searx.crazypotato.tk**](https://searx.crazypotato.tk) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.crazypotato.tk)
 
 * [**quackquackgo.nl**](https://quackquackgo.nl/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=quackquackgo.nl)
 
@@ -19,4 +15,8 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 
-Last Tested January 31st, 2014 - asciimoo
+* [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
+
+* [**searx.crazypotato.tk**](https://searx.crazypotato.tk) (down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.crazypotato.tk)
+
+Last Tested Mar 13, 2014 - asciimoo
