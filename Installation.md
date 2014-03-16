@@ -8,7 +8,7 @@ For Ubuntu, be sure to have enable universe repository.
 
 Install packages :
 ```sh
-sudo apt-get install git build-essential libxslt-dev python-dev python-virtualenv python-pybabel
+sudo apt-get install git build-essential libxslt-dev python-dev python-virtualenv python-pybabel zlib1g-dev
 ```
 Install searx :
 ```sh
@@ -29,10 +29,10 @@ pip install -r requirements.txt
 
 ## configuration
 ```
-sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" settings.yml
+sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" searx/settings.yml
 ```
 
-Edit settings.yml if necessary.
+Edit searx/settings.yml if necessary.
 
 ## check
 Start searx :
