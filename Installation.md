@@ -44,7 +44,7 @@ Go to [http://localhost:8888](http://localhost:8888)
 
 If everything works fine, disable the debug option in settings.yml :
 ```
-sed -i -e "s/debug : True/debug : False/g" settings.yml
+sed -i -e "s/debug : True/debug : False/g" searx/settings.yml
 ```
 
 At this point searx is not demonized ; uwsgi allows this.
