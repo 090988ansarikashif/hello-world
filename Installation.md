@@ -126,7 +126,6 @@ sudo /etc/init.d/nginx restart
 ```
 
 ## with apache 
-**FIXME : not tested**
 
 Add wsgi mod :
 ```sh
