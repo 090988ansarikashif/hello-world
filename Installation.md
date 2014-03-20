@@ -111,7 +111,7 @@ Create the configuration file /etc/nginx/sites-available/searx with this content
 server {
     listen 80;
     server_name searx.example.com;
-    root /usr/local/searx
+    root /usr/local/searx;
 
     location / {
             include uwsgi_params;
