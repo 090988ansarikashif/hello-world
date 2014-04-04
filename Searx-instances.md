@@ -17,6 +17,8 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.laquadrature.net**](https://searx.laquadrature.net) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
 
+* [**searx.kiberpipa.org**](https://searx.kiberpipa.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kiberpipa.org)
+
 * [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
 
 * [**searx.crazypotato.tk**](https://searx.crazypotato.tk) (down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.crazypotato.tk)
