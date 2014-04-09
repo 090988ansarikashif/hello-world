@@ -9,7 +9,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 
-* [**searx.scriptores.com**](https://searx.scriptores.com/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.scriptores.com)
+* [**searx.scriptores.com**](http://searx.scriptores.com/) - Temporarily without SSL support (heartbleed test was positive).
 
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
 
