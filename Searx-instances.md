@@ -21,6 +21,8 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.volcanis.me**](https://searx.volcanis.me) - Issuer : Fondation Root CA (Unknown Certificate Authority) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.volcanis.me)
 
+* [**searx.oe5tpo.com**](https://searx.oe5tpo.com) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.oe5tpo.com)
+
 * [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
 
 * [**searx.crazypotato.tk**](https://searx.crazypotato.tk) (down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.crazypotato.tk)
