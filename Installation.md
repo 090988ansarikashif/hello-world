@@ -120,6 +120,12 @@ server {
     }
 }
 ```
+Restart service :
+```sh
+sudo service nginx restart
+sudo service uwsgi restart
+```
+
 ### from subdirectory URL (/searx)
 ```
 location = /searx { rewrite ^ /searx/; }
@@ -138,9 +144,10 @@ Eanble base_url in searx/settings.yml
 base_url : True
 ```
 
-Restart nginx :
+Restart service :
 ```sh
-sudo /etc/init.d/nginx restart
+sudo service nginx restart
+sudo service uwsgi restart
 ```
 
 ## with apache 
