@@ -107,7 +107,8 @@ sudo apt-get install nginx
 ```
 
 Create the configuration file /etc/nginx/sites-available/searx with this content :
-```Nginx
+### Hosted at /
+```
 server {
     listen 80;
     server_name searx.example.com;
@@ -118,6 +119,23 @@ server {
             uwsgi_pass unix:/run/uwsgi/app/searx/socket;
     }
 }
+```
+### from subdirectory URL (/searx)
+```
+location = /searx { rewrite ^ /searx/; }
+location /searx {
+        try_files $uri @searx; }
+location @searx {
+        uwsgi_param SCRIPT_NAME /searx;
+        include uwsgi_params;
+        uwsgi_modifier1 30;
+        uwsgi_pass unix:/run/uwsgi/app/searx/socket;
+}
+```
+
+Eanble base_url in searx/settings.yml
+```
+base_url : True
 ```
 
 Restart nginx :
