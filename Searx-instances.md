@@ -25,6 +25,8 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**s.p-li.net**](http://s.p-li.net)
 
+* [**search.homecomputing.fr**](https://search.homecomputing.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
+
 * [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
 
 * [**searx.crazypotato.tk**](https://searx.crazypotato.tk) (down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.crazypotato.tk)
