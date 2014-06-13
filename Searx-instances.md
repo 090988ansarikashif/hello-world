@@ -27,6 +27,8 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.kujiu.org**](https://search.kujiu.org)
 
+* [**searx.new-admin.net**](https://searx.new-admin.net)
+
 * [**search.homecomputing.fr**](https://search.homecomputing.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
 
 * [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
