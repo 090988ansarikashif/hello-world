@@ -25,6 +25,8 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**s.p-li.net**](http://s.p-li.net)
 
+* [**search.trashserver.net**](https://search.trashserver.net) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.trashserver.net)
+
 * [**search.kujiu.org**](https://search.kujiu.org)
 
 * [**searx.new-admin.net**](https://searx.new-admin.net)
