@@ -65,7 +65,7 @@ Create the configuration file /etc/uwsgi/apps-available/searx.ini with this cont
 uid = searx
 gid = searx
 
-# Number of workers
+# Number of workers (usually CPU count)
 workers = 4
 
 # The right granted on the created socket
@@ -84,11 +84,6 @@ module = searx.webapp
 
 # Virtualenv and python path
 virtualenv = /usr/local/searx/searx-ve/
-pythonpath = /usr/local/searx/
-chdir = /usr/local/searx/searx/
-
-# The variable holding flask application
-callable = app
 ```
 
 Activate the uwsgi application and restart :
