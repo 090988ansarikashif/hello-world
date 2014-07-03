@@ -139,9 +139,9 @@ location @searx {
 }
 ```
 
-Eanble base_url in searx/settings.yml
+Enable base_url in searx/settings.yml
 ```
-base_url : True
+base_url : http://your.domain.tld/searx/
 ```
 
 Restart service :
