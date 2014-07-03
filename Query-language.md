@@ -15,4 +15,4 @@ Search in wikipedia for `qwer`: [**`!wp qwer`**](https://searx.0x2a.tk/?q=%21wp%
 
 Image search: [**`!images chtulhu`**](https://searx.0x2a.tk/?q=%21images%20chtulhu)
 
-Custom language in wikipedia: [**`:hu !wp hackerspace`**](https://searx.0x2a.tk/?q=%3Ahu%20%21wp%20hsbp)
+Custom language in wikipedia: [**`:hu !wp hackerspace`**](https://searx.0x2a.tk/?q=%3Ahu%20%21wp%20hackerspace)
