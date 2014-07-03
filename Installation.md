@@ -25,6 +25,7 @@ cd /usr/local/searx
 virtualenv searx-ve
 . ./searx-ve/bin/activate
 pip install -r requirements.txt
+python setup.py install
 ```
 
 ## configuration
@@ -75,9 +76,6 @@ chmod-socket = 666
 single-interpreter = true
 master = true
 plugin = python
-
-# Application base folder
-base = /usr/local/searx
 
 # Module to import
 module = searx.webapp
