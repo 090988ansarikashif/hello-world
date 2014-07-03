@@ -1,4 +1,3 @@
-
 Searx allows you to modify the default categories, engines and search language via the search query.
 
 Category/engine prefix: **`!`**
@@ -12,8 +11,8 @@ See the [/preferences page](https://searx.0x2a.tk/preferences) for the list of e
 
 ### Examples
 
-Search in wikipedia for `qwer`: [**`!wp qwer`**](https://searx.0x2a.tk/?q=%21wp%20qwer) or [**`!wikipedia qwer`**](https://searx.0x2a.tk/?q=%21google%20qwer)
+Search in wikipedia for `qwer`: [**`!wp qwer`**](https://searx.0x2a.tk/?q=%21wp%20qwer) or [**`!wikipedia qwer`**](https://searx.0x2a.tk/?q=%21wikipedia%20qwer)
 
 Image search: [**`!images chtulhu`**](https://searx.0x2a.tk/?q=%21images%20chtulhu)
 
-Custom language in wikipedia: [**`:hu !wp hackerspace`**](https://searx.0x2a.tk/?q=%3Ahu%20%21go%20hsbp)
+Custom language in wikipedia: [**`:hu !wp hackerspace`**](https://searx.0x2a.tk/?q=%3Ahu%20%21wp%20hsbp)
