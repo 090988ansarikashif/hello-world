@@ -33,7 +33,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.homecomputing.fr**](https://search.homecomputing.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
 
-* [**posativ.org/search/**](https://posativ.org/search/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=posativ.org)
+* [**posativ.org/search/**](https://posativ.org/search/) (as [Hidden Service](http://i5cmiegzetfzb4h6.onion/search/)) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=posativ.org)
 
 * [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
 
