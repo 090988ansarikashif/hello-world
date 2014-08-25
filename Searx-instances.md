@@ -9,7 +9,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 
-* [**searx.scriptores.com**](https://searx.scriptores.com/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.scriptores.com)
+* [**searx.scriptores.com**](https://searx.scriptores.com/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.scriptores.com)
 
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
 
@@ -17,7 +17,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.laquadrature.net**](https://searx.laquadrature.net) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
 
-* [**searx.kiberpipa.org**](https://searx.kiberpipa.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kiberpipa.org)
+* [**searx.kiberpipa.org**](https://searx.kiberpipa.org) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kiberpipa.org)
 
 * [**searx.volcanis.me**](https://searx.volcanis.me) - Issuer : Fondation Root CA (Unknown Certificate Authority) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.volcanis.me)
 
@@ -37,6 +37,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
 
-* [**searx.crazypotato.tk**](https://searx.crazypotato.tk) (down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.crazypotato.tk)
+* [**searx.crazypotato.tk**](https://searx.crazypotato.tk) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.crazypotato.tk)
 
-Last Tested Mar 13, 2014 - asciimoo
+Last Tested Aug 25, 2014 - Zeriuno
