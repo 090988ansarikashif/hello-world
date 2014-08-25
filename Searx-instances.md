@@ -27,7 +27,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.brihx.fr**](https://searx.brihx.fr)
 
-* [**search.kujiu.org**](https://search.kujiu.org)
+* [**search.kujiu.org**](https://search.kujiu.org) - Issuer : CAcert 
 
 * [**searx.new-admin.net**](https://searx.new-admin.net) - Ipv6 Ready 
 
