@@ -60,4 +60,4 @@ to use this template, the parameter
 | publishedDate    | [datetime.datetime](https://docs.python.org/2/library/datetime.html#datetime-objects), represent when the result is published _(not implemented yet)_ |
 | seed             | int, number of seeder |
 | leech            | int, number of leecher |
-| magnetlink       | string, which is the [magnetlink](https://de.wikipedia.org/wiki/Magnet-Link) of the result | 
+| magnetlink       | string, which is the [magnetlink](https://en.wikipedia.org/wiki/Magnet_URI_scheme) of the result | 
