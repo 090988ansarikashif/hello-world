@@ -2,7 +2,7 @@
 
 searx is a [metasearch-engine](https://en.wikipedia.org/wiki/Metasearch_engine), so it is using different search engines to provide better results. 
 
-Because there is no general search-api which can be used for every search-engine, whe must build an adapter between searx and the external search-engine. This adapters are stored in the folder [_searx/engines_](https://github.com/asciimoo/searx/tree/master/searx/engines), and this site is build to make an general documentation about this engines
+Because there is no general search-api which can be used for every search-engine, there must be build an adapter between searx and the external search-engine. This adapters are stored in the folder [_searx/engines_](https://github.com/asciimoo/searx/tree/master/searx/engines), and this site is build to make an general documentation about this engines
 
 # returning results
 
