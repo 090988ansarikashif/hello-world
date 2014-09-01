@@ -5,7 +5,8 @@ Available public [searx instances](https://github.com/asciimoo/searx/wiki/Searx-
 
 [Search syntax](https://github.com/asciimoo/searx/wiki/Query-language)
 
-[Translation guide](https://github.com/asciimoo/searx/wiki/Translation)
+[Engines](https://github.com/asciimoo/searx/wiki/engine-overview)
 
+[Translation guide](https://github.com/asciimoo/searx/wiki/Translation)
 
 [Compiling Styles](https://github.com/asciimoo/searx/wiki/Styles)
