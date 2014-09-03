@@ -8,8 +8,12 @@ Here we can store sites, which could be useful as engine and waiting for an impl
 
 ### Files
 
+Note: https://torrentz.eu/help#indexed show what torrent engines could be implemented
+
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
+| https://torrentz.eu | nothing found | is a metasearch-engine for torrents |
+| http://bitsnoop.com | http://bitsnoop.com/info/api.html | |
 
 ### Images
 
