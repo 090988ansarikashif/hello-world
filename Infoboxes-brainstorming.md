@@ -5,7 +5,7 @@ General :
 * http://www.freebase.com/
 * https://developers.google.com/freebase/
 * https://duck.co/duckduckhack/ddh-intro
-* look for weboob 
+* look for http://weboob.org/
 
 Weather :
 * http://openweathermap.org/current
@@ -31,9 +31,9 @@ Lyrics :
 * look for XBMC plugins
 
 Wikipedia :
-* Extract 
-* http://fr.wikipedia.org/wiki/Sp%C3%A9cial:ApiSandbox#action=query&prop=extracts&format=json&exchars=2000&exlimit=1&exintro=&explaintext=&titles=lazuli
+* Extract to replace duckduckgo definition that exist only in english : http://fr.wikipedia.org/wiki/Sp%C3%A9cial:ApiSandbox#action=query&prop=extracts&format=json&exchars=2000&exlimit=1&exintro=&explaintext=&titles=lazuli
 
 Wikidata :
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Infoboxes 
 * https://www.wikidata.org/wiki/Special:ListDatatypes
+* properties dump : https://gist.github.com/dalf/2352738491afdb86445a
