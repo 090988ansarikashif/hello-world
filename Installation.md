@@ -148,7 +148,7 @@ sudo service uwsgi restart
 Add wsgi mod :
 ```sh
 sudo apt-get install libapache2-mod-uwsgi
-sudo a2enmod mod-uwsgi
+sudo a2enmod uwsgi
 ```
 
 Add this configuration :
