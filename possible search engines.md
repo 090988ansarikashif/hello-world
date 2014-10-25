@@ -4,7 +4,6 @@ Here we can store sites, which could be useful as engine and waiting for an impl
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
-| http://www.faroo.com | http://www.faroo.com/hp/api/api.html | |
 
 ### Files
 
@@ -44,7 +43,6 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
-| http://www.faroo.com | http://www.faroo.com/hp/api/api.html | _see general topic_ |
 
 ### Videos
 
@@ -52,4 +50,10 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | -------- | ---------------------- | -------- |
 | http://www.myvideo.de/ | _nothing found_ | |
 | http://www.metacafe.com | _nothing found_  | |
+
+### Map
+
+| site-url | api-doc (if available) | comments |
+| -------- | ---------------------- | -------- |
+| http://photon.komoot.de | http://photon.komoot.de |  |
 
