@@ -36,4 +36,5 @@ Wikipedia :
 Wikidata :
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Infoboxes 
 * https://www.wikidata.org/wiki/Special:ListDatatypes
+* get wikicommons image : https://tools.wmflabs.org/magnus-toolserver/commonsapi.php
 * properties dump : https://gist.github.com/dalf/2352738491afdb86445a
