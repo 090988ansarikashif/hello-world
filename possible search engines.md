@@ -4,6 +4,7 @@ Here we can store sites, which could be useful as engine and waiting for an impl
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
+| http://yandex.com/ | http://api.yandex.com/ | |
 
 ### Files
 
