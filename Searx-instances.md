@@ -1,7 +1,7 @@
 Most of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
-* [**searx.0x2a.tk**](https://searx.me) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me&s=194.150.168.104)
+* [**searx.me**](https://searx.me) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me&s=194.150.168.104)
 
 * [**seeks.okhin.fr**](https://seeks.okhin.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
 
