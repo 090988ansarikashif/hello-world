@@ -151,7 +151,7 @@ sudo apt-get install libapache2-mod-uwsgi
 sudo a2enmod uwsgi
 ```
 
-Add this configuration :
+Add this configuration in the file /etc/apache2/apache2.conf :
 ```apache
 <Location />
     Options FollowSymLinks Indexes
