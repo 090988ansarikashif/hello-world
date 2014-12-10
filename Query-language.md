@@ -13,6 +13,6 @@ See the [/preferences page](https://searx.me/preferences) for the list of engine
 
 Search in wikipedia for `qwer`: [**`!wp qwer`**](https://searx.me/?q=%21wp%20qwer) or [**`!wikipedia qwer`**](https://searx.me/?q=%21wikipedia%20qwer)
 
-Image search: [**`!images chtulhu`**](https://searx.me/?q=%21images%20chtulhu)
+Image search: [**`!images Cthulhu`**](https://searx.me/?q=%21images%20Cthulhu)
 
 Custom language in wikipedia: [**`:hu !wp hackerspace`**](https://searx.me/?q=%3Ahu%20%21wp%20hackerspace)
