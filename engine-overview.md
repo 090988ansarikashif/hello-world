@@ -4,6 +4,51 @@ searx is a [metasearch-engine](https://en.wikipedia.org/wiki/Metasearch_engine),
 
 Because there is no general search-api which can be used for every search-engine, there must be build an adapter between searx and the external search-engine. This adapters are stored in the folder [_searx/engines_](https://github.com/asciimoo/searx/tree/master/searx/engines), and this site is build to make an general documentation about this engines
 
+# general engine configuration
+
+It is required to tell searx what results can the engine provide. The arguments can be inserted in the engine file, or in the settings file (normally ```settings.yml```). The arguments in the settings file override the one in the engine file.
+
+Really, it is for most options no difference if there are contained in the engine-file or in the settings. But there is a standard where to place specific arguments by default.
+
+### engine-file
+
+| argument           | type     | information  |
+| ------------------ | -------- | ------------ |
+| categories         | list     | pages, in which the engine is working |
+| paging             | boolean  | support multible pages |
+| language_support   | boolean  | support language choosing |
+
+### settings.yml
+
+| argument           | type     | information  |
+| ------------------ | -------- | ------------ |
+| name               | string   | name of search-engine |
+| engine             | string   | name of searx-engine (filename without .py) |
+| shortcut           | string   | shortcut of search-engine |
+| timeout            | string   | specific timeout for search-engine |
+
+### overrides
+
+There are some options, with have default values in the engine, but are often overwritten by the settings. If the option is assigned in the engine-file with ```None``` it has to be redefined in the settings, otherwise searx is not starting with that engine.
+
+The naming of that overrides can be wathever you want. But we recommend the using of already used overrides if possible:
+
+| argument           | type     | information  |
+| ------------------ | -------- | ------------ |
+| base_url           | string   | base-url, can be overwrite to use same engine on other url |
+| number_of_results  | int      | maximum number of results per request |
+| locale             | string   | _(unknow using)_ |
+| api_key            | string   | api-key if required by engine |
+
+### example-code
+
+```python
+# engine dependent config
+categories = ['general']
+paging = True
+language_support = True
+```
+
 # doing request
 
 To perform a search you have to specific at least a url on which the request is performing
@@ -14,13 +59,13 @@ To perform a search you have to specific at least a url on which the request is 
 This arguments can be used to calculate the search-query. Furthermore, some of that parameters are filled with default values which can be changed for special purpose.
 
 | argument           | type     | default-value, informations  |
-| ------------------ | -------- | ----------- |
+| ------------------ | -------- | ---------------------------- |
 | url                | string   | ```''``` |
 | method             | string   | ```'GET'``` |
 | headers            | set      | ```{}``` |
 | data               | set      | ```{}``` |
 | cookies            | set      | ```{}``` |
-| verify             | bool     | ```True``` |
+| verify             | boolean  | ```True``` |
 | headers.User-Agent | string   | a random User-Agent |
 | category           | string   | current category, like ```'general'```|
 | started            | datetime | current date-time |
@@ -32,13 +77,13 @@ This arguments can be used to calculate the search-query. Furthermore, some of t
 The function ```def request(query, params):``` is always returning the ```params``` variable back. Inside searx, the following paramters can be used to specific a search-request:
 
 | argument           | type     | information  |
-| ------------------ | -------- | ----------- |
+| ------------------ | -------- | ------------ |
 | url                | string   | requested url |
 | method             | string   | HTTP request methode |
 | headers            | set      | HTTP header informations |
 | data               | set      | HTTP data informations (parsed if ```method != 'GET'```) |
 | cookies            | set      | HTTP cookies |
-| verify             | bool     | Performing SSL-Validity check |
+| verify             | boolean  | Performing SSL-Validity check |
 
 ### example-code
 
