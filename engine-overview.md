@@ -17,9 +17,9 @@ This arguments can be used to calculate the search-query. Furthermore, some of t
 | ------------------ | -------- | ----------- |
 | url                | string   | ```''``` |
 | method             | string   | ```'GET'``` |
-| headers            | array    | ```{}``` |
-| data               | array    | ```{}``` |
-| cookies            | array    | ```{}``` |
+| headers            | set      | ```{}``` |
+| data               | set      | ```{}``` |
+| cookies            | set      | ```{}``` |
 | verify             | bool     | ```True``` |
 | headers.User-Agent | string   | a random User-Agent |
 | category           | string   | current category, like ```'general'```|
@@ -35,9 +35,9 @@ The function ```def request(query, params):``` is always returning the ```params
 | ------------------ | -------- | ----------- |
 | url                | string   | requested url |
 | method             | string   | HTTP request methode |
-| headers            | array    | HTTP header informations |
-| data               | array    | HTTP data informations (parsed if ```method != 'GET'```) |
-| cookies            | array    | HTTP cookies |
+| headers            | set      | HTTP header informations |
+| data               | set      | HTTP data informations (parsed if ```method != 'GET'```) |
+| cookies            | set      | HTTP cookies |
 | verify             | bool     | Performing SSL-Validity check |
 
 ### example-code
