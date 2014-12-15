@@ -4,6 +4,60 @@ searx is a [metasearch-engine](https://en.wikipedia.org/wiki/Metasearch_engine),
 
 Because there is no general search-api which can be used for every search-engine, there must be build an adapter between searx and the external search-engine. This adapters are stored in the folder [_searx/engines_](https://github.com/asciimoo/searx/tree/master/searx/engines), and this site is build to make an general documentation about this engines
 
+# doing request
+
+To perform a search you have to specific at least a url on which the request is performing
+
+
+### passed arguments
+
+This arguments can be used to calculate the search-query. Furthermore, some of that parameters are filled with default values which can be changed for special purpose.
+
+| argument           | type     | default-value, informations  |
+| ------------------ | -------- | ----------- |
+| url                | string   | ```''``` |
+| method             | string   | ```'GET'``` |
+| headers            | array    | ```{}``` |
+| data               | array    | ```{}``` |
+| cookies            | array    | ```{}``` |
+| verify             | bool     | ```True``` |
+| headers.User-Agent | string   | a random User-Agent |
+| category           | string   | current category, like ```'general'```|
+| started            | datetime | current date-time |
+| pageno             | int      | current pagenumber |
+| language           | string   | specific language code like ```'en_US'```, or ```'all'``` if unspecified |
+
+### parsed arguments
+
+The function ```def request(query, params):``` is always returning the ```params``` variable back. Inside searx, the following paramters can be used to specific a search-request:
+
+| argument           | type     | information  |
+| ------------------ | -------- | ----------- |
+| url                | string   | requested url |
+| method             | string   | HTTP request methode |
+| headers            | array    | HTTP header informations |
+| data               | array    | HTTP data informations (parsed if ```method != 'GET'```) |
+| cookies            | array    | HTTP cookies |
+| verify             | bool     | Performing SSL-Validity check |
+
+### example-code
+
+```python
+# search-url
+base_url = 'https://example.com/'
+search_string = 'search?{query}&page={page}'
+
+# do search-request
+def request(query, params):
+    search_path = search_string.format(
+        query=urlencode({'q': query}),
+        page=params['pageno'])
+
+    params['url'] = base_url + search_path
+
+    return params
+```
+
 # returning results
 
 Searx has the possiblity to return results in different media-types. Currently the following media-types are supported:
