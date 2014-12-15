@@ -13,7 +13,10 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
 | https://torrentz.eu | _nothing found_ | is a metasearch-engine for torrents |
-| http://bitsnoop.com | http://bitsnoop.com/info/api.html | |
+| http://bitsnoop.com | http://bitsnoop.com/info/api.html | currently, I can not open that website ( 15 Dec 2014) |
+| http://www.torrentdownloads.me | _nothing found_ | |
+| http://www.torrentreactor.net | _nothing found_ | |
+| http://www.limetorrents.cc | _nothing found_ | |
 
 ### Images
 
