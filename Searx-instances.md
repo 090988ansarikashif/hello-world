@@ -40,4 +40,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.crazypotato.tk**](https://searx.crazypotato.tk) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.crazypotato.tk)
 
+* [**el-hoyo.net/searx**](https://el-hoyo.net/searx) - Issuer : Startcom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=el-hoyo.net&hideResults=on)
+
 Last Tested Aug 25, 2014 - Zeriuno
