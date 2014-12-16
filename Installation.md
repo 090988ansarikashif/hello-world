@@ -99,8 +99,10 @@ If nginx is not installed (uwsgi will not work with the package nginx-light) :
 sudo apt-get install nginx
 ```
 
-Create the configuration file /etc/nginx/sites-available/searx with this content :
+
 ### Hosted at /
+
+Create the configuration file /etc/nginx/sites-available/searx with this content :
 ```
 server {
     listen 80;
@@ -120,6 +122,8 @@ sudo service uwsgi restart
 ```
 
 ### from subdirectory URL (/searx)
+
+Add this configuration in the server config file /etc/nginx/sites-available/default :
 ```
 location = /searx { rewrite ^ /searx/; }
 location /searx {
