@@ -1,4 +1,9 @@
-Most of the searx instances have a CAcert SSL certificate.
+
+Up-to-date health report available on: http://stats.searx.oe5tpo.com
+
+***
+
+Some of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
 * [**searx.me**](https://searx.me) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me&s=194.150.168.104)
@@ -43,7 +48,3 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**el-hoyo.net/searx**](https://el-hoyo.net/searx) - Issuer : Startcom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=el-hoyo.net&hideResults=on)
 
 _Last Tested Dec 20, 2014 - pointhi_
-
-***
-
-Current stats are also available on: http://stats.searx.oe5tpo.com
