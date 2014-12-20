@@ -8,8 +8,8 @@ It depends on NodeJS, so you might want to add it too before that:
 
     sudo apt-get install nodejs
 
-> Note that you may have an issue with NodeJS. Indeed, there was some shenanigans over it's name in the Debian repositories.
-> If you see `/usr/bin/env: node: File or folder not found`, you may have to either install nodejs-legacy, or execute `sudo ln -s /usr/bin/nodejs /usr/bin/node`
+> Note that you may have an issue with NodeJS. Indeed, there was some shenanigans over its name in the Debian's repositories.
+> If you see `/usr/bin/env: node: File or folder not found` at launch tim, you may have to either install nodejs-legacy, or execute `sudo ln -s /usr/bin/nodejs /usr/bin/node`
 
 # Executing Grunt
 
