@@ -11,6 +11,7 @@
 
 * [Translation guide](https://github.com/asciimoo/searx/wiki/Translation)
 * [Compiling Styles](https://github.com/asciimoo/searx/wiki/Styles)
+* [Compiling Javascripts](https://github.com/asciimoo/searx/wiki/Grunt-for-the-javascript-files)
 
 #### engines
 * [engine overview](https://github.com/asciimoo/searx/wiki/engine-overview)
