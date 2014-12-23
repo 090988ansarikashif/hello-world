@@ -37,6 +37,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | https://www.jamendo.com | https://developer.jamendo.com/v3.0 | |
 | https://bandcamp.com/ | https://bandcamp.com/developer | |
 | https://soundcloud.com | https://developers.soundcloud.com/ | |
+| http://wikibit.me | |
 
 ### News
 
@@ -49,6 +50,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | -------- | ---------------------- | -------- |
 | http://www.myvideo.de/ | _nothing found_ | |
 | http://www.metacafe.com | _nothing found_  | |
+| http://wikibit.me | |
 
 ### Map
 
