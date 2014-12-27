@@ -30,3 +30,11 @@ _TODO: mapping between transifex and searx_
 tx pull -a
 ```
 http://docs.transifex.com/developer/client/pull
+
+### upload specifc Translation (only for admins)
+```
+tx push -t -l tr
+```
+http://docs.transifex.com/developer/client/push
+
+_TODO: upload empty files? (new translations)_
