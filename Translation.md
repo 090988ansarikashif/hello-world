@@ -8,6 +8,10 @@ run these commands in the root directory of searx
 
 `./utils/update-translations.sh`
 
+You may have errors here. In that case, edit the `update-translations.sh` script to change `pybabel` to `pybabel-python2`  
+
+After this step, you can modify the .po files.
+
 ### Compile translations
 
 `pybabel compile -d searx/translations`
