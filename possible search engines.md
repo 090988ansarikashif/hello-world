@@ -6,6 +6,8 @@ Ideas of search engines can be found here : https://duckduckgo.com/bang.html
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
 | http://yandex.com/ | http://api.yandex.com/ | |
+| http://blekko.com/ | | |
+| http://gigablast.com/ | http://gigablast.com/api.html | |
 
 ### Files
 
