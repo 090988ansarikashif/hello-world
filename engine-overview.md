@@ -160,8 +160,10 @@ to use this template, the parameter
 | publishedDate    | [datetime.datetime](https://docs.python.org/2/library/datetime.html#datetime-objects), represent when the result is published _(not implemented yet)_ |
 | seed             | int, number of seeder |
 | leech            | int, number of leecher |
+| filesize         | int, size of file in bytes |
+| files            | int, number of files |
 | magnetlink       | string, which is the [magnetlink](https://en.wikipedia.org/wiki/Magnet_URI_scheme) of the result | 
-
+| torrentfile      | string, which is the torrentfile of the result |
 ### map
 
 | result-parameter | information  |
