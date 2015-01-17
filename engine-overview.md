@@ -134,9 +134,9 @@ to use this template, the parameter
 | url              | string, which is representing the url to the result site |
 | title            | string, which is representing the title of the result _(partly implemented)_ |
 | content          | _(partly implemented)_ |
-| publishedDate    | [datetime.datetime](https://docs.python.org/2/library/datetime.html#datetime-objects), represent when the result is published _(not implemented yet)_ |
+| publishedDate    | [datetime.datetime](https://docs.python.org/2/library/datetime.html#datetime-objects), represent when the result is published _(partly implemented)_ |
 | img_src          | string, which is representing the url to the result image |
-| thumbnail        | string, which is representing the url to a small-preview image _(not implemented yet)_ |
+| thumbnail_src    | string, which is representing the url to a small-preview image |
 
 ### videos
 
