@@ -82,6 +82,8 @@ module = searx.webapp
 
 # Virtualenv and python path
 virtualenv = /usr/local/searx/searx-ve/
+pythonpath = /usr/local/searx/
+chdir = /usr/local/searx/searx/
 ```
 
 Activate the uwsgi application and restart :
