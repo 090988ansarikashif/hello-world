@@ -21,6 +21,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.torrentdownloads.me | _nothing found_ | |
 | http://www.torrentreactor.net | _nothing found_ | |
 | http://www.limetorrents.cc | _nothing found_ | |
+| https://btdigg.org | available by request | |
 
 ### Images
 
