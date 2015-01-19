@@ -8,6 +8,7 @@ Ideas of search engines can be found here : https://duckduckgo.com/bang.html
 | http://yandex.com/ | http://api.yandex.com/ | |
 | http://blekko.com/ | | |
 | http://gigablast.com/ | http://gigablast.com/api.html | |
+| https://search.disconnect.me/ | | support google, bing, yahoo and blekko queries |
 
 ### Files
 
