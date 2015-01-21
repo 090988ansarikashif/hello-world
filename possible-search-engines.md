@@ -1,6 +1,8 @@
 Here we can store sites, which could be useful as engine and waiting for an implementation.  
 Ideas of search engines can be found here : https://duckduckgo.com/bang.html
 
+and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feeds for different sites)
+
 ### General
 
 | site-url | api-doc (if available) | comments |
