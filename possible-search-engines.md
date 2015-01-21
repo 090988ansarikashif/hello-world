@@ -21,7 +21,6 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.torrentdownloads.me | _nothing found_ | |
 | http://www.torrentreactor.net | _nothing found_ | |
 | http://www.limetorrents.cc | _nothing found_ | |
-| https://btdigg.org | available by request | |
 
 ### Images
 
@@ -38,10 +37,9 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
-| https://www.jamendo.com | https://developer.jamendo.com/v3.0 | |
-| https://bandcamp.com/ | https://bandcamp.com/developer | |
-| https://soundcloud.com | https://developers.soundcloud.com/ | |
-| http://wikibit.me | |
+| https://www.jamendo.com | https://developer.jamendo.com/v3.0 | | |
+| https://bandcamp.com/ | https://bandcamp.com/developer | | |
+| http://wikibit.me | | Meta engine. Very hard to find what is useful and what is not |
 
 ### News
 
