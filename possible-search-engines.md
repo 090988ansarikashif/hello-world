@@ -36,6 +36,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://findicons.com | http://findicons.com/api | ~450.000 free icons |
 | https://www.iconfinder.com/ | https://www.iconfinder.com/about/api | ~350.000 icons |
 | http://www.iconspedia.com/ | _nothing found_ | free icons |
+| https://openclipart.org/ | | |
 
 ### Music
 
@@ -44,7 +45,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | https://www.jamendo.com | https://developer.jamendo.com/v3.0 | | |
 | https://bandcamp.com/ | https://bandcamp.com/developer | | |
 | http://wikibit.me | | Meta engine. Very hard to find what is useful and what is not |
-
+| http://ccmixter.org/ | | |
 ### News
 
 | site-url | api-doc (if available) | comments |
@@ -73,3 +74,6 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
 | http://octopart.com | http://octopart.com/api/home | electronic parts|
+| http://europeana.eu/ | | |
+| https://commons.wikimedia.org/ | | |
+| https://archive.org/ | | |
