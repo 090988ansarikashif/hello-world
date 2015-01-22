@@ -65,7 +65,6 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
-| http://photon.komoot.de | http://photon.komoot.de |  |
 
 ### IT 
 | site-url | api-doc (if available) | comments |
