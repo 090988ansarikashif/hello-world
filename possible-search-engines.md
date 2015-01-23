@@ -12,7 +12,7 @@ and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feed
 | http://gigablast.com/ | http://gigablast.com/api.html | |
 | https://search.disconnect.me/ | | support google, bing, yahoo and blekko queries |
 | http://dogpile.com/ http://www.zoo.com/ http://webcrawler.com/ | | provide results from google and yahoo |
-| https://millionshort.com/ | | |
+| https://millionshort.com/ https://milliontall.com/ | | |
 
 ### Files
 
