@@ -78,3 +78,4 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://europeana.eu/ | | |
 | https://commons.wikimedia.org/ | | |
 | https://archive.org/ | | |
+| http://openweathermap.org/ | http://openweathermap.org/api | |
