@@ -49,8 +49,8 @@ We could also log a pondered mean for every span of time we would like (hour, da
 
 | db column   | db options       | description |
 | ----------- | ---------------- | ----------- |
-| id_timespan | FK | Identify the time span | 
-| id_engine | FK | Identify the engine | 
+| id_timespan | FK, PRIMARY | Identify the time span | 
+| id_engine | FK, PRIMARY | Identify the engine | 
 | mean_time | | Mean time of a query | 
 | mean_nb_result | | Mean number of results |
 | mean_score | | Mean score |
