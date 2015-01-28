@@ -16,3 +16,6 @@
 #### engines
 * [engine overview](https://github.com/asciimoo/searx/wiki/engine-overview)
 * [possible search-engines](https://github.com/asciimoo/searx/wiki/possible-search-engines)
+
+#### mindstorming
+* [Database structure](https://github.com/asciimoo/searx/wiki/database-structure)
