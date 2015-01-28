@@ -32,6 +32,25 @@ if we have a login (at least for admins), we require a user-table
 | password    |                  | salted and hashed                         |
 | is_admin    |                  | finer right system would be more flexibel |
 
+#### Engines
+
+We should have a way of having every info on every search engines directly in base
+
+| db column   | db options       | description                               |
+| ----------- | ---------------- | ----------------------------------------- |
+| id          | AI, PRIMARY      |                                           |
+| name        | INDEX, NOT NULL  |                                           |
+| engine      | NOT NULL         | Name of the python file used              |
+| shortcut    | NOT NULL         | Shortcut (bang) for the search engine     |
+| base_url    |                  | Base URL in case needed                   |
+| number_of_results |            |                                           |
+| locale      |                  |                                           |
+| timeout     |                  |                                           |
+| api_key     |                  |                                           |
+| url_xpath   |                  | Only for the xpath engine                 |
+| title_xpath |                  | Only for the xpath engine                 |
+| content_xpath |                | Only for the xpath engine                 |
+
 #### stats
 
 how could we represent the stats in the best way?
@@ -43,21 +62,21 @@ We could also log a pondered mean for every span of time we would like (hour, da
 
 | db column   | db options       | description |
 | ----------- | ---------------- | ----------- |
-| id | AI, PRIMARY | ID of the timespan | 
-| timestamp | | Precise way of determining the time | 
-| readable | | A readable format of the time span like '{{Week}} 26' | 
-| span | | A way of defining the time span choosen (allow varying the time span in pref without loosing old stats) | 
+| id          | AI, PRIMARY      | ID of the timespan | 
+| timestamp   |                  | Precise way of determining the time | 
+| readable    |                  | A readable format of the time span like '{{Week}} 26' | 
+| span        |                  | A way of defining the time span choosen (allow varying the time span in pref without loosing old stats) | 
 
 | db column   | db options       | description |
 | ----------- | ---------------- | ----------- |
-| id_timespan | FK, PRIMARY | Identify the time span | 
-| id_engine | FK, PRIMARY | Identify the engine | 
-| mean_time | | Mean time of a query | 
-| mean_nb_result | | Mean number of results |
-| mean_score | | Mean score |
-| mean_score_result | | Mean score per result|
-| nb_query | | Number of queries | 
-| nb_error | | Number of errors | 
+| id_timespan | FK, PRIMARY      | Identify the time span | 
+| id_engine   | FK, PRIMARY      | Identify the engine | 
+| mean_time   |                  | Mean time of a query | 
+| mean_nb_result |               | Mean number of results |
+| mean_score  |                  | Mean score |
+| mean_score_result |            | Mean score per result|
+| nb_query    |                  | Number of queries | 
+| nb_error    |                  | Number of errors | 
 
 #### https_rewrite
 
