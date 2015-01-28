@@ -17,6 +17,8 @@ regarding to Issue [#205](https://github.com/asciimoo/searx/issues/205)
 
 #### server preferences
 
+We should also have every tables loaded at the start of the server : themes, icons, paths, locales etc.
+
 #### users
 
 if we have a login (at least for admins), we require a user-table
@@ -35,6 +37,26 @@ if we have a login (at least for admins), we require a user-table
 how could we represent the stats in the best way?
 
 it would be cool if we can represent the data inside a timeline, but without too big overhead. [#162](https://github.com/asciimoo/searx/issues/162)
+
+We could log every request with it timestamp, time, engine (but without the query). It would be precise, but a little bit invasive as privacy is concerned, and could be heavy on the DB.  
+We could also log a pondered mean for every span of time we would like (hour, day, week, month). For every week, we could have a line by engine, counting the number of queries, and the mean time of those queries. Adding a query would be simple : M = (m*n + t)/n+1 with M the new mean, m the old one, n the number of queries, and t the time of the new query.
+
+| db column   | db options       | description |
+| ----------- | ---------------- | ----------- |
+| id | AI, PRIMARY | ID of the timespan | 
+| timestamp | | Precise way of determining the time | 
+| readable | | A readable format of the time span like '{{Week}} 26' | 
+
+| db column   | db options       | description |
+| ----------- | ---------------- | ----------- |
+| id_timespan | FK | Identify the time span | 
+| id_engine | FK | Identify the engine | 
+| mean_time | | Mean time of a query | 
+| mean_nb_result | | Mean number of results |
+| mean_score | | Mean score |
+| mean_score_result | | Mean score per result|
+| nb_query | | Number of queries | 
+| nb_error | | Number of errors | 
 
 #### https_rewrite
 
