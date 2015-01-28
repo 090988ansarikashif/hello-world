@@ -46,7 +46,7 @@ We could also log a pondered mean for every span of time we would like (hour, da
 | id | AI, PRIMARY | ID of the timespan | 
 | timestamp | | Precise way of determining the time | 
 | readable | | A readable format of the time span like '{{Week}} 26' | 
-| span | | A way of defining the time span choosen (allow varying the time span in pref without loosing old stats | 
+| span | | A way of defining the time span choosen (allow varying the time span in pref without loosing old stats) | 
 
 | db column   | db options       | description |
 | ----------- | ---------------- | ----------- |
