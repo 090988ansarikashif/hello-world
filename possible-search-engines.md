@@ -38,6 +38,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.iconspedia.com/ | _nothing found_ | free icons |
 | https://openclipart.org/ | | |
 | www.panoramio.com/ | | |
+| http://www.flaticon.com/ | | free icons |
 
 ### Music
 
