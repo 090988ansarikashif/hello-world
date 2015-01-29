@@ -15,6 +15,7 @@ GeoSearch
 * https://fr.wikipedia.org/w/api.php?action=query&format=jsonfm&colimit=max&prop=pageimages|coordinates&pithumbsize=180&pilimit=50&generator=geosearch&ggscoord=45.649392|5.859076&ggsradius=10000&ggsnamespace=0&ggslimit=50
 * https://www.mediawiki.org/wiki/Extension:GeoData#list.3Dgeosearch
 * http://wdq.wmflabs.org/
+* Dump : http://download.geonames.org/export/
 
 Music : 
 * musicbrain : 
@@ -41,3 +42,6 @@ Wikidata :
 
 Air line : 
 * http://openflights.org/data.html#airline
+
+Movies : 
+* Dump : http://www.imdb.com/interfaces
