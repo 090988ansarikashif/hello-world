@@ -48,6 +48,8 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | https://bandcamp.com/ | https://bandcamp.com/developer | | |
 | http://wikibit.me | | Meta engine. Very hard to find what is useful and what is not |
 | http://ccmixter.org/ | | |
+| http://www.myfreemp3x.com/ | | |
+
 ### News
 
 | site-url | api-doc (if available) | comments |
