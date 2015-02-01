@@ -30,7 +30,6 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
-| http://1x.com/ | _nothing found_ | |
 | http://photobucket.com/ | _nothing official found_ | |
 | http://pixabay.com/ | http://pixabay.com/api/docs/ | ~250.000 free photos |
 | http://findicons.com | http://findicons.com/api | ~450.000 free icons |
