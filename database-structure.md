@@ -32,6 +32,8 @@ if we have a login (at least for admins), we require a user-table
 | password    |                  | salted and hashed                         |
 | is_admin    |                  | finer right system would be more flexibel |
 
+Or we could bypass the users table, and use only a login/pass described in settings.yml. Anyway, there would be no sensible data accessible through the admin page, only configuration and maybe more stats.
+
 #### Engines
 
 We should have a way of having every info on every search engines directly in base
