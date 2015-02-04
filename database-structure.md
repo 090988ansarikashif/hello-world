@@ -108,3 +108,20 @@ I think the most efficient implementation would be a n:m representation. We can 
 | id           | AI, PRIMARY      |               |
 | rewrite_from |                  |               |
 | rewrite_to   |                  |               |
+
+
+#### spellchecker
+
+**spellchecker**
+
+This is the implementation of an spellchecker with a runtime of O(1), because we are using precalculated words. Because we are searching for exact matches of this strings, we can use HASH-Tables to improve the speeed to O(1).
+
+The technique is described in the [faroo blog](http://blog.faroo.com/2012/06/07/improved-edit-distance-based-spelling-correction).
+
+Disatvantage is the huge disk-consumption because of the precalculation of queries up to 2 deleted characters for every word, which is multiplying the size of database by an factor of 20 and more, based on the length of the words. But I think the runtime of O(1) is much more important, specifically if the number of requests/second or the number of database entities is growing.
+
+| db column    | db options       | description   |
+| ------------ | ---------------- | ------------- |
+| id           | AI, PRIMARY      |               |
+| precalc      | INDEX USING HASH | precalculated word |
+| correct      |                  |               |
