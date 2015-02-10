@@ -22,7 +22,7 @@ After this step, you can modify the .po files.
 
 ```shell
 tx set --auto-local -r searx.messagespo 'searx/translations/<lang>/LC_MESSAGES/messages.po' \
---source-lang en --type PO --source-file messages.pot
+--source-lang en --type PO --source-file messages.pot --execute
 ```
 http://docs.transifex.com/developer/client/set
 
