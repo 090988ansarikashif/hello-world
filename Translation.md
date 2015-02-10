@@ -35,13 +35,19 @@ tx pull -a
 ```
 http://docs.transifex.com/developer/client/pull
 
+### upload source File
+
+```
+tx push -s
+```
+
 ### upload all Translation
 
 ```
 tx push -s -t
 ```
 
-#### upload specifc Translation (only for admins)
+### upload specifc Translation (only for admins)
 ```
 tx push -t -l tr
 ```
