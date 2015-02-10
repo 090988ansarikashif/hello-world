@@ -9,12 +9,12 @@ and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feed
 | -------- | ---------------------- | -------- |
 | http://yandex.com/ | http://api.yandex.com/ | |
 | http://blekko.com/ | | |
-| http://gigablast.com/ | http://gigablast.com/api.html | |
 | https://search.disconnect.me/ | | support google, bing, yahoo and blekko queries |
 | http://dogpile.com/ http://www.zoo.com/ http://webcrawler.com/ | | provide results from google and yahoo |
 | https://millionshort.com/ https://milliontall.com/ | | |
 | http://exalead.com/search/ | | has spam protection with captcha |
 | https://www.mojeek.com/ | https://mojeek.com/services/api.html | |
+| https://www.qwant.com | | <
 ### Files
 
 Note: https://torrentz.eu/help#indexed show what torrent engines could be implemented
