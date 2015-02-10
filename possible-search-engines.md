@@ -1,5 +1,5 @@
 Here we can store sites, which could be useful as engine and waiting for an implementation.  
-Ideas of search engines can be found here : https://duckduckgo.com/bang.html
+Ideas of search engines can be found here : https://duckduckgo.com/bang.html, there: https://en.wikipedia.org/wiki/List_of_search_engines
 
 and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feeds for different sites)
 
@@ -72,6 +72,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 ### IT 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
+| http://opensearch.krugle.org/ | | |
 
 ### Other
 
