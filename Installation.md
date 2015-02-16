@@ -165,6 +165,7 @@ Add this configuration in the file /etc/apache2/apache2.conf :
     uWSGISocket /run/uwsgi/app/searx/socket
 </Location>
 ```
+Note that if your instance of searx is not at the root, you should change `<Location />` by the location of your instance, like `<Location /searx>`.
 
 Restart Apache :
 ```sh
