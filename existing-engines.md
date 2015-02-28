@@ -35,4 +35,4 @@
 | digg | news, social media | web links with thumbnail | use the videos.html template to display thumbnail |
 
 
-(may be this page should be automacaly generated, the results type are missing)
+(may be this page should be automaticaly generated)
