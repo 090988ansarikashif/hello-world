@@ -11,9 +11,17 @@
 | yacy | general, images | web links, images | results type depends of the selected category |
 | yahoo | general | web links ||
 
+## Special engines
+| name | categories | result type | comments |
+| -------- | ---------------------- | -------- | -------- |
+| currency | general | answer | currency conversion |
+| ddg definition | general | infoboxes ||
+| wikidata | general | infoboxes ||
+
 ## Mostly videos category
 | name | categories | result type | comments |
 | -------- | ---------------------- | -------- | -------- |
+| btdigg | videos, music, files | file to download ||
 | dailymotion | videos | online video ||
 | google play movies | videos | video on demand ||
 | kickass | videos, music, files | file to download ||
