@@ -15,7 +15,7 @@
 | name | categories | result type | comments |
 | -------- | ---------------------- | -------- | -------- |
 | currency | general | answer | currency conversion |
-| ddg definition | general | infoboxes ||
+| ddg definition | general | answer, infoboxes ||
 | wikidata | general | infoboxes ||
 
 ## Mostly videos category
