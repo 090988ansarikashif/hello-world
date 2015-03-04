@@ -2,7 +2,7 @@ step by step installation for Debian / Ubuntu with virtualenv.
 
 source : https://about.okhin.fr/posts/Searx/ with some additions
 
-# basic installation
+# Basic installation
 
 For Ubuntu, be sure to have enable universe repository.
 
@@ -28,14 +28,14 @@ pip install -r requirements.txt
 python setup.py install
 ```
 
-## configuration
+## Configuration
 ```
 sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" searx/settings.yml
 ```
 
 Edit searx/settings.yml if necessary.
 
-## check
+## Check
 Start searx :
 ```
 python searx/webapp.py
@@ -93,7 +93,7 @@ ln -s ../apps-available/searx.ini
 /etc/init.d/uwsgi restart
 ```
 
-# web server
+# Web server
 
 ## with nginx
 If nginx is not installed (uwsgi will not work with the package nginx-light) :
@@ -170,4 +170,17 @@ Note that if your instance of searx is not at the root, you should change `<Loca
 Restart Apache :
 ```sh
 sudo /etc/init.d/apache2 restart
+```
+
+# How to update
+
+```sh
+cd /usr/local/searx
+sudo -u searx -i
+. ./searx-ve/bin/activate
+git stash
+git pull
+git stash apply
+pip install --upgrade -r requirements.txt
+sudo service uwsgi restart
 ```
