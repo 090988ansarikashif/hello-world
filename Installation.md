@@ -66,6 +66,9 @@ Create the configuration file /etc/uwsgi/apps-available/searx.ini with this cont
 uid = searx
 gid = searx
 
+# disable logging for privacy
+disable-logging = true
+
 # Number of workers (usually CPU count)
 workers = 4
 
@@ -179,7 +182,7 @@ cd /usr/local/searx
 sudo -u searx -i
 . ./searx-ve/bin/activate
 git stash
-git pull
+git pull origin master
 git stash apply
 pip install --upgrade -r requirements.txt
 sudo service uwsgi restart
