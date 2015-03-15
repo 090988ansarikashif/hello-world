@@ -10,6 +10,7 @@
 ## developer documentation
 
 * [Translation guide](https://github.com/asciimoo/searx/wiki/Translation)
+* [Plugins](https://github.com/asciimoo/searx/wiki/Plugins)
 * [Compiling Styles](https://github.com/asciimoo/searx/wiki/Styles)
 * [Compiling Javascripts](https://github.com/asciimoo/searx/wiki/Grunt-for-the-javascript-files)
 
