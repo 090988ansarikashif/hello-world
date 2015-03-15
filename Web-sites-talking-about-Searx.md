@@ -3,3 +3,4 @@
 * http://serversupportforum.de/forum/plesk/57259-searx-uwsgi-apache-vhost-conf.html
 
 * http://korben.info/searx.html
+* http://directory.fsf.org/wiki/Searx.me_search
