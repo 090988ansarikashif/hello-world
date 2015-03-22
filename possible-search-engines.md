@@ -85,3 +85,4 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://openweathermap.org/ | http://openweathermap.org/api | |
 | http://www.manualslib.com | | manuals library |
 | http://www.pipl.com/ | http://dev.pipl.com/io-docs | |
+| http://www.shodanhq.com/ | | security vulnerability search engine |
