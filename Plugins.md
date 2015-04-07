@@ -32,3 +32,5 @@ Feel free to add more hooks to the code if it is required by a plugin.
  * Client side dependency handling
  * Better documentation
  * More hooks
+  * search hook (is called while searx is requesting results (for example: things like math-solver), the different hooks are running parallel)
+  * new result hook (is called if a new result is added (for example: https-rewrite))
