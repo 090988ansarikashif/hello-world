@@ -12,7 +12,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**seeks.okhin.fr**](https://seeks.okhin.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
 
-* [**quackquackgo.nl**](https://quackquackgo.nl/) (down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=quackquackgo.nl)
+* [**quackquackgo.nl**](https://quackquackgo.nl/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=quackquackgo.nl)
 
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 
