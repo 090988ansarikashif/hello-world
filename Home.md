@@ -9,6 +9,7 @@
 
 ## developer documentation
 
+* [Contribution guide](https://github.com/asciimoo/searx/wiki/Contribution-Guide)
 * [Translation guide](https://github.com/asciimoo/searx/wiki/Translation)
 * [Plugins](https://github.com/asciimoo/searx/wiki/Plugins)
 * [Compiling Styles](https://github.com/asciimoo/searx/wiki/Styles)
