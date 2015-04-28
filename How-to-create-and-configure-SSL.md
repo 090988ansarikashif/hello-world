@@ -18,7 +18,7 @@ openssl req -new -key searx.key -out searx.csr -new -sha256
 ```
 
 ## Apache Configuration
-
+https://mozilla.github.io/server-side-tls/ssl-config-generator/
 https://wiki.mozilla.org/Security/Server_Side_TLS
 
 **deactivate SSLv2 and SSLv3**
