@@ -6,6 +6,7 @@
 ## admin documentation
 
 * [Installation and setup guide](https://github.com/asciimoo/searx/wiki/Installation)
+* [some Informations about SSL](https://github.com/asciimoo/searx/wiki/How-to-create-and-configure-SSL)
 
 ## developer documentation
 
