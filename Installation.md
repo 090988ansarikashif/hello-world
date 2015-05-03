@@ -151,6 +151,15 @@ Restart service :
 sudo service nginx restart
 sudo service uwsgi restart
 ```
+### disable logs
+for better privacy you can disable nginx log.
+
+how to proceed : bellow ```uwsgi_pass``` in /etc/nginx/sites-available/default add ```access_log off;```
+
+Restart service :
+```sh
+sudo service nginx restart
+```
 
 ## with apache 
 
