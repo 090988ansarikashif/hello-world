@@ -29,7 +29,7 @@ python setup.py install
 ```
 
 ## Configuration
-```
+```sh
 sed -i -e "s/ultrasecretkey/`openssl rand -hex 16`/g" searx/settings.yml
 ```
 
@@ -37,14 +37,14 @@ Edit searx/settings.yml if necessary.
 
 ## Check
 Start searx :
-```
+```sh
 python searx/webapp.py
 ```
 
 Go to [http://localhost:8888](http://localhost:8888)
 
 If everything works fine, disable the debug option in settings.yml :
-```
+```sh
 sed -i -e "s/debug : True/debug : False/g" searx/settings.yml
 ```
 
@@ -55,7 +55,7 @@ You can exit the virtualenv and the searx user bash (enter exit command twice).
 # uwsgi
 
 Install packages :
-```
+```sh
 sudo apt-get install uwsgi uwsgi-plugin-python
 ```
 
@@ -108,7 +108,7 @@ sudo apt-get install nginx
 ### Hosted at /
 
 Create the configuration file /etc/nginx/sites-available/searx with this content :
-```
+```nginx
 server {
     listen 80;
     server_name searx.example.com;
@@ -129,10 +129,11 @@ sudo service uwsgi restart
 ### from subdirectory URL (/searx)
 
 Add this configuration in the server config file /etc/nginx/sites-available/default :
-```
+```nginx
 location = /searx { rewrite ^ /searx/; }
 location /searx {
-        try_files $uri @searx; }
+        try_files $uri @searx;
+}
 location @searx {
         uwsgi_param SCRIPT_NAME /searx;
         include uwsgi_params;
@@ -152,9 +153,12 @@ sudo service nginx restart
 sudo service uwsgi restart
 ```
 ### disable logs
-for better privacy you can disable nginx log.
+for better privacy you can disable nginx logs about searx.
 
-how to proceed : bellow ```uwsgi_pass``` in /etc/nginx/sites-available/default add ```access_log off;```
+how to proceed : bellow ```uwsgi_pass``` in /etc/nginx/sites-available/default add 
+```
+access_log off;
+```
 
 Restart service :
 ```sh
@@ -178,6 +182,23 @@ Add this configuration in the file /etc/apache2/apache2.conf :
 </Location>
 ```
 Note that if your instance of searx is not at the root, you should change `<Location />` by the location of your instance, like `<Location /searx>`.
+
+Restart Apache :
+```sh
+sudo /etc/init.d/apache2 restart
+```
+
+### disable logs
+For better privacy you can disable Apache logs.
+
+WARNING : not tested 
+
+WARNING : you can only disable logs for the whole (virtual) server not for a specific path.
+
+Go back to /etc/apache2/apache2.conf and above ```<Location />``` add :
+```apache
+CustomLog /dev/null combined
+```
 
 Restart Apache :
 ```sh
