@@ -5,3 +5,5 @@
 
 * http://korben.info/searx.html
 * http://directory.fsf.org/wiki/Searx.me_search
+* http://www.metasuchmaschine.org/
+* http://libreprojects.net/
