@@ -53,4 +53,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.xtx.biz**](https://search.xtx.biz/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.xtx.biz)
 
+* [**searx.jeanphilippemorvan.info**](https://searx.jeanphilippemorvan.info/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.jeanphilippemorvan.info)
+
 _Last Tested Apr 17, 2015 - Xeroxxx
