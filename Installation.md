@@ -8,7 +8,7 @@ For Ubuntu, be sure to have enable universe repository.
 
 Install packages :
 ```sh
-sudo apt-get install git build-essential libxslt-dev python-dev python-virtualenv python-pybabel zlib1g-dev
+sudo apt-get install git build-essential libxslt-dev python-dev python-virtualenv python-pybabel zlib1g-dev libffi-dev
 ```
 Install searx :
 ```sh
