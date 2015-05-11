@@ -57,4 +57,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.deblan.org**](https://search.deblan.org/) - Issuer : COMODO via GANDI [Verification] (https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
 
+* [**framabee.org**](https://framabee.org/) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
+
 _Last Tested Apr 17, 2015 - Xeroxxx
