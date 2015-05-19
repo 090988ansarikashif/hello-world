@@ -2,6 +2,7 @@
 
 * Available public [searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances)
 * [Search syntax](https://github.com/asciimoo/searx/wiki/Query-language)
+* [Search API](https://github.com/asciimoo/searx/wiki/Search-API)
 
 ## admin documentation
 
