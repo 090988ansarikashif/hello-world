@@ -1,6 +1,8 @@
-step by step installation for Debian / Ubuntu with virtualenv.
+Step by step installation for Debian / Ubuntu with virtualenv.
 
-source : https://about.okhin.fr/posts/Searx/ with some additions
+Source: https://about.okhin.fr/posts/Searx/ with some additions
+
+How to: [Setup your own privacy respecting search engine in a couple of hours with a free SSL certificate](https://www.reddit.com/r/privacytoolsIO/comments/366kvn/how_to_setup_your_own_privacy_respecting_search/)
 
 # Basic installation
 
