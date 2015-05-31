@@ -14,7 +14,8 @@ and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feed
 | https://millionshort.com/ https://milliontall.com/ | | |
 | http://exalead.com/search/ | | has spam protection with captcha |
 | https://www.mojeek.com/ | https://mojeek.com/services/api.html | |
-| https://www.qwant.com | | <
+| https://www.qwant.com | |
+| https://swisscows.ch |  |
 ### Files
 
 Note: https://torrentz.eu/help#indexed show what torrent engines could be implemented
@@ -87,3 +88,4 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.pipl.com/ | http://dev.pipl.com/io-docs | |
 | http://www.shodanhq.com/ | | security vulnerability search engine |
 | https://www.aftership.com/ | https://www.aftership.com/docs/api/4 | package tracker |
+| http://worldwidescience.org | | science search engine |
