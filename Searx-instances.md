@@ -59,4 +59,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**framabee.org**](https://framabee.org/) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
 
+* [**search.static.lu**](https://search.static.lu/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
+
 _Last Tested Apr 17, 2015 - Xeroxxx
