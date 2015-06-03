@@ -37,7 +37,7 @@ The naming of that overrides can be wathever you want. But we recommend the usin
 | ------------------ | -------- | ------------ |
 | base_url           | string   | base-url, can be overwrite to use same engine on other url |
 | number_of_results  | int      | maximum number of results per request |
-| locale             | string   | _(unknow using)_ |
+| language           | string   | ISO code of language and country like en_US |
 | api_key            | string   | api-key if required by engine |
 
 ### example-code
