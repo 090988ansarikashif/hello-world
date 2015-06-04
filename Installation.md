@@ -159,7 +159,8 @@ for better privacy you can disable nginx logs about searx.
 
 how to proceed : bellow ```uwsgi_pass``` in /etc/nginx/sites-available/default add 
 ```
-access_log off;
+access_log /dev/null;
+error_log /dev/null;
 ```
 
 Restart service :
