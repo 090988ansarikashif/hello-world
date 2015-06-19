@@ -69,6 +69,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
+| https://www.openstreetmap.org | https://wiki.openstreetmap.org/wiki/API | OpenStreetMap |
 
 ### IT 
 | site-url | api-doc (if available) | comments |
@@ -89,3 +90,4 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.shodanhq.com/ | | security vulnerability search engine |
 | https://www.aftership.com/ | https://www.aftership.com/docs/api/4 | package tracker |
 | http://worldwidescience.org | | science search engine |
+| https://wiki.gentoo.org | | Gentoo wiki |
