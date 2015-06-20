@@ -8,14 +8,12 @@ and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feed
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
 | http://yandex.com/ | http://api.yandex.com/ | |
-| http://blekko.com/ | | |
 | https://search.disconnect.me/ | | support google, bing, yahoo and blekko queries |
 | http://dogpile.com/ http://www.zoo.com/ http://webcrawler.com/ | | provide results from google and yahoo |
 | https://millionshort.com/ https://milliontall.com/ | | |
 | http://exalead.com/search/ | | has spam protection with captcha |
 | https://www.mojeek.com/ | https://mojeek.com/services/api.html | |
-| https://www.qwant.com | |
-| https://swisscows.ch |  |
+
 ### Files
 
 Note: https://torrentz.eu/help#indexed show what torrent engines could be implemented
