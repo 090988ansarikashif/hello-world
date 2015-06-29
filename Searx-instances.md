@@ -59,4 +59,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.static.lu**](https://search.static.lu/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
 
+* [**libertad.pw**](https://libertad.pw/searx/) - Issuer: own CA, certificate must be obtained from [libertad.pw](http://libertad.pw) root page (directlink: http://libertad.pw/static/ca-khazad-dum.cert.pem).
+
 _Last Tested Apr 17, 2015 - Xeroxxx
