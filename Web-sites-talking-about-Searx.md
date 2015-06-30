@@ -11,3 +11,4 @@
 * http://libreprojects.net/
 * https://www.privacytools.io/
 * https://www.reddit.com/r/privacytoolsIO/comments/366kvn/how_to_setup_your_own_privacy_respecting_search/
+* https://www.reddit.com/r/learnprogramming/comments/3bc9od/can_anyone_explain_searx_ive_been_reading_the/
