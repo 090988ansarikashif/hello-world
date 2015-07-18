@@ -12,19 +12,11 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**seeks.okhin.fr**](https://seeks.okhin.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
 
-* [**quackquackgo.nl**](https://quackquackgo.nl/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=quackquackgo.nl)
-
-* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
-
-* [**searx.scriptores.com**](https://searx.scriptores.com/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.scriptores.com)
-
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
 
 * [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 
 * [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
-
-* [**searx.kiberpipa.org**](https://searx.kiberpipa.org) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kiberpipa.org)
 
 * [**searx.volcanis.me**](https://searx.volcanis.me) - Issuer : Fondation Root CA (Unknown Certificate Authority) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.volcanis.me)
 
@@ -39,13 +31,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.homecomputing.fr**](https://search.homecomputing.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
 
-* [**posativ.org/search/**](https://posativ.org/search/) (as [Hidden Service](http://i5cmiegzetfzb4h6.onion/search/)) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=posativ.org)
-
-* [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
-
 * [**searx.potato.hu**](https://searx.potato.hu) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.potato.hu)
-
-* [**s3arch.eu**](https://s3arch.eu) (as [Hidden Service](http://eb6w5ctgodhchf3p.onion)) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s3arch.eu&hideResults=on)
 
 * [**searx.32bitflo.at**](https://searx.32bitflo.at) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at&hideResults=on)
 
@@ -53,12 +39,29 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.jeanphilippemorvan.info**](https://searx.jeanphilippemorvan.info/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.jeanphilippemorvan.info)
 
-* [**search.deblan.org**](https://search.deblan.org/) - Issuer : COMODO via GANDI [Verification] (https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
-
 * [**framabee.org**](https://framabee.org/) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
 
 * [**search.static.lu**](https://search.static.lu/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
 
 * [**libertad.pw**](https://libertad.pw/searx/) - Issuer: own CA, certificate must be obtained from [libertad.pw](http://libertad.pw) root page (directlink: http://libertad.pw/static/ca-khazad-dum.cert.pem).
 
-_Last Tested Apr 17, 2015 - Xeroxxx
+* [**posativ.org/search/**](https://posativ.org/search/) (as [Hidden Service](http://i5cmiegzetfzb4h6.onion/search/) - down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=posativ.org)
+
+* [**s3arch.eu**](https://s3arch.eu) (as [Hidden Service](http://eb6w5ctgodhchf3p.onion) - down) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s3arch.eu&hideResults=on)
+
+* [**search.deblan.org**](https://search.deblan.org/) (down) - Issuer : COMODO via GANDI [Verification] (https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
+
+* [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
+
+* [**searx.kiberpipa.org**](https://searx.kiberpipa.org) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kiberpipa.org)
+
+* [**quackquackgo.nl**](https://quackquackgo.nl/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=quackquackgo.nl)
+
+* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
+
+* [**searx.scriptores.com**](https://searx.scriptores.com/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.scriptores.com)
+
+* [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
+* [**fc00:59dd:3bb2:d592:4083:c138:5489:560a**] (http://[fc00:59dd:3bb2:d592:4083:c138:5489:560a]) - only available on Hyperboria/CJDNS network
+
+_Last Tested Jul 19, 2015 - dimqua
