@@ -64,4 +64,5 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
 * [**fc00:59dd:3bb2:d592:4083:c138:5489:560a**] (http://[fc00:59dd:3bb2:d592:4083:c138:5489:560a]) - only available on Hyperboria/CJDNS network
 
+* [**search.jpope.org**](https://search.jpope.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
 _Last Tested Jul 19, 2015 - dimqua
