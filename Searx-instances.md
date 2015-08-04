@@ -66,3 +66,5 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.jpope.org**](https://search.jpope.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
 _Last Tested Jul 19, 2015 - dimqua
+
+* [**search.jollausers.de**](https://search.jollausers.de)
