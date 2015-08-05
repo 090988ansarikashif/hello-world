@@ -65,6 +65,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**fc00:59dd:3bb2:d592:4083:c138:5489:560a**] (http://[fc00:59dd:3bb2:d592:4083:c138:5489:560a]) - only available on Hyperboria/CJDNS network
 
 * [**search.jpope.org**](https://search.jpope.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
-_Last Tested Jul 19, 2015 - dimqua
 
 * [**search.jollausers.de**](https://search.jollausers.de) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
+
+_Last Tested Jul 19, 2015 - dimqua_
