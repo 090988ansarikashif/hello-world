@@ -35,8 +35,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.32bitflo.at**](https://searx.32bitflo.at) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at&hideResults=on)
 
-* [**search.xtx.biz**](https://search.xtx.biz/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.xtx.biz)
-
 * [**searx.jeanphilippemorvan.info**](https://searx.jeanphilippemorvan.info/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.jeanphilippemorvan.info)
 
 * [**framabee.org**](https://framabee.org/) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
@@ -68,4 +66,4 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.jollausers.de**](https://search.jollausers.de) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
 
-_Last Tested Jul 19, 2015 - dimqua_
+_Last Tested Aug 27, 2015 - Xeroxxx_
