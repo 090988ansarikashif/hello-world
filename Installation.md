@@ -157,7 +157,7 @@ sudo service uwsgi restart
 ### disable logs
 for better privacy you can disable nginx logs about searx.
 
-how to proceed : bellow ```uwsgi_pass``` in /etc/nginx/sites-available/default add 
+how to proceed : below ```uwsgi_pass``` in /etc/nginx/sites-available/default add 
 ```
 access_log /dev/null;
 error_log /dev/null;
