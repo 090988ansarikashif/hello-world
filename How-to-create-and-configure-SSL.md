@@ -82,3 +82,8 @@ comming soon
 ### GlobalSign
 
 https://www.globalsign.com/en/ssl/ssl-open-source/
+
+### Other
+
+- general information/guide on running your own CA:  
+https://web.archive.org/web/20150620120849/https://jamielinux.com/docs/openssl-certificate-authority/
