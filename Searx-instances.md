@@ -41,7 +41,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.static.lu**](https://search.static.lu/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
 
-* [**searx.libertad.pw**](https://searx.libertad.pw:8443) (as [Hidden Service](http://lxvs6vvxm3yfqw5p.onion/) ) - Issuer: own CA (khazad-dum CA), certificate must be obtained from [libertad.pw repo](https://github.com/krosos/khazad-dum-ca) or [directlink](http://libertad.pw/static/ca-khazad-dum.cert.pem).  -- hidden-service: UP, DNS: should catch up on/before Septeber 01 CET 23:59
+* [**searx.libertad.pw**](https://searx.libertad.pw:8443) (as [Hidden Service](http://lxvs6vvxm3yfqw5p.onion/) ) - Issuer: own CA (khazad-dum CA), certificate must be obtained from [libertad.pw repo](https://github.com/krosos/khazad-dum-ca) or [directlink](http://libertad.pw/static/ca-khazad-dum.cert.pem).
 
 * [**posativ.org/search/**](https://posativ.org/search/) (as [Hidden Service](http://i5cmiegzetfzb4h6.onion/search/) - down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=posativ.org)
 
