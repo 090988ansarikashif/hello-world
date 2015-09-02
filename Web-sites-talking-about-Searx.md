@@ -19,3 +19,5 @@
 
 * http://www.metasuchmaschine.org
 * http://serversupportforum.de/forum/plesk/57259-searx-uwsgi-apache-vhost-conf.html
+* http://linuxundich.de/gnu-linux/open-source-metasuchmaschine-searx-unter-debian-oder-ubuntu-installieren
+* https://thomas-leister.de/open-source/linux/server/searx-ip-adressen-im-uwsgi-log-anonymisieren
