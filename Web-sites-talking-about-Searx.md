@@ -1,14 +1,21 @@
-* http://fullchan4jtta4sx.onion.city/tech/res/155463.html
-* http://boards.4chan.org/g/thread/46927162/free-alternatives-to-google-services
-* http://serversupportforum.de/forum/plesk/57259-searx-uwsgi-apache-vhost-conf.html
+### Chinese
+
+* http://tieba.baidu.com/p/4012518947
+
+### English
+
 * https://trisquel.info/en/forum/searx-metasearch-engine
-* https://boards.4chan.org/g/thread/47934697
+* http://directory.fsf.org/wiki/Searx.me_search
+* http://libreprojects.net
+* https://www.privacytools.io
+* https://www.reddit.com/r/privacytoolsIO/comments/366kvn/how_to_setup_your_own_privacy_respecting_search
+* https://www.reddit.com/r/learnprogramming/comments/3bc9od/can_anyone_explain_searx_ive_been_reading_the
+
+### French
 
 * http://korben.info/searx.html
-* http://directory.fsf.org/wiki/Searx.me_search
 
-* http://www.metasuchmaschine.org/
-* http://libreprojects.net/
-* https://www.privacytools.io/
-* https://www.reddit.com/r/privacytoolsIO/comments/366kvn/how_to_setup_your_own_privacy_respecting_search/
-* https://www.reddit.com/r/learnprogramming/comments/3bc9od/can_anyone_explain_searx_ive_been_reading_the/
+### German
+
+* http://www.metasuchmaschine.org
+* http://serversupportforum.de/forum/plesk/57259-searx-uwsgi-apache-vhost-conf.html
