@@ -68,4 +68,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.baratheon.uk**](https://search.baratheon.uk) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.baratheon.uk)
 
+* [**searx.fossencdi.org**](https://searx.fossencdi.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
