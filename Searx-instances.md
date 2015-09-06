@@ -60,7 +60,9 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**searx.scriptores.com**](https://searx.scriptores.com/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.scriptores.com)
 
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
-* [**fc00:59dd:3bb2:d592:4083:c138:5489:560a**] (http://[fc00:59dd:3bb2:d592:4083:c138:5489:560a]) - only available on Hyperboria/CJDNS network
+
+* [**searx.info**] (https://[searx.info]) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.info)
+* [**h.searx.info**] (http://[h.searx.info]) - only available on Hyperboria/CJDNS network
 
 * [**search.jpope.org**](https://search.jpope.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
 
