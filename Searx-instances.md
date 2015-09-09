@@ -72,4 +72,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.fossencdi.org**](https://searx.fossencdi.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
 
+* [**search.koehn.com**](https://search.koehn.com) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
+
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
