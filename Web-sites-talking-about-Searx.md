@@ -21,3 +21,7 @@
 * http://serversupportforum.de/forum/plesk/57259-searx-uwsgi-apache-vhost-conf.html
 * http://linuxundich.de/gnu-linux/open-source-metasuchmaschine-searx-unter-debian-oder-ubuntu-installieren
 * https://thomas-leister.de/open-source/linux/server/searx-ip-adressen-im-uwsgi-log-anonymisieren
+
+### Russian
+* http://www.opennet.ru/opennews/art.shtml?num=41624 - searx 0.7 announce
+* https://www.linux.org.ru/news/opensource/11931853 - searx 0.8 announce
