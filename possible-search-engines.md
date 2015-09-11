@@ -28,14 +28,6 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.filespump.net | _nothing found_ | e-Books |
 | http://www.filewatcher.com | _nothing found_ |  |
 | http://www.general-ebooks.com | _nothing found_ | e-Books - of general-world.com |
-| http://www.audiopoisk.com | _nothing found_ | audio |
-| http://cloud-vibe.com | _nothing found_ | audio - may be related to mp3vampire.com |
-| http://mp3bear.to | _nothing found_ | audio |
-| http://mp3-center.net/ | _nothing found_ | audio |
-| https://mp3skull.is | _nothing found_ | audio |
-| http://muzoferma.com/ | _nothing found_ | audio |
-| http://vmp3.eu | _nothing found_ | audio |
-| http://xmusic.me | _nothing found_ | audio |
 
 ### Images
 
@@ -59,6 +51,14 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://wikibit.me | | Meta engine. Very hard to find what is useful and what is not |
 | http://ccmixter.org/ | | |
 | http://www.myfreemp3x.com/ | | |
+| http://www.audiopoisk.com |  | |
+| http://cloud-vibe.com |  | may be related to mp3vampire.com |
+| http://mp3bear.to |  | |
+| http://mp3-center.net |  | |
+| https://mp3skull.is |  | |
+| http://muzoferma.com/ |  | |
+| http://vmp3.eu |  | |
+| http://xmusic.me |  | |
 
 ### News
 
