@@ -25,6 +25,17 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.torrentdownloads.me | _nothing found_ | |
 | http://www.torrentreactor.net | _nothing found_ | |
 | http://www.limetorrents.cc | _nothing found_ | |
+| http://www.filespump.net | _nothing found_ | e-Books |
+| http://www.filewatcher.com | _nothing found_ |  |
+| http://www.general-ebooks.com | _nothing found_ | e-Books - of general-world.com |
+| http://www.audiopoisk.com | _nothing found_ | audio |
+| http://cloud-vibe.com | _nothing found_ | audio |
+| http://mp3bear.to | _nothing found_ | audio |
+| http://mp3-center.net/ | _nothing found_ | audio |
+| https://mp3skull.is | _nothing found_ | audio |
+| http://muzoferma.com/ | _nothing found_ | audio |
+| http://vmp3.eu | _nothing found_ | audio - may be related to mp3vampire.com |
+| http://xmusic.me | _nothing found_ | audio |
 
 ### Images
 
