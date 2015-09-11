@@ -25,9 +25,11 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.torrentdownloads.me | _nothing found_ | |
 | http://www.torrentreactor.net | _nothing found_ | |
 | http://www.limetorrents.cc | _nothing found_ | |
-| http://www.filespump.net | _nothing found_ | e-Books |
-| http://www.filewatcher.com | _nothing found_ |  |
-| http://www.general-ebooks.com | _nothing found_ | e-Books - of general-world.com |
+| http://www.filespump.net |  | e-Books |
+| http://www.filewatcher.com |  |  |
+| http://www.general-ebooks.com |  | e-Books - of general-world.com |
+| http://del.icio.us |  | [using operators](http://lifehacker.com/136578/geek-to-live--find-free-music-on-the-web) |
+| http://www.google.com |  | [using operators](http://www.marcandangel.com/2006/10/13/turn-google-into-napster-2000/) |
 
 ### Images
 
@@ -51,14 +53,16 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://wikibit.me | | Meta engine. Very hard to find what is useful and what is not |
 | http://ccmixter.org/ | | |
 | http://www.myfreemp3x.com/ | | |
-| http://www.audiopoisk.com |  | |
-| http://cloud-vibe.com |  | may be related to mp3vampire.com |
-| http://mp3bear.to |  | |
-| http://mp3-center.net |  | |
-| https://mp3skull.is |  | |
-| http://muzoferma.com/ |  | |
-| http://vmp3.eu |  | |
-| http://xmusic.me |  | |
+| http://www.audiopoisk.com | | |
+| http://cloud-vibe.com | | may be related to mp3vampire.com |
+| http://mp3bear.to | | |
+| http://mp3-center.net | | |
+| https://mp3skull.is | | |
+| http://muzoferma.com/ | | |
+| http://vmp3.eu | | |
+| http://xmusic.me | | |
+| http://del.icio.us |  | [using operators](http://lifehacker.com/136578/geek-to-live--find-free-music-on-the-web) |
+| http://www.google.com |  | [using operators](http://www.marcandangel.com/2006/10/13/turn-google-into-napster-2000/), similarly to [Singingfish](http://wayback.archive.org/web/20050303052440/http://search.singingfish.com/sfw/home.jsp) |
 
 ### News
 
@@ -73,6 +77,8 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.metacafe.com | _nothing found_  | |
 | http://wikibit.me | |
 | http://blip.tv/ | | |
+| http://del.icio.us |  | [using operators](http://lifehacker.com/136578/geek-to-live--find-free-music-on-the-web) |
+| http://www.google.com |  | [using operators](http://www.marcandangel.com/2006/10/13/turn-google-into-napster-2000/), similarly to [Singingfish](http://wayback.archive.org/web/20050303052440/http://search.singingfish.com/sfw/home.jsp) |
 
 ### Map
 
