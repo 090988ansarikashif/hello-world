@@ -15,6 +15,7 @@
 ### French
 
 * http://korben.info/searx.html
+* https://www.educativite.com/le-meta-moteur-de-recherches-du-futur-searx
 
 ### German
 
