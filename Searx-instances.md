@@ -72,5 +72,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.koehn.com**](https://search.koehn.com) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
 
+* [**some.shady.website/search/**](https://some.shady.website/search/) (as [Hidden Service](https://i43gksam7lhhc3cy.onion/search/))- Issuer : RapidSSL [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=some.shady.website)
+
 
 _Last Tested Aug 27, 2015 - Xeroxxx_
