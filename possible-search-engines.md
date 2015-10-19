@@ -105,3 +105,4 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | https://www.aftership.com/ | https://www.aftership.com/docs/api/4 | package tracker |
 | http://worldwidescience.org | | science search engine |
 | https://wiki.gentoo.org | | Gentoo wiki |
+| https://db.satnogs.org | https://db.satnogs.org/api/ | satellite db (with available rf devices) |
