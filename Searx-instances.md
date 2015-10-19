@@ -74,6 +74,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**some.shady.website/search/**](https://some.shady.website/search/) (as [Hidden Service](https://i43gksam7lhhc3cy.onion/search/)) - Issuer : RapidSSL [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=some.shady.website)
 
-* [**blackholeroutercondition.com/**](https://blackholeroutercondition.com/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=blackholeroutercondition.com)
+* [**blackholeroutercondition.com**](https://blackholeroutercondition.com/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=blackholeroutercondition.com)
 
 _Last Tested Aug 27, 2015 - Xeroxxx_
