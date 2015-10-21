@@ -4,6 +4,7 @@
 
 ### English
 
+* https://www.loganmarchione.com/2015/10/my-searx-instance/
 * https://trisquel.info/en/forum/searx-metasearch-engine
 * http://directory.fsf.org/wiki/Searx.me_search
 * http://libreprojects.net
