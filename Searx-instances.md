@@ -41,8 +41,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.static.lu**](https://search.static.lu/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
 
-* [**searx.libertad.pw**](http://searx.libertad.pw:8008) (as [Hidden Service](http://lxvs6vvxm3yfqw5p.onion/) ) in OpenNIC space: [**searx.libertad.pirate**](http://searx.libertad.pirate:8008) 
-
 * [**posativ.org/search/**](https://posativ.org/search/) (as [Hidden Service](http://i5cmiegzetfzb4h6.onion/search/) - down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=posativ.org)
 
 * [**s3arch.eu**](https://s3arch.eu) (as [Hidden Service](http://eb6w5ctgodhchf3p.onion)) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s3arch.eu&hideResults=on)
