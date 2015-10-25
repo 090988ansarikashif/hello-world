@@ -17,6 +17,7 @@
 
 * http://korben.info/searx.html
 * https://www.educativite.com/le-meta-moteur-de-recherches-du-futur-searx
+* http://www.agoravox.fr/tribune-libre/article/moteurs-de-recherche-alternatifs-173280
 
 ### German
 
