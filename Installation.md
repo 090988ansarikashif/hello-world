@@ -124,7 +124,7 @@ server {
 ```
 Enable the site: 
 ```
-ln -s /etc/nginx/sites-available/searx /etc/nginx/sites-enabled/searx
+sudo ln -s /etc/nginx/sites-available/searx /etc/nginx/sites-enabled/searx
 ```
 Restart service :
 ```sh
