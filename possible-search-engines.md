@@ -30,6 +30,8 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.general-ebooks.com |  | e-Books - of general-world.com |
 | http://del.icio.us |  | [using operators](http://lifehacker.com/136578/geek-to-live--find-free-music-on-the-web) |
 | http://www.google.com |  | [using operators](http://www.marcandangel.com/2006/10/13/turn-google-into-napster-2000/) |
+| http://cydia.saurik.com/ |  | apps |
+| https://f-droid.org/ |  | apps |
 
 ### Images
 
