@@ -7,15 +7,29 @@ General :
 * https://duck.co/duckduckhack/ddh-intro
 * look for http://weboob.org/
 
-Weather :
-* http://openweathermap.org/current
+Air line : 
+* http://openflights.org/data.html#airline
 
-GeoSearch
+Free Software : 
+* https://directory.fsf.org/wiki/Main_Page
+* http://wiki.openwrt.org/start
+* http://www.dd-wrt.com/wiki/index.php/Main_Page
+* https://f-droid.org/wiki/page/Main_Page
+
+GeoSearch : 
 * https://en.wikipedia.org/w/api.php?action=query&list=geosearch&gsradius=10000&gscoord=45.68845|5.915279&gsprop=type
 * https://fr.wikipedia.org/w/api.php?action=query&format=jsonfm&colimit=max&prop=pageimages|coordinates&pithumbsize=180&pilimit=50&generator=geosearch&ggscoord=45.649392|5.859076&ggsradius=10000&ggsnamespace=0&ggslimit=50
 * https://www.mediawiki.org/wiki/Extension:GeoData#list.3Dgeosearch
 * http://wdq.wmflabs.org/
 * Dump : http://download.geonames.org/export/
+
+Lyrics : 
+* http://api.wikia.com/wiki/LyricWiki_API
+* look for XBMC plugins
+
+Movies : 
+* Dump : http://www.imdb.com/interfaces
+* https://themoviedb.org/documentation/api
 
 Music : 
 * musicbrain : 
@@ -27,22 +41,14 @@ Music :
 * https://www.bandsintown.com/api/overview
 * http://api.bandsintown.com/artists/mbid_86d4e0af-e422-4f17-9f92-733fb0685585/events.xml
 
-Lyrics :
-* http://api.wikia.com/wiki/LyricWiki_API
-* look for XBMC plugins
+Weather : 
+* http://openweathermap.org/current
 
-Wikipedia :
-* Extract to replace duckduckgo definition that exist only in english : http://fr.wikipedia.org/wiki/Sp%C3%A9cial:ApiSandbox#action=query&prop=extracts&format=json&exchars=2000&exlimit=1&exintro=&explaintext=&titles=lazuli
-
-Wikidata :
+Wikidata : 
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Infoboxes 
 * https://www.wikidata.org/wiki/Special:ListDatatypes
 * get wikicommons image : https://tools.wmflabs.org/magnus-toolserver/commonsapi.php
 * properties dump : https://gist.github.com/dalf/2352738491afdb86445a
 
-Air line : 
-* http://openflights.org/data.html#airline
-
-Movies : 
-* Dump : http://www.imdb.com/interfaces
-* https://themoviedb.org/documentation/api
+Wikipedia : 
+* Extract to replace duckduckgo definition that exist only in english : http://fr.wikipedia.org/wiki/Sp%C3%A9cial:ApiSandbox#action=query&prop=extracts&format=json&exchars=2000&exlimit=1&exintro=&explaintext=&titles=lazuli
