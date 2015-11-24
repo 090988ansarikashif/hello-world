@@ -74,4 +74,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**blackholeroutercondition.com**](https://blackholeroutercondition.com/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=blackholeroutercondition.com)
 
+* [**matrix.ac/searx**](https://matrix.ac/searx/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=matrix.ac)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
