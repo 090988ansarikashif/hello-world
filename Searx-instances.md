@@ -12,6 +12,8 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**privatesearch.io**](https://www.privatesearch.io/) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=privatesearch.io&s=104.27.169.157)
 
+* [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
+
 * [**seeks.okhin.fr**](https://seeks.okhin.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
 
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
