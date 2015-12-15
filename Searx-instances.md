@@ -37,7 +37,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.potato.hu**](https://searx.potato.hu) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.potato.hu)
 
-* [**searx.32bitflo.at**](https://searx.32bitflo.at) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at&hideResults=on)
+* [**searx.32bitflo.at**](https://searx.32bitflo.at) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at)
 
 * [**searx.jeanphilippemorvan.info**](https://searx.jeanphilippemorvan.info/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.jeanphilippemorvan.info)
 
