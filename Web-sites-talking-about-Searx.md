@@ -18,6 +18,8 @@
 * http://korben.info/searx.html
 * https://www.educativite.com/le-meta-moteur-de-recherches-du-futur-searx
 * http://www.agoravox.fr/tribune-libre/article/moteurs-de-recherche-alternatifs-173280
+* http://linuxfr.org/news/se-passer-de-google-facebook-et-autres-big-brothers-2-0-1-les-moteurs-de-recherche#seeks
+* http://framacloud.org/cultiver-son-jardin/installation-de-searx/
 
 ### German
 
@@ -25,6 +27,7 @@
 * http://serversupportforum.de/forum/plesk/57259-searx-uwsgi-apache-vhost-conf.html
 * http://linuxundich.de/gnu-linux/open-source-metasuchmaschine-searx-unter-debian-oder-ubuntu-installieren
 * https://thomas-leister.de/open-source/linux/server/searx-ip-adressen-im-uwsgi-log-anonymisieren
+* http://www.oe5tpo.com/117-searx-intro.html
 
 ### Russian
 * http://www.opennet.ru/opennews/art.shtml?num=41624 - searx 0.7 announce
