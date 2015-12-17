@@ -1,5 +1,5 @@
 Here we can store sites, which could be useful as engine and waiting for an implementation.  
-Ideas of search engines can be found here : https://duckduckgo.com/bang.html, there: https://en.wikipedia.org/wiki/List_of_search_engines, and there http://www.searchenginecolossus.com/
+Ideas of search engines can be found here : https://duckduckgo.com/bang.html, there: https://en.wikipedia.org/wiki/List_of_search_engines, there http://www.searchenginecolossus.com/, and there http://www.metasuchmaschine.org/
 
 and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feeds for different sites)
 
