@@ -1,6 +1,7 @@
 ### Chinese
 
 * http://tieba.baidu.com/p/4012518947
+* http://yidoubi.com/1579.html
 
 ### English
 
