@@ -80,4 +80,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**matrix.ac/searx**](https://matrix.ac/searx/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=matrix.ac)
 
+* [**search.notoriousdev.com**](https://search.notoriousdev.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.notoriousdev.com)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
