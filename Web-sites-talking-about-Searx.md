@@ -1,3 +1,6 @@
+### Tools
+* https://github.com/ik9999/searx-term
+
 ### Chinese
 
 * http://tieba.baidu.com/p/4012518947
