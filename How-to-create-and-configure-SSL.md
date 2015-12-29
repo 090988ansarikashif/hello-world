@@ -14,7 +14,12 @@ openssl genrsa -out searx.key 4096
 
 **SHA256**
 ```
-openssl req -new -key searx.key -out searx.csr -new -sha256
+openssl req -new -x509 -key searx.key -out searx.crt -sha256
+```
+
+**SHA512**
+```
+openssl req -new -x509 -key searx.key -out searx.crt -sha512
 ```
 
 ## Apache Configuration
@@ -44,10 +49,32 @@ SSLCipherSuite ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-R
 
 **OCSP Stapling**
 
+## nginx Configuration
+https://cipherli.st/
+
+**recommended ssl params (strict)**
+```
+ssl_protocols TLSv1.2;
+ssl_ciphers "ECDHE-RSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256";
+ssl_prefer_server_ciphers on;
+ssl_ecdh_curve secp384r1;
+
+ssl_session_cache shared:SSL:10m;
+ssl_session_timeout 10m;
+ssl_session_tickets off;
+
+add_header Strict-Transport-Security "max-age=31536000";
+add_header X-Frame-Options SAMEORIGIN;
+add_header X-Content-Type-Options nosniff;
+```
+
+This provide strong security, but you should take a look. Use `ECDHE-RSA-CHACHA20-POLY1305` cipher if you're using nginx linked against LibreSSL.
+
 ## SSL Configuration test
 
 * https://www.ssllabs.com/ssltest
 * https://sslcheck.globalsign.com
+* https://tls.imirhil.fr/
 
 ## Free SSL-Certificate Authorities
 
@@ -71,7 +98,10 @@ Add the folllowing command into your apache configuration:
 SSLCertificateChainFile /etc/ssl/certs/sub.class1.server.ca.pem
 ```
 
-TODO: Ngnix
+Add the folllowing command into your apache configuration:
+```
+ssl_certificate /etc/ssl/certs/sub.class1.server.ca.pem
+```
 
 ### Let's Encrypt
 
