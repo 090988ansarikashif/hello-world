@@ -1,0 +1,1 @@
+See https://asciimoo.github.io/searx/dev/install/installation.html
