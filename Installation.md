@@ -7,9 +7,9 @@ Make sure you have installed [Docker](https://docs.docker.com/engine/installatio
 docker pull wonderfall/searx
 docker run -d --name searx -p $PORT:8888 wonderfall/searx
 ```
-Go to [http://localhost:$PORT](http://localhost:$PORT). See https://hub.docker.com/u/wonderfall/ for more informations.
+Go to [http://localhost:$PORT](http://localhost:$PORT). See https://hub.docker.com/r/wonderfall/searx/ for more informations.
 
-It's also possible to build searx from the embedded Dockerfile.  I don't recommend this Dockerfile since it could be much lighter (~85MB for wonderfall/searx compared to ~440MB for this one).
+It's also possible to build searx from the embedded Dockerfile (could be lighter).
 ```
 git clone https://github.com/asciimoo/searx.git
 cd searx
