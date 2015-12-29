@@ -11,7 +11,7 @@ Go to [http://localhost:$PORT](http://localhost:$PORT).
 
 See https://hub.docker.com/r/wonderfall/searx/ for more informations.
 
-It's also possible to build searx from the embedded Dockerfile (could be lighter).
+It's also possible to build searx from the embedded Dockerfile.
 ```
 git clone https://github.com/asciimoo/searx.git
 cd searx
