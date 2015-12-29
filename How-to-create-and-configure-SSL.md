@@ -98,7 +98,7 @@ Add the folllowing command into your apache configuration:
 SSLCertificateChainFile /etc/ssl/certs/sub.class1.server.ca.pem
 ```
 
-Add the folllowing command into your apache configuration:
+Add the folllowing command into your nginx configuration:
 ```
 ssl_certificate /etc/ssl/certs/sub.class1.server.ca.pem
 ```
