@@ -3,8 +3,8 @@
 
 ## admin documentation
 * [Installation and setup guide](https://github.com/asciimoo/searx/wiki/Installation)
-* [Informations on the settings.yml file](https://github.com/asciimoo/searx/wiki/settings.yml)
-* [Some informations about SSL](https://github.com/asciimoo/searx/wiki/How-to-create-and-configure-SSL)
+* [Information on the settings.yml file](https://github.com/asciimoo/searx/wiki/settings.yml)
+* [Some information about SSL](https://github.com/asciimoo/searx/wiki/How-to-create-and-configure-SSL)
 
 ## developer documentation
 * [Compiling Styles](https://github.com/asciimoo/searx/wiki/Styles)
