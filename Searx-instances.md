@@ -82,4 +82,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**www.ready.pm**](https://www.ready.pm) - Issuer : WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
+* [**searx.brihx.fr**](https://searx.brihx.fr/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.brihx.fr)
+
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
