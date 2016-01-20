@@ -6,6 +6,8 @@ Up-to-date health report available on: http://stats.searx.oe5tpo.com
 Some of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
+* [**search.blackit.de**](https://search.blackit.de/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
+
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me&s=194.150.168.104)
 
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
