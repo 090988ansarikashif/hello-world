@@ -15,15 +15,6 @@ and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feed
 | https://www.mojeek.com/ | https://mojeek.com/services/api.html | |
 | https://oscobo.co.uk/ | | |
 
-### Apps
-
-| site-url | api-doc (if available) | comments |
-| -------- | ---------------------- | -------- |
-| https://apkpure.com/ |  | apps |
-| http://appmarketapk.com/ |  | apps |
-| http://cydia.saurik.com/ |  | apps |
-| https://f-droid.org/ |  | apps |
-
 ### Files
 
 Note: https://torrentz.eu/help#indexed show what torrent engines could be implemented
@@ -39,7 +30,16 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.filewatcher.com |  |  |
 | http://www.general-ebooks.com |  | e-Books - of general-world.com |
 
-### Files (extra)
+### Files (Apps)
+
+| site-url | api-doc (if available) | comments |
+| -------- | ---------------------- | -------- |
+| https://apkpure.com/ |  | Android |
+| http://appmarketapk.com/ |  | Android |
+| http://cydia.saurik.com/ |  | iOS |
+| https://f-droid.org/ |  | Android |
+
+### Files (HTTP)
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
