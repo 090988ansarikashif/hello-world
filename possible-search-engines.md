@@ -9,9 +9,20 @@ and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feed
 | -------- | ---------------------- | -------- |
 | https://search.disconnect.me/ | | support google, bing, yahoo and blekko queries |
 | http://dogpile.com/ http://www.zoo.com/ http://webcrawler.com/ | | provide results from google and yahoo |
-| https://millionshort.com/ https://milliontall.com/ | | |
 | http://exalead.com/search/ | | has spam protection with captcha |
+| https://izsearch.com/ | | |
+| https://millionshort.com/ https://milliontall.com/ | | |
 | https://www.mojeek.com/ | https://mojeek.com/services/api.html | |
+| https://oscobo.co.uk/ | | |
+
+### Apps
+
+| site-url | api-doc (if available) | comments |
+| -------- | ---------------------- | -------- |
+| https://apkpure.com/ |  | apps |
+| http://appmarketapk.com/ |  | apps |
+| http://cydia.saurik.com/ |  | apps |
+| https://f-droid.org/ |  | apps |
 
 ### Files
 
@@ -27,10 +38,13 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.filespump.net |  | e-Books |
 | http://www.filewatcher.com |  |  |
 | http://www.general-ebooks.com |  | e-Books - of general-world.com |
+
+### Files (extra)
+
+| site-url | api-doc (if available) | comments |
+| -------- | ---------------------- | -------- |
 | http://del.icio.us |  | [using operators](http://lifehacker.com/136578/geek-to-live--find-free-music-on-the-web) |
 | http://www.google.com |  | [using operators](http://www.marcandangel.com/2006/10/13/turn-google-into-napster-2000/) |
-| http://cydia.saurik.com/ |  | apps |
-| https://f-droid.org/ |  | apps |
 
 ### Images
 
