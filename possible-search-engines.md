@@ -121,4 +121,5 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://worldwidescience.org | | science search engine |
 | https://wiki.gentoo.org | | Gentoo wiki |
 | https://db.satnogs.org | https://db.satnogs.org/api/ | satellite db (with available rf devices) |
-| http://spaceapi.net | status and informations about hackerspaces |
+| http://spaceapi.net | | status and informations about hackerspaces |
+| https://www.frinkiac.com | | simpsons search engine |
