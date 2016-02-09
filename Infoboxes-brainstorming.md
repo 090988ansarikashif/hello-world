@@ -32,6 +32,9 @@ Movies :
 * https://themoviedb.org/documentation/api
 
 Music : 
+* Icecast streaming directory : 
+* http://dir.xiph.org/by_genre/Classical
+* http://dir.xiph.org/search?search=Classics
 * musicbrain : 
 * https://musicbrainz.org/doc/MusicBrainz_Picard/Plugins/API
 * https://musicbrainz.org/ws/2/url?resource=http://en.wikipedia.org/wiki/The_Flower_Kings
