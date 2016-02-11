@@ -32,6 +32,7 @@
 * http://linuxundich.de/gnu-linux/open-source-metasuchmaschine-searx-unter-debian-oder-ubuntu-installieren
 * https://thomas-leister.de/open-source/linux/server/searx-ip-adressen-im-uwsgi-log-anonymisieren
 * http://www.oe5tpo.com/117-searx-intro.html
+* https://digitalcourage.de/support/es-geht-auch-ohne-google-alternative-suchmaschinen
 
 ### Russian
 * http://www.opennet.ru/opennews/art.shtml?num=41624 - searx 0.7 announce
