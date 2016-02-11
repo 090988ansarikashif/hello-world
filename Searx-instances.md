@@ -92,4 +92,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.drakonix.net**](https://searx.drakonix.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
 
+* [**www.heraut.eu/search/**](https://www.heraut.eu/search/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.heraut.eu)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
