@@ -122,3 +122,4 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | https://wiki.gentoo.org | | Gentoo wiki |
 | https://db.satnogs.org | https://db.satnogs.org/api/ | satellite db (with available rf devices) |
 | http://spaceapi.net | | status and informations about hackerspaces |
+| http://www.navitia.io | | public transport API |
