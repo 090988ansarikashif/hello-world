@@ -6,8 +6,6 @@ Up-to-date health report available on: http://stats.searx.oe5tpo.com
 Some of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
-* [**searx.4ray.co**](https://searx.4ray.co/) - Issuer : Let's Encrypt
-
 * [**search.blackit.de**](https://search.blackit.de/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
 
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me&s=194.150.168.104)
@@ -96,5 +94,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**searx.drakonix.net**](https://searx.drakonix.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
 
 * [**www.heraut.eu/search/**](https://www.heraut.eu/search/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.heraut.eu)
+
+* [**searx.4ray.co**](https://searx.4ray.co/) - Issuer : Let's Encrypt
 
 _Last Tested Aug 27, 2015 - Xeroxxx_
