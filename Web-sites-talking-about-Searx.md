@@ -34,6 +34,10 @@
 * http://www.oe5tpo.com/117-searx-intro.html
 * https://digitalcourage.de/support/es-geht-auch-ohne-google-alternative-suchmaschinen
 
+### Italian
+
+* http://signord.tevac.com/2014/10/01/motori-di-ricerca-alternativi
+
 ### Russian
 * http://www.opennet.ru/opennews/art.shtml?num=41624 - searx 0.7 announce
 * https://www.linux.org.ru/news/opensource/11931853 - searx 0.8 announce
