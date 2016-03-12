@@ -97,4 +97,5 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.4ray.co**](https://searx.4ray.co/) (as [Hidden Service](http://a23g57f2mtcsz7qw.onion/)) - Issuer : Let's Encrypt
 
+* [**searx.aquilenet.fr**](https://searx.aquilenet.fr/) - Issuer : Let's Encrypt
 _Last Tested Aug 27, 2015 - Xeroxxx_
