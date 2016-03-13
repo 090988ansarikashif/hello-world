@@ -95,7 +95,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**www.heraut.eu/search/**](https://www.heraut.eu/search/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.heraut.eu)
 
-* [**searx.4ray.co**](https://searx.4ray.co/) (as [Hidden Service](http://a23g57f2mtcsz7qw.onion/)) - Issuer : Let's Encrypt
+* [**searx.4ray.co**](https://searx.4ray.co/) (as [Hidden Service](http://a23g57f2mtcsz7qw.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.4ray.co)
 
 * [**searx.aquilenet.fr**](https://searx.aquilenet.fr/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.aquilenet.fr)
 
