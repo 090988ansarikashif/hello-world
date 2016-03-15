@@ -56,7 +56,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.kiberpipa.org**](https://searx.kiberpipa.org) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kiberpipa.org)
 
-* [**quackquackgo.nl**](https://quackquackgo.nl/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=quackquackgo.nl)
+* [**quackquackgo.nl**](https://quackquackgo.nl/search) - (online) Issuer : GANDI SAS [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=quackquackgo.nl)
 
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 
