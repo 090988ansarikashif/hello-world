@@ -3,6 +3,8 @@ Ideas of search engines can be found here : https://duckduckgo.com/bang.html, th
 
 and also from there: https://github.com/sebsauvage/rss-bridge (generate rss-feeds for different sites)
 
+Also this list of publicly available APIs may be of use: https://github.com/toddmotto/public-apis
+
 ### General
 
 | site-url | api-doc (if available) | comments |
