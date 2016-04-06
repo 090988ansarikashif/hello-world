@@ -8,6 +8,7 @@
 
 ### English
 
+* https://kbsource.org/searx-0-8-1-meta-search-engine-debian-8-3/
 * https://www.loganmarchione.com/2015/10/my-searx-instance/
 * https://trisquel.info/en/forum/searx-metasearch-engine
 * http://directory.fsf.org/wiki/Searx.me_search
