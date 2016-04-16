@@ -25,7 +25,9 @@
 | dailymotion | videos | online video ||
 | google play movies | videos | video on demand ||
 | kickass | videos, music, files | file to download ||
+| piratebay | videos, music, files | file to download ||
 | subtitleseeker | videos | subtitles ||
+| torrentz | videos, music, files | file to download ||
 | vimeo | videos | online video ||
 | youtube | videos, music | online video ||
 
@@ -34,5 +36,11 @@
 | -------- | ---------------------- | -------- | -------- |
 | digg | news, social media | web links with thumbnail | use the videos.html template to display thumbnail |
 
+## Mostly apps
+| name | categories | result type | comments |
+| -------- | ---------------------- | -------- | -------- |
+| fdroid | files | apps to download ||
+| play apps | files | apps to download ||
 
-(may be this page should be automaticaly generated)
+
+# (may be this page should be automatically generated)
