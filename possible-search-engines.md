@@ -24,6 +24,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
+| http://burnbit.com |  | is a metasearch-engine for files for which it provides torrents of |
 | https://torrentz.eu | _nothing found_ | is a metasearch-engine for torrents |
 | http://bitsnoop.com | http://bitsnoop.com/info/api.html | currently, I can not open that website ( 15 Dec 2014) |
 | http://www.torrentdownloads.me | _nothing found_ | |
