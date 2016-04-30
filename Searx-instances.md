@@ -105,4 +105,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**iguana.cubeclan.ch/searx**](https://iguana.cubeclan.ch/searx) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=iguana.cubeclan.ch)
 
+* [**seeks.ru**](https://seeks.ru/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.ru)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
