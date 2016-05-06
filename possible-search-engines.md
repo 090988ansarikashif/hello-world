@@ -23,7 +23,8 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 Note: https://torrentz.eu/help#indexed show what torrent engines could be implemented
 
 | site-url | api-doc (if available) | comments |
-| -------- | ---------------------- | -------- |
+| -------- | ---------------------- | ———— |
+| http://bitcq.com | not available | torrent meta-search engine, more efficient than torrentz |
 | http://burnbit.com |  | is a metasearch-engine for files for which it provides torrents of |
 | https://torrentz.eu | _nothing found_ | is a metasearch-engine for torrents |
 | http://bitsnoop.com | http://bitsnoop.com/info/api.html | currently, I can not open that website ( 15 Dec 2014) |
@@ -73,7 +74,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://ccmixter.org/ | | |
 | http://www.myfreemp3x.com/ | | |
 | http://www.audiopoisk.com | | |
-| http://cloud-vibe.com | | may be related to mp3vampire.com |
+| http://butt-vibe.com | | may be related to mp3vampire.com |
 | http://mp3bear.to | | |
 | http://mp3-center.net | | |
 | https://mp3skull.is | | |
