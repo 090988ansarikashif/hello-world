@@ -24,7 +24,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | ———— |
-| http://bitcq.com |  | not available | torrent meta-search engine, more efficient than torrentz |
+| http://bitcq.com | not available | torrent meta-search engine, more efficient than torrentz |
 | http://burnbit.com |  | is a metasearch-engine for files for which it provides torrents of |
 | https://torrentz.eu | _nothing found_ | is a metasearch-engine for torrents |
 | http://bitsnoop.com | http://bitsnoop.com/info/api.html | currently, I can not open that website ( 15 Dec 2014) |
