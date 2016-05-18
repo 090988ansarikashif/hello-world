@@ -17,6 +17,7 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 | https://www.mojeek.com/ | https://mojeek.com/services/api.html | |
 | https://oscobo.co.uk/ | | |
 | https://about.commonsearch.org/| | |
+| http://mamma.com | | Meta search engine |
 
 ### Files
 
@@ -26,7 +27,6 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | -------- | ---------------------- | -------- |
 | http://bitcq.com | not available | torrent meta-search engine, more efficient than torrentz |
 | http://burnbit.com |  | is a metasearch-engine for files for which it provides torrents of |
-| https://torrentz.eu | _nothing found_ | is a metasearch-engine for torrents |
 | http://bitsnoop.com | http://bitsnoop.com/info/api.html | currently, I can not open that website ( 15 Dec 2014) |
 | http://www.torrentdownloads.me | _nothing found_ | |
 | http://www.torrentreactor.net | _nothing found_ | |
