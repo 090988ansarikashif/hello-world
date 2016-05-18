@@ -68,7 +68,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 ### Music
 
 | site-url | api-doc (if available) | comments |
-| -------- | ---------------------- | ———— |
+| -------- | ---------------------- | -------- |
 | https://www.jamendo.com | https://developer.jamendo.com/v3.0 | | |
 | https://bandcamp.com/ | https://bandcamp.com/developer | | |
 | http://wikibit.me | | Meta engine. Very hard to find what is useful and what is not |
@@ -116,7 +116,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 ### Other
 
 | site-url | api-doc (if available) | comments |
-| -------- | ---------------------- | ———— |
+| -------- | ---------------------- | -------- |
 | http://www.imdb.com/ | | internet movie data base |
 | http://www.blinkx.com | | find a/v snippets from quotes |
 | http://octopart.com | http://octopart.com/api/home | electronic parts|
