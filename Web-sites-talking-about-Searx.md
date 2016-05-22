@@ -25,6 +25,7 @@
 * http://www.agoravox.fr/tribune-libre/article/moteurs-de-recherche-alternatifs-173280
 * http://linuxfr.org/news/se-passer-de-google-facebook-et-autres-big-brothers-2-0-1-les-moteurs-de-recherche#seeks
 * http://framacloud.org/cultiver-son-jardin/installation-de-searx/
+* https://www.pastoutdesuite.fr/cher-google-pars/
 
 ### German
 
