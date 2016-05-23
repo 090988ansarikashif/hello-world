@@ -87,7 +87,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.brihx.fr**](https://searx.brihx.fr/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.brihx.fr)
 
-* [**searx.nulltime.net**](https://searx.nulltime.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)
+* [**searx.nulltime.net**](https://searx.nulltime.net) (as [Hidden Service](http://tyhmt6byxvxja5ut.onion/))- Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)
 
 * [**searx.schrodinger.io**](https://searx.schrodinger.io) (as [Hidden Service](https://searx.cat33n6res5cmgh3.onion)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.schrodinger.io)
 
