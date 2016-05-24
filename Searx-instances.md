@@ -73,7 +73,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.jollausers.de**](https://search.jollausers.de) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
 
-* [**searx.fossencdi.org**](https://searx.fossencdi.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
+* [**searx.fossencdi.org**](https://searx.fossencdi.org) (as [Hidden Service](http://searx.cwuzdtzlubq5uual.onion/)) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
 
 * [**search.koehn.com**](https://search.koehn.com) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
 
