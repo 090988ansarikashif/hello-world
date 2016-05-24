@@ -10,6 +10,8 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me&s=194.150.168.104)
 
+* [**searx.mircloud.host**](https://searx.mircloud.host) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.mircloud.host)
+
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
 
 * [**privatesearch.io**](https://www.privatesearch.io/) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=privatesearch.io&s=104.27.169.157)
