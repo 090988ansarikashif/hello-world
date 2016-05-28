@@ -18,8 +18,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
 
-* [DEAD] [**seeks.okhin.fr**](https://seeks.okhin.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
-
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
 
 * [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
@@ -63,6 +61,8 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 
 * [**searx.scriptores.com**](https://searx.scriptores.com/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.scriptores.com)
+
+* [**seeks.okhin.fr**](https://seeks.okhin.fr/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
 
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
 
