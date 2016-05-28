@@ -18,7 +18,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
 
-* [**seeks.okhin.fr**](https://seeks.okhin.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
+* [DEAD] [**seeks.okhin.fr**](https://seeks.okhin.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
 
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
 
