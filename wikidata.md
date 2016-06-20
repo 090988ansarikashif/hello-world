@@ -122,7 +122,7 @@ Talk about properties that can extracted from wikidata.
 ### Person
 - Place of birth		P19
 - Place of death		P20
-
+- Occupation                    P106
 
 ### Building
 - country			P17
