@@ -3,7 +3,7 @@ Up-to-date health report available on: http://stats.searx.oe5tpo.com
 
 ***
 
-Searx instances [mailing list](searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
+Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
 
 ***
 
