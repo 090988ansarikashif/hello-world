@@ -43,7 +43,6 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | https://apkpure.com/ |  | Android |
 | http://appmarketapk.com/ |  | Android |
 | http://cydia.saurik.com/ |  | iOS |
-| https://f-droid.org/ |  | Android |
 
 ### Files (HTTP)
 
