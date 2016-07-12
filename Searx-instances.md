@@ -113,6 +113,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**seeks.ru**](https://seeks.ru/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.ru)
 
-* [**searx.far37qbrwiredyo5.onion**](http://searx.far37qbrwiredyo5.onion/) (as [Clearnet](http://s.n0.is/))
+* [**searx.far37qbrwiredyo5.onion**](http://searx.far37qbrwiredyo5.onion/)
+* [**s.n0.is**](http://s.n0.is/)
 
 _Last Tested Aug 27, 2015 - Xeroxxx_
