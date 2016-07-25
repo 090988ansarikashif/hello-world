@@ -116,4 +116,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**searx.far37qbrwiredyo5.onion**](http://searx.far37qbrwiredyo5.onion/)
 * [**s.n0.is**](http://s.n0.is/)
 
+* [**search.alecpap.com**](https://search.alecpap.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.alecpap.com)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
