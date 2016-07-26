@@ -35,6 +35,8 @@
 * https://thomas-leister.de/open-source/linux/server/searx-ip-adressen-im-uwsgi-log-anonymisieren
 * http://www.oe5tpo.com/117-searx-intro.html
 * https://digitalcourage.de/support/es-geht-auch-ohne-google-alternative-suchmaschinen
+* http://t3n.de/news/searx-konfigurierbare-suchmaschine-729236/
+* http://www.ifun.de/searx-neue-meta-suchmaschine-mit-unzaehligen-optionen-95358/
 
 ### Italian
 
