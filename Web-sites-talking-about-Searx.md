@@ -1,5 +1,6 @@
 ### Tools
 * https://github.com/ik9999/searx-term
+* https://chrome.google.com/webstore/detail/searx-chrome-extension/ecgofbgdngapmhanfdbkbfpnfeaclkpd
 
 ### Chinese
 
