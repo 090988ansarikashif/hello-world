@@ -19,6 +19,9 @@
 * https://www.reddit.com/r/learnprogramming/comments/3bc9od/can_anyone_explain_searx_ive_been_reading_the
 * https://myshadow.org/searx
 
+### mailing lists
+* https://www.mail-archive.com/tor-bugs@lists.torproject.org/msg100153.html
+
 ### French
 
 * http://korben.info/searx.html
