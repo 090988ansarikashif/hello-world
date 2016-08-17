@@ -19,6 +19,7 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 | https://oscobo.co.uk/ | | |
 | https://about.commonsearch.org/| | |
 | http://mamma.com | | Meta search engine |
+| https://deusu.org | https://github.com/MichaelSchoebel/DeuSu | Open source search engine |
 
 ### Files
 
