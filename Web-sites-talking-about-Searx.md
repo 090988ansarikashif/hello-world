@@ -41,6 +41,7 @@
 * https://digitalcourage.de/support/es-geht-auch-ohne-google-alternative-suchmaschinen
 * http://t3n.de/news/searx-konfigurierbare-suchmaschine-729236/
 * http://www.ifun.de/searx-neue-meta-suchmaschine-mit-unzaehligen-optionen-95358/
+* https://technique-blog.de/searx-eigene-private-suchmaschine/
 
 ### Italian
 
