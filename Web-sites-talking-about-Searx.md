@@ -42,6 +42,8 @@
 * http://t3n.de/news/searx-konfigurierbare-suchmaschine-729236/
 * http://www.ifun.de/searx-neue-meta-suchmaschine-mit-unzaehligen-optionen-95358/
 * https://technique-blog.de/searx-eigene-private-suchmaschine/
+* http://www.golem.de/news/searx-0-10-0-die-eigene-suchmaschine-auf-einem-raspberry-pi-1609-123094.html
+* http://www.heise.de/newsticker/meldung/Searx-0-10-0-Lokale-Websuche-ohne-Filterblase-3315739.html
 
 ### Italian
 
