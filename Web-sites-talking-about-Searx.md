@@ -44,6 +44,7 @@
 * https://technique-blog.de/searx-eigene-private-suchmaschine/
 * http://www.golem.de/news/searx-0-10-0-die-eigene-suchmaschine-auf-einem-raspberry-pi-1609-123094.html
 * http://www.heise.de/newsticker/meldung/Searx-0-10-0-Lokale-Websuche-ohne-Filterblase-3315739.html
+* http://codingworld.io/project/searx-auf-dem-raspberry-pi-installieren
 
 ### Italian
 
