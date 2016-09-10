@@ -18,6 +18,7 @@
 * https://www.reddit.com/r/privacytoolsIO/comments/366kvn/how_to_setup_your_own_privacy_respecting_search
 * https://www.reddit.com/r/learnprogramming/comments/3bc9od/can_anyone_explain_searx_ive_been_reading_the
 * https://myshadow.org/searx
+* http://glynskyandpete.com/2016/08/01/new-search-kid-on-the-block/
 
 ### mailing lists
 * https://www.mail-archive.com/tor-bugs@lists.torproject.org/msg100153.html
