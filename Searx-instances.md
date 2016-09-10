@@ -116,8 +116,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**seeks.ru**](https://seeks.ru/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.ru)
 
-* [**s.n0.is**](https://s.n0.is/) (as [Hidden Service](http://searx.far37qbrwiredyo5.onion/)) - Issuer: Let's Encrypt [Verification] (https://www.ssllabs.com/ssltest/analyze.html?d=s.n0.is)
-
 * [**search.alecpap.com**](https://search.alecpap.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.alecpap.com)
 
 _Last Tested Aug 27, 2015 - Xeroxxx_
