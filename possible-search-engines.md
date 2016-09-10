@@ -114,6 +114,15 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | -------- | ---------------------- | -------- |
 | http://opensearch.krugle.org/ | | |
 
+### Science
+
+| site-url | api-doc (if available) | comments |
+| -------- | ---------------------- | -------- |
+| http://www.pnas.org/ | | Proceedings of the National Academy of Sciences of the United States of America |
+| http://worldwidescience.org | | science search engine |
+| https://cdsweb.cern.ch | | CERN Document Server |
+| https://arxiv.org | | |
+
 ### Other
 
 | site-url | api-doc (if available) | comments |
@@ -129,7 +138,7 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.pipl.com/ | http://dev.pipl.com/io-docs | |
 | http://www.shodanhq.com/ | | security vulnerability search engine |
 | https://www.aftership.com/ | https://www.aftership.com/docs/api/4 | package tracker |
-| http://worldwidescience.org | | science search engine |
+
 | https://wiki.gentoo.org | | Gentoo wiki |
 | https://db.satnogs.org | https://db.satnogs.org/api/ | satellite db (with available rf devices) |
 | http://spaceapi.net | | status and informations about hackerspaces |
