@@ -118,4 +118,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.alecpap.com**](https://search.alecpap.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.alecpap.com)
 
+* [**searx.at**](https://searx.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.at)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
