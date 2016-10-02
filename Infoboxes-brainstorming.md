@@ -42,7 +42,7 @@ Music :
 * https://github.com/ronie/script.cu.lrclyrics/tree/master/resources/lib/culrcscrapers
 * bandsintown :
 * https://www.bandsintown.com/api/overview
-* http://api.bandsintown.com/artists/mbid_86d4e0af-e422-4f17-9f92-733fb0685585/events.xml
+* http://api.bandsintown.com/artists/mbid_65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab/events?format=xml&api_version=2.0&app_id=YOUR_APP_ID ( http://www.bandsintown.com/api/requests#artists-get )
 
 Weather : 
 * http://openweathermap.org/current
