@@ -48,6 +48,7 @@
 * http://www.heise.de/newsticker/meldung/Searx-0-10-0-Lokale-Websuche-ohne-Filterblase-3315739.html
 * http://codingworld.io/project/searx-auf-dem-raspberry-pi-installieren
 * http://www.dimido.de/searx-bau-dir-deine-eigene-suchmaschine-3041
+* http://www.golem.de/news/howto-goodbye-google-suchmaschinen-selber-hosten-1610-123482.html
 
 ### Italian
 
