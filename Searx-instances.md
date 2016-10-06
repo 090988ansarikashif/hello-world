@@ -126,4 +126,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
 
+* [**search.8892.ch**](https://search.8892.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.8892.ch)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
