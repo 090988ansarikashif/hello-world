@@ -128,4 +128,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.8892.ch**](https://search.8892.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.8892.ch)
 
+* [**search.st8.at**](https://search.st8.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.st8.at)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
