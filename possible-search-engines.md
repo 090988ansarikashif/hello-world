@@ -138,7 +138,6 @@ Note: https://torrentz.eu/help#indexed show what torrent engines could be implem
 | http://www.pipl.com/ | http://dev.pipl.com/io-docs | |
 | http://www.shodanhq.com/ | | security vulnerability search engine |
 | https://www.aftership.com/ | https://www.aftership.com/docs/api/4 | package tracker |
-
 | https://wiki.gentoo.org | | Gentoo wiki |
 | https://db.satnogs.org | https://db.satnogs.org/api/ | satellite db (with available rf devices) |
 | http://spaceapi.net | | status and informations about hackerspaces |
