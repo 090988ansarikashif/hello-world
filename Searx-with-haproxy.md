@@ -25,6 +25,10 @@
     backend other_site
        server nginx [...]
 
+`127.0.0.1:8888` is the address/port where searx is listening for connections.
+
+The `maxconn` parameter defines the the concurrent connection limit that haproxy will accept in order to prevent abuse. For a single user searx instance `maxconn 10` will suffice.
+
 ## Static asset compression
 Modify the searx backend declared in haproxy by adding the following
 
