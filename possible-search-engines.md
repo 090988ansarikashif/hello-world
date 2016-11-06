@@ -23,7 +23,7 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 
 ### Files
 
-Note: https://torrentz.eu/help#indexed show what torrent engines could be implemented
+Note: https://torrentz2.eu/help#indexed show what torrent engines could be implemented
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
