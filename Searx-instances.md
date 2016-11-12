@@ -133,9 +133,12 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**search.st8.at**](https://search.st8.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.st8.at)
 
 * [**search.r3d007.com**](https://search.r3d007.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=r3d007.com)
+
 * [**search.kosebamse.com**](https://search.kosebamse.com/) - Issuer: GlobalSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
 
 * [**perfectpixel.de/searx**](https://www.perfectpixel.de/searx/) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
+
+* [**search.paviro.de**](https://search.paviro.de) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paviro.de)
 
 
 _Last Tested Aug 27, 2015 - Xeroxxx_
