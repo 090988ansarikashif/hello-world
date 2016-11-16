@@ -140,5 +140,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.paviro.de**](https://search.paviro.de) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paviro.de)
 
+* [**searx.infini.fr**](https://searx.infini.fr) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.infini.fr)
 
 _Last Tested Aug 27, 2015 - Xeroxxx_
