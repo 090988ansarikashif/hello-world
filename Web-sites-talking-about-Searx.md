@@ -20,6 +20,7 @@
 * https://myshadow.org/searx
 * http://glynskyandpete.com/2016/08/01/new-search-kid-on-the-block/
 * https://islandearth.com/2016/09/03/searx-for-anonymous-search/
+* http://www.linux-magazine.com/Issues/2017/194/Charly-s-Column-Searx
 
 ### mailing lists
 * https://www.mail-archive.com/tor-bugs@lists.torproject.org/msg100153.html
