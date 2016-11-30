@@ -10,11 +10,12 @@ Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscrip
 Some of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
+* [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
+
 * [**OpenGO**](https://www.opengo.nl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl) 
 
 * [**searx.ch**](https://searx.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ch) 
 
-* [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
 
 * [**citizen-cam.de**](https://citizen-cam.de/) (as [Hidden Service](http://eljwdzi4pgrrlwwq.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=citizen-cam.de)
 
