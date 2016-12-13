@@ -99,7 +99,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**some.shady.website/search/**](https://some.shady.website/search/) (as [Hidden Service](https://i43gksam7lhhc3cy.onion/search/)) - Issuer : RapidSSL [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=some.shady.website)
 
-* [**search.matrix.ac**](https://searx.matrix.ac) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=matrix.ac)
+* [**search.matrix.ac**](https://search.matrix.ac) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=matrix.ac)
 
 * [**search.notoriousdev.com**](https://search.notoriousdev.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.notoriousdev.com)
 
