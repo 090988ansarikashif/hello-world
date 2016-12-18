@@ -142,3 +142,4 @@ Note: https://torrentz2.eu/help#indexed show what torrent engines could be imple
 | https://db.satnogs.org | https://db.satnogs.org/api/ | satellite db (with available rf devices) |
 | http://spaceapi.net | | status and informations about hackerspaces |
 | http://www.navitia.io | | public transport API |
+| https://github.com/golastmile/rasa_nlu | | can parse "show me a mexican place in the centre" |
