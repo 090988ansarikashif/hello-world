@@ -32,8 +32,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
 
-* [**privatesearch.io**](https://www.privatesearch.io/) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=privatesearch.io&s=104.27.169.157)
-
 * [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
 
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
