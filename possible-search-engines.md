@@ -122,6 +122,7 @@ Note: https://torrentz2.eu/help#indexed show what torrent engines could be imple
 | http://worldwidescience.org | | science search engine |
 | https://cdsweb.cern.ch | | CERN Document Server |
 | https://arxiv.org | | |
+| https://www.findlectures.com/ | | |
 
 ### Other
 
