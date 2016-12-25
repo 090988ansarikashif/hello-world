@@ -1,6 +1,7 @@
 ### Tools
 * https://github.com/ik9999/searx-term
 * https://chrome.google.com/webstore/detail/searx-chrome-extension/ecgofbgdngapmhanfdbkbfpnfeaclkpd
+* https://github.com/fuerbringer/searxbot
 
 ### Chinese
 
@@ -21,6 +22,7 @@
 * http://glynskyandpete.com/2016/08/01/new-search-kid-on-the-block/
 * https://islandearth.com/2016/09/03/searx-for-anonymous-search/
 * http://www.linux-magazine.com/Issues/2017/194/Charly-s-Column-Searx
+* https://www.bestvpn.com/privacy-search-engines/
 
 ### mailing lists
 * https://www.mail-archive.com/tor-bugs@lists.torproject.org/msg100153.html
