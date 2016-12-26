@@ -143,4 +143,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.hzsogood.net**](https://search.hzsogood.net/) - Issuer : COMODO (Cloudflare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.hzsogood.net)
 
+* [**searx.kvch.me**](https://searx.kvch.me) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kvch.me)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
