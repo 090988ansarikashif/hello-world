@@ -145,4 +145,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.kvch.me**](https://searx.kvch.me) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kvch.me)
 
+* [**searx.com.au**](https://searx.com.au) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
