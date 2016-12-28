@@ -147,4 +147,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.com.au**](https://searx.com.au) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
 
+* [**s.cforrester.ca**](https://s.cforrester.ca/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.cforrester.ca)
+
 _Last Tested Aug 27, 2015 - Xeroxxx_
