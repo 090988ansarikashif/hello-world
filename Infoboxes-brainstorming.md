@@ -52,6 +52,7 @@ Wikidata :
 * https://www.wikidata.org/wiki/Special:ListDatatypes
 * get wikicommons image : https://tools.wmflabs.org/magnus-toolserver/commonsapi.php
 * properties dump : https://gist.github.com/dalf/2352738491afdb86445a
+* https://wiki.openstreetmap.org/wiki/WIWOSM#Wikidata (for example https://tools.wmflabs.org/wiwosm/osmjson/getGeoJSON.php?lang=wikidata&article=Q63524 )
 
 Wikipedia : 
 * Extract to replace duckduckgo definition that exist only in english : http://fr.wikipedia.org/wiki/Sp%C3%A9cial:ApiSandbox#action=query&prop=extracts&format=json&exchars=2000&exlimit=1&exintro=&explaintext=&titles=lazuli
