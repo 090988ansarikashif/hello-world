@@ -61,3 +61,4 @@
 * http://www.opennet.ru/opennews/art.shtml?num=41624 - searx 0.7 announce
 * https://www.linux.org.ru/news/opensource/11931853 - searx 0.8 announce
 * http://urbanculture.in/Searx
+* http://mgcore.ru/search-eng/topic-123.html - searx forum discussion
