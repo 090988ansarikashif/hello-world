@@ -97,7 +97,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.fossencdi.org**](https://searx.fossencdi.org) (as [Hidden Service](http://searx.cwuzdtzlubq5uual.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
 
-* [**search.koehn.com**](https://search.koehn.com) (as [Hidden Service](http://7rzci7qamc7ef3qx.onion/)) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
+* [**search.koehn.com**](https://search.koehn.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
 
 * [**some.shady.website/search/**](https://some.shady.website/search/) (as [Hidden Service](https://i43gksam7lhhc3cy.onion/search/)) - Issuer : RapidSSL [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=some.shady.website)
 
