@@ -10,6 +10,8 @@ Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscrip
 Some of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
+* [**cryptocartel.com**](https://cryptocartel.com/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=cryptocartel.com) (Tor: [**wscvq7ru5saua556.onion**](http://wscvq7ru5saua556.onion/))
+
 * [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
 
 * [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
