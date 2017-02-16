@@ -158,3 +158,5 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**recherche.monpsc.ca**](https://recherche.monpsc.ca/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=recherche.monpsc.ca)
 
 * [**searx.tognella.com**](https://searx.tognella.com/) - Issuer : CloudFlare 
+
+* [**www.mercurius.space**](https://www.mercurius.space/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.mercurius.space)
