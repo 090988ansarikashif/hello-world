@@ -46,8 +46,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
 
-* [**searx.volcanis.me**](https://searx.volcanis.me) - Issuer : Fondation Root CA (Unknown Certificate Authority) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.volcanis.me)
-
 * [**searx.oe5tpo.com**](https://searx.oe5tpo.com) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.oe5tpo.com)
 
 * [**searx.xyz**](https://searx.xyz) - Issuer : Let's Encrypt
@@ -69,24 +67,12 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.static.lu**](https://search.static.lu/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
 
-* [**posativ.org/search/**](https://posativ.org/search/) (as [Hidden Service](http://i5cmiegzetfzb4h6.onion/search/) - down) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=posativ.org)
-
 * [**s3arch.eu**](https://s3arch.eu) (as [Hidden Service](http://eb6w5ctgodhchf3p.onion)) - Issuer : Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s3arch.eu&hideResults=on)
 
 * [**search.deblan.org**](https://search.deblan.org/) (down) - Issuer : COMODO via GANDI [Verification] (https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
 
-* [**search.viewskew.com**](https://search.viewskew.com/) (down) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.viewskew.com)
-
-* [**searx.kiberpipa.org**](https://searx.kiberpipa.org) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kiberpipa.org)
-
-* [**quackquackgo.nl**](https://quackquackgo.nl/search) - (online) Issuer : GANDI SAS [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=quackquackgo.nl)
-
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
-
-* [**searx.scriptores.com**](https://searx.scriptores.com/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.scriptores.com)
-
-* [**seeks.okhin.fr**](https://seeks.okhin.fr/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.okhin.fr)
 
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
 
@@ -100,8 +86,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**searx.fossencdi.org**](https://searx.fossencdi.org) (as [Hidden Service](http://searx.cwuzdtzlubq5uual.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
 
 * [**search.koehn.com**](https://search.koehn.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
-
-* [**some.shady.website/search/**](https://some.shady.website/search/) (as [Hidden Service](https://i43gksam7lhhc3cy.onion/search/)) - Issuer : RapidSSL [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=some.shady.website)
 
 * [**search.matrix.ac**](https://search.matrix.ac) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=matrix.ac)
 
@@ -123,8 +107,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.azkware.net**](https://search.azkware.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.azkware.net)
 
-* [**iguana.cubeclan.ch/searx**](https://iguana.cubeclan.ch/searx) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=iguana.cubeclan.ch)
-
 * [**seeks.ru**](https://seeks.ru/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.ru)
 
 * [**search.alecpap.com**](https://search.alecpap.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.alecpap.com)
@@ -132,8 +114,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**searx.at**](https://searx.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.at)
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
-
-* [**search.8892.ch**](https://search.8892.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.8892.ch)
 
 * [**search.st8.at**](https://search.st8.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.st8.at)
 
@@ -154,8 +134,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**searx.com.au**](https://searx.com.au) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
 
 * [**search.mypsc.ca**](https://search.mypsc.ca/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mypsc.ca)
-
-* [**recherche.monpsc.ca**](https://recherche.monpsc.ca/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=recherche.monpsc.ca)
 
 * [**searx.tognella.com**](https://searx.tognella.com/) - Issuer : CloudFlare 
 
