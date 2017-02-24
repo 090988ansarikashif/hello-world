@@ -87,6 +87,8 @@ SSLCertificateChainFile /etc/letsencrypt/live/www.yourdomain.tld/chain.pem
 </IfModule>
 ```
 
+You need to activate `proxy` and `proxy_http` modules in apache (e.g. with `a2enmod`), as well as `ssl`.
+
 ## nginx Configuration
 https://cipherli.st/
 
@@ -143,9 +145,8 @@ ssl_certificate /etc/ssl/certs/sub.class1.server.ca.pem
 
 ### Let's Encrypt
 
-https://letsencrypt.org
-
-comming soon
+Get SSL certificates for your server for free with https://letsencrypt.org Let's Encrypt campaign. 
+You might want to use certbot, then follow the instructions on the https://certbot.eff.org/ page.
 
 ### GlobalSign
 
