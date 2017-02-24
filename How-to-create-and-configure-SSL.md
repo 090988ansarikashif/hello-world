@@ -49,6 +49,44 @@ SSLCipherSuite ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-R
 
 **OCSP Stapling**
 
+### Apache Reverse Proxy with SSL
+
+You can use Apache as a reverse proxy to handle the SSL, and communicate to your searx instance via http on a local port. Example configuration for apache with letsencrypt might then be like:
+```
+<IfModule mod_ssl.c>
+	<VirtualHost *:443>
+		ServerName searx.yourdomain.tld
+		ServerAdmin webmaster@yourdomain.tld
+		SSLProxyEngine On
+		ProxyRequests Off
+                ProxyPreserveHost On
+                AddDefaultCharset utf-8
+                HostnameLookups off
+                UseCanonicalName off
+                ProxyBadHeader Ignore
+                KeepAlive off
+    		ProxyPass	/	http://localhost:10099/
+    		ProxyPassReverse	/	http://localhost:10099/
+		ErrorLog ${APACHE_LOG_DIR}/error.log
+		CustomLog ${APACHE_LOG_DIR}/access.log combined
+		SSLEngine on
+		SSLCertificateFile	/etc/letsencrypt/live/www.yourdomain.tld/cert.pem
+		SSLCertificateKeyFile /etc/letsencrypt/live/www.yourdomain.tld/privkey.pem
+		<FilesMatch "\.(cgi|shtml|phtml|php)$">
+				SSLOptions +StdEnvVars
+		</FilesMatch>
+		<Directory /usr/lib/cgi-bin>
+				SSLOptions +StdEnvVars
+		</Directory>
+		BrowserMatch "MSIE [2-6]" \
+				nokeepalive ssl-unclean-shutdown \
+				downgrade-1.0 force-response-1.0
+		BrowserMatch "MSIE [17-9]" ssl-unclean-shutdown
+SSLCertificateChainFile /etc/letsencrypt/live/www.yourdomain.tld/chain.pem
+	</VirtualHost>
+</IfModule>
+```
+
 ## nginx Configuration
 https://cipherli.st/
 
