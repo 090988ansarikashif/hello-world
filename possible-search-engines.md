@@ -123,6 +123,7 @@ Note: https://torrentz2.eu/help#indexed show what torrent engines could be imple
 | https://cdsweb.cern.ch | | CERN Document Server |
 | https://arxiv.org | | |
 | https://www.findlectures.com/ | | |
+| https://www.scienceopen.com/search | | |
 
 ### Other
 
