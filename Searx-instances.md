@@ -10,6 +10,8 @@ Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscrip
 Some of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
+* [**rubri.co**](https://rubri.co) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=rubri.co)
+
 * [**search404.io**](https://www.search404.io/) - Issuer : CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io)
 
 * [**cryptocartel.com**](https://cryptocartel.com/) (as [Hidden Service](http://wscvq7ru5saua556.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=cryptocartel.com) 
