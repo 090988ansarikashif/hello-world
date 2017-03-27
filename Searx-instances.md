@@ -10,6 +10,8 @@ Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscrip
 Some of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
+* [**suche.elaon.de**](https://suche.elaon.de) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
+
 * [**rubri.co**](https://rubri.co) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=rubri.co)
 
 * [**search404.io**](https://www.search404.io/) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io)
@@ -39,8 +41,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
 
 * [**searx.space**](https://searx.space) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.space)
-
-* [**suche.elaon.de**](https://suche.elaon.de) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
 
 * [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
 
