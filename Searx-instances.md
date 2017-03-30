@@ -18,7 +18,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**cryptocartel.com**](https://cryptocartel.com/) (as [Hidden Service](http://wscvq7ru5saua556.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=cryptocartel.com) 
 
-* [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
+* **DEAD 2017-03-20** [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
 
 * [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
 
