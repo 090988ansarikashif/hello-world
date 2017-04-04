@@ -10,7 +10,7 @@ Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscrip
 Some of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
-* [**search.gibberfish.org**](https://search.gibberfish.org/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.gibberfish.org)
+* [**search.gibberfish.org**](https://search.gibberfish.org/) (as [Hidden Service](http://o2jdk5mdsijm2b7l.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.gibberfish.org)
 
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
 
