@@ -146,3 +146,5 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**www.mercurius.space**](https://www.mercurius.space/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.mercurius.space)
 
 * [**searx.fr32k.de**](https://searx.fr32k.de/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fr32k.de)
+
+* [**searx.remote-shell.net**](https://searx.remote-shell.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.remote-shell.net)
