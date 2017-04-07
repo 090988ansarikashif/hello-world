@@ -10,6 +10,8 @@ Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscrip
 Some of the searx instances have a CAcert SSL certificate.
 You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
+* [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
+
 * [**search.gibberfish.org**](https://search.gibberfish.org/) (as [Hidden Service](http://o2jdk5mdsijm2b7l.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.gibberfish.org)
 
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
@@ -19,8 +21,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**search404.io**](https://www.search404.io/) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io)
 
 * [**cryptocartel.com**](https://cryptocartel.com/) (as [Hidden Service](http://wscvq7ru5saua556.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=cryptocartel.com) 
-
-* **DEAD 2017-03-20** [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
 
 * [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
 
