@@ -11,3 +11,7 @@ https://www.impressivewebs.com/loading-different-jquery-version-ie6-8/
 ## Regular Expressions
 
 * [Test Regular Expressions Online](https://www.debuggex.com/)
+
+## Security
+
+* https://nameconstraints.bettertls.com/#!view?results=python_2.7.13_linux
