@@ -101,8 +101,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**www.ready.pm**](https://www.ready.pm) - Issuer : WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
-* [**searx.brihx.fr**](https://searx.brihx.fr/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.brihx.fr)
-
 * [**searx.drakonix.net**](https://searx.drakonix.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
 
 * [**www.heraut.eu/search/**](https://www.heraut.eu/search/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.heraut.eu)
