@@ -65,7 +65,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search.homecomputing.fr**](https://search.homecomputing.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
 
-* [**searx.potato.hu**](https://searx.potato.hu) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.potato.hu)
+* [**searx.potato.hu**](https://searx.potato.hu) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.potato.hu)
 
 * [**searx.32bitflo.at**](https://searx.32bitflo.at) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at)
 
