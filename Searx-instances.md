@@ -20,9 +20,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**rubri.co**](https://rubri.co) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=rubri.co)
 
-* [**search404.io**](https://www.search404.io/) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io)
-
-* [**cryptocartel.com**](https://cryptocartel.com/) (as [Hidden Service](http://wscvq7ru5saua556.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=cryptocartel.com) 
+* [**search404.io**](https://www.search404.io/) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
 
 * [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
 
