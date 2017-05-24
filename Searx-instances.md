@@ -150,3 +150,5 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**s.matejc.com**](https://s.matejc.com/) - Issuer : CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.matejc.com)
 
 * [**searx.mrtino.eu**](https://searx.mrtino.eu) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.mrtino.eu)
+
+* [**roflcopter.fr**](https://wtf.roflcopter.fr/searx) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=wtf.roflcopter.fr)
