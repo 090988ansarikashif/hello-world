@@ -1,14 +1,14 @@
+# Public Searx instances
 
-Up-to-date health report available on: http://stats.searx.oe5tpo.com
+## Useful information
 
-***
+ * Up-to-date health report available on http://stats.searx.oe5tpo.com
+ * Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
+ * Some of the searx instances have a CAcert SSL certificate. You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
 
-Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
+## List of public Searx instances
 
-***
-
-Some of the searx instances have a CAcert SSL certificate.
-You can install the missing root cert from here: http://www.cacert.org/index.php?id=3
+### Alive and running:
 
 * [**searx.gotrust.de**](https://searx.gotrust.de/) (as [Hidden Service](http://nxhhwbbxc4khvvlw.onion/))  - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.gotrust.de)
 
@@ -22,44 +22,25 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**search404.io**](https://www.search404.io/) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
 
-* [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
-
-* [**search.kakise.xyz**](https://search.kakise.xyz/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
-
 * [**OpenGO**](https://www.opengo.nl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl) 
 
 * [**searx.ch**](https://searx.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ch) 
 
-
 * [**citizen-cam.de**](https://citizen-cam.de/) (as [Hidden Service](http://eljwdzi4pgrrlwwq.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=citizen-cam.de)
 
-* [**search.mailaender.coffee**](https://search.mailaender.coffee/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mailaender.coffee)
-
-* [**searx.nulltime.net**](https://searx.nulltime.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)  
-  [**searx7hcqiogbrhk.onion**](http://searx7hcqiogbrhk.onion/)
-
-* [**search.blackit.de**](https://search.blackit.de/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
+* [**searx.nulltime.net**](https://searx.nulltime.net/) (as [Hidden Service](http://searx7hcqiogbrhk.onion/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)  
 
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
 
-* [**searx.space**](https://searx.space) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.space)
-
 * [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer : COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
-
-* [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
-
-* [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 
 * [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
 
 * [**searx.oe5tpo.com**](https://searx.oe5tpo.com) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.oe5tpo.com)
 
-* [**searx.xyz**](https://searx.xyz) - Issuer : Let's Encrypt
-
 * [**search.kujiu.org**](https://search.kujiu.org) - Issuer : CAcert 
 
-* [**searx.new-admin.net**](https://searx.new-admin.net) - Issuer : Let's Encrypt [Verification]
-(https://www.ssllabs.com/ssltest/analyze.html?d=searx.new-admin.net)
+* [**searx.new-admin.net**](https://searx.new-admin.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.new-admin.net)
 
 * [**search.homecomputing.fr**](https://search.homecomputing.fr/) - Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
 
@@ -67,37 +48,24 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.32bitflo.at**](https://searx.32bitflo.at) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at)
 
-* [**searx.jeanphilippemorvan.info**](https://searx.jeanphilippemorvan.info/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.jeanphilippemorvan.info)
-
 * [**framabee.org**](https://framabee.org/) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
-
-* [**search.static.lu**](https://search.static.lu/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
 
 * [**s3arch.eu**](https://s3arch.eu) (as [Hidden Service](http://eb6w5ctgodhchf3p.onion)) - Issuer : Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s3arch.eu&hideResults=on)
 
-* [**search.deblan.org**](https://search.deblan.org/) (down) - Issuer : COMODO via GANDI [Verification] (https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
-
-* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
-
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
 
 * [**searx.info**](https://searx.info) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.info)
+
 * [**h.searx.info**](http://h.searx.info) - only available on Hyperboria/CJDNS network
 
 * [**search.jpope.org**](https://search.jpope.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
-
-* [**search.jollausers.de**](https://search.jollausers.de) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
 
 * [**searx.fossencdi.org**](https://searx.fossencdi.org) (as [Hidden Service](http://searx.cwuzdtzlubq5uual.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
 
 * [**search.koehn.com**](https://search.koehn.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
 
-* [**search.matrix.ac**](https://search.matrix.ac) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=matrix.ac)
-
 * [**search.notoriousdev.com**](https://search.notoriousdev.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.notoriousdev.com)
-
-* [**www.ready.pm**](https://www.ready.pm) - Issuer : WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
 * [**searx.drakonix.net**](https://searx.drakonix.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
 
@@ -137,10 +105,6 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.com.au**](https://searx.com.au) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
 
-* [**search.mypsc.ca**](https://search.mypsc.ca/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mypsc.ca)
-
-* [**searx.tognella.com**](https://searx.tognella.com/) - Issuer : CloudFlare 
-
 * [**www.mercurius.space**](https://www.mercurius.space/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.mercurius.space)
 
 * [**searx.fr32k.de**](https://searx.fr32k.de/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fr32k.de)
@@ -152,3 +116,43 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**searx.mrtino.eu**](https://searx.mrtino.eu) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.mrtino.eu)
 
 * [**roflcopter.fr**](https://wtf.roflcopter.fr/searx) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=wtf.roflcopter.fr)
+
+
+### Running with an incorrect SSL certificate:
+
+* [**searx.itunix.eu**](https://searx.itunix.eu/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
+
+* [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
+
+* [**search.blackit.de**](https://search.blackit.de/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
+
+* [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
+
+* [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
+
+* [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
+
+
+### Offline:
+
+* [**search.deblan.org**](https://search.deblan.org/) (down) - Issuer : COMODO via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
+
+* [**search.mailaender.coffee**](https://search.mailaender.coffee/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mailaender.coffee)
+
+* [**search.matrix.ac**](https://search.matrix.ac) - (down) Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=matrix.ac)
+
+* [**search.static.lu**](https://search.static.lu/) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
+
+* [**searx.jeanphilippemorvan.info**](https://searx.jeanphilippemorvan.info/) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.jeanphilippemorvan.info)
+
+* [**search.mypsc.ca**](https://search.mypsc.ca/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mypsc.ca)
+
+* [**searx.space**](https://searx.space) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.space)
+
+* [**searx.xyz**](https://searx.xyz) - (down) Issuer : Let's Encrypt
+
+* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (down) Issuer : CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
+
+* [**www.ready.pm**](https://www.ready.pm) - Issuer : WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
+
+* [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer : CloudFlare 
