@@ -38,7 +38,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 * [**searx.nulltime.net**](https://searx.nulltime.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)  
   [**searx7hcqiogbrhk.onion**](http://searx7hcqiogbrhk.onion/)
 
-* [**search.blackit.de**](https://search.blackit.de/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
+* [**search.blackit.de**](https://search.blackit.de/) - Issuer : Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
 
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
 
