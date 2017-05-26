@@ -50,7 +50,7 @@ You can install the missing root cert from here: http://www.cacert.org/index.php
 
 * [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 
-* [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
+* [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
 
 * [**searx.oe5tpo.com**](https://searx.oe5tpo.com) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.oe5tpo.com)
 
