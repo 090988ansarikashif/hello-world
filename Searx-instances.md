@@ -117,6 +117,7 @@
 
 * [**roflcopter.fr**](https://wtf.roflcopter.fr/searx) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=wtf.roflcopter.fr)
 
+* [**win8linux.nohost.me**](https://win8linux.nohost.me/searx/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=win8linux.nohost.me)
 
 ### Running with an incorrect SSL certificate:
 
