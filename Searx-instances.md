@@ -60,8 +60,6 @@
 
 * [**searx.info**](https://searx.info) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.info)
 
-* [**h.searx.info**](http://h.searx.info) - only available on Hyperboria/CJDNS network
-
 * [**search.jpope.org**](https://search.jpope.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
 
 * [**searx.fossencdi.org**](https://searx.fossencdi.org) (as [Hidden Service](http://searx.cwuzdtzlubq5uual.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
@@ -77,8 +75,6 @@
 * [**searx.4ray.co**](https://searx.4ray.co/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.4ray.co)
 
 * [**searx.aquilenet.fr**](https://searx.aquilenet.fr/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.aquilenet.fr)
-
-* [**srx.stdout.net**](https://srx.stdout.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.stdout.net)
 
 * [**search.azkware.net**](https://search.azkware.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.azkware.net)
 
@@ -122,9 +118,9 @@
 
 * [**win8linux.nohost.me**](https://win8linux.nohost.me/searx/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=win8linux.nohost.me)
 
-### Running with an incorrect SSL certificate:
+* [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
 
-* [**searx.itunix.eu**](https://searx.itunix.eu/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
+### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
 
@@ -138,6 +134,10 @@
 
 
 ### Offline:
+
+* [**srx.stdout.net**](https://srx.stdout.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.stdout.net)
+
+* [**h.searx.info**](http://h.searx.info) - only available on Hyperboria/CJDNS network
 
 * [**search.deblan.org**](https://search.deblan.org/) (down) - Issuer : COMODO via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
 
