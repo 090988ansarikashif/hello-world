@@ -9,13 +9,15 @@
 ## List of public Searx instances
 
 ### Alive and running:
+* [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
+
 * [**searx.glibre.net**](https://searx.glibre.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.glibre.net)
 
 * [**search.datensturm.net**](https://search.datensturm.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.datensturm.net)
 
 * [**searx.gotrust.de**](https://searx.gotrust.de/) (as [Hidden Service](http://nxhhwbbxc4khvvlw.onion/))  - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.gotrust.de)
 
-* [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
+
 
 * [**search.gibberfish.org**](https://search.gibberfish.org/) (as [Hidden Service](http://o2jdk5mdsijm2b7l.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.gibberfish.org)
 
