@@ -124,6 +124,7 @@
 
 * [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
 
+* [**searx.impstyle.com**](https://searx.impstyle.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.impstyle.com)
 
 ### Running with an incorrect SSL certificate:
 
