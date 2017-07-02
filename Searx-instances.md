@@ -9,6 +9,8 @@
 ## List of public Searx instances
 
 ### Alive and running:
+* [**searx.good.one.pl**](https://searx.good.one.pl) (as [Hidden Service](http://searxl7u2y6gvonm.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.good.one.pl)
+
 * [**searx.dk**](https://searx.dk/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dk)
 
 * [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
