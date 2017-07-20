@@ -28,8 +28,7 @@ su - searx
 cd /usr/local/searx
 virtualenv searx-ve
 . ./searx-ve/bin/activate
-pip install -r requirements.txt
-python setup.py install
+./manage.sh update_packages
 ```
 
 ## Configuration
@@ -44,8 +43,12 @@ Start searx :
 ```sh
 python searx/webapp.py
 ```
-
 Go to [http://localhost:8888](http://localhost:8888)
+
+If everything works fine, disable the debug option in settings.yml:
+```sh
+sed -i -e "s/debug : True/debug : False/g" searx/settings.yml
+```
 
 At this point searx is not demonized ; uwsgi allows this.
 
@@ -72,10 +75,15 @@ disable-logging = true
 workers = 4
 socket = 127.0.0.1:8888
 
+# The right granted on the created socket
+chmod-socket = 666
+
 # Plugin to use and interpretor config
 single-interpreter = true
 master = true
 plugin = python
+lazy-apps = true
+enable-threads = true
 
 # Module to import
 module = searx.webapp
@@ -136,7 +144,7 @@ su - searx
 git stash
 git pull origin master
 git stash apply
-pip install --upgrade -r requirements.txt
+./manage.sh update_packages
 exit
 systemctl restart uwsgi
 ```
