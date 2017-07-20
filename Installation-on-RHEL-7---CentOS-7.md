@@ -28,6 +28,8 @@ su - searx
 cd /usr/local/searx
 virtualenv searx-ve
 . ./searx-ve/bin/activate
+pip install --upgrade pip
+pip install --upgrade setuptools
 ./manage.sh update_packages
 ```
 
