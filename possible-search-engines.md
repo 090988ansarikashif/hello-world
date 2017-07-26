@@ -147,3 +147,7 @@ Note: https://torrentz2.eu/help#indexed show what torrent engines could be imple
 | http://spaceapi.net | | status and informations about hackerspaces |
 | http://www.navitia.io | | public transport API |
 | https://github.com/golastmile/rasa_nlu | | can parse "show me a mexican place in the centre" |
+
+----
+
+https://github.com/toddmotto/public-apis
