@@ -24,6 +24,7 @@
 * https://islandearth.com/2016/09/03/searx-for-anonymous-search/
 * http://www.linux-magazine.com/Issues/2017/194/Charly-s-Column-Searx
 * https://www.bestvpn.com/privacy-search-engines/
+* https://www.reddit.com/r/privacy/comments/6jks7u/is_searx_enough_for_anonymous_searching/?sort=old
 
 ### mailing lists
 * https://www.mail-archive.com/tor-bugs@lists.torproject.org/msg100153.html
