@@ -5,9 +5,8 @@
  * Up-to-date health report available on http://stats.searx.oe5tpo.com
  * Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
  * Some of the searx instances have a CAcert SSL certificate. You can install the missing root cert [from here](http://www.cacert.org/index.php?id=3).
- * If you can't decide which searx instance to use, host or use "[Searxes](https://swmirrorb7mifa64.danwin1210.me/data/app/webapp.html)". This will use other Searx randomly.
-
-[**Searxes**](https://searxes.danwin1210.me/) (as [Hidden Service](http://searxeszsqlt6325.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)
+ * If you can't decide which searx instance to use, try "[Searxes](https://searxes.danwin1210.me/)". This will use other Searx randomly.
+ * [**Searxes**](https://searxes.danwin1210.me/) (as [Hidden Service](http://searxeszsqlt6325.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)
 
 ## List of public Searx instances
 
