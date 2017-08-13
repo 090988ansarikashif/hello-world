@@ -4,6 +4,13 @@
 * https://github.com/fuerbringer/searxbot
 * https://bitnami.com/stack/searx
 
+### Installations (not tested, may be not up to date)
+* NixOS : https://github.com/NixOS/nixpkgs/blob/fd647dc0cf5b989aea84c14adcecff10d9dff536/nixos/modules/services/networking/searx.nix
+* archlinux : https://aur.archlinux.org/packages/searx-git/
+* yunohost : https://github.com/abeudin/searx_ynh
+* ansible : https://github.com/PMaynard/searx
+* 
+
 ### Chinese
 
 * http://tieba.baidu.com/p/4012518947
