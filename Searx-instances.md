@@ -21,6 +21,8 @@
 
 * [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
 
+* [**suche.ftp.sh**](https://suche.ftp.sh/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
+
 * [**searx.glibre.net**](https://searx.glibre.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.glibre.net)
 
 * [**search.datensturm.net**](https://search.datensturm.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.datensturm.net)
