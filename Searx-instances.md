@@ -142,6 +142,8 @@
 
 * [**pigtown.news/searx**](https://pigtown.news/searx/) (HTTPS only) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=pigtown.news)
 
+* [**searchx.mobi**](https://searchx.mobi/) - Issuer : CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchx.mobi)
+
 ### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
