@@ -45,7 +45,7 @@
 
 * [**citizen-cam.de**](https://citizen-cam.de/) (as [Hidden Service](http://eljwdzi4pgrrlwwq.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=citizen-cam.de)
 
-* [**searx.nulltime.net**](https://searx.nulltime.net/) (as [Hidden Service](http://searx7hcqiogbrhk.onion/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)  
+* [**searx.nulltime.net**](https://searx.nulltime.net/) (as [Hidden Service](http://searx7gwtu5rh6wr.onion)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)  
 
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
 
