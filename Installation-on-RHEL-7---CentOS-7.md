@@ -76,7 +76,6 @@ disable-logging = true
 # Number of workers (usually CPU count)
 workers = 4
 socket = 127.0.0.1:8888
-buffer-size = 65535
 
 # The right granted on the created socket
 chmod-socket = 666
