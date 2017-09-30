@@ -82,6 +82,8 @@
 
 * [**search.koehn.com**](https://search.koehn.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
 
+* [**search.krosos.org**](https://search.krosos.org) (as [Hidden Service](http://search.nwqa5qritowcsn3n.onion)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.krosos.org)
+
 * [**search.notoriousdev.com**](https://search.notoriousdev.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.notoriousdev.com)
 
 * [**searx.drakonix.net**](https://searx.drakonix.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
