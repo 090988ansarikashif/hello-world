@@ -148,7 +148,6 @@
 
 * [**searchx.mobi**](https://searchx.mobi/) - Issuer : CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchx.mobi)
 
-* [**searx.libmail.eu**](http://searx.libmail.eu/) 
 
 ### Running with an incorrect SSL certificate:
 
@@ -161,6 +160,9 @@
 * [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 
 * [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
+
+
+* [**searx.libmail.eu**](http://searx.libmail.eu/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu)
 
 ### Offline:
 
