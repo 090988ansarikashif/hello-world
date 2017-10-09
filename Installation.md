@@ -46,7 +46,30 @@ So you can go to [http://localhost:$PORT](http://localhost:$PORT) and enjoy sear
 
 #### Docker-compose
 Using docker-compose and starting the v2 file format, you can use this : 
+
+##### If you're reverse proxying from Nginx that isn't inside a container
 ```
+version: '2'
+services:
+  searx:
+    #network_mode: "bridge"
+    build:
+      context: /path/to/searx
+      dockerfile: Dockerfile
+    # Only expose Searx port to localhost 
+    ports:
+      - "127.0.0.1:8888:8888"
+    image: searx
+    container_name: searx
+    environment:
+      - BASE_URL="https://domain.tld"
+      - IMAGE_PROXY=True
+```
+##### If you're utilizing Nginx inside a container.
+
+```
+version: '2'
+services:
   searx:
     #network_mode: "bridge"
     build:
