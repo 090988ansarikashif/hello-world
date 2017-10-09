@@ -84,8 +84,14 @@ services:
 ### Optional
 #### Add to browser search engine options.
 
-This differs from browser to browser but the proper format is as follows
+This differs from browser to browser but the proper format for search is as follows
 
 ```
 https://domain.tld/search?q=%s
+```
+
+The format for auto complete is as follows
+
+```
+https://domain.tld/autocompleter?q=%s
 ```
