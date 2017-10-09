@@ -81,3 +81,11 @@ services:
       - BASE_URL="https://domain.tld"
       - IMAGE_PROXY=True
 ```
+### Optional
+#### Add to browser search engine options.
+
+This differs from browser to browser but the proper format is as follows
+
+```
+https://domain.tld/search?q=%s
+```
