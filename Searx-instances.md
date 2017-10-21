@@ -76,7 +76,7 @@
 
 * [**searx.info**](https://searx.info) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.info)
 
-* [**search.jpope.org**](https://search.jpope.org) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
+* [**search.jpope.org**](https://search.jpope.org) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
 
 * [**searx.fossencdi.org**](https://searx.fossencdi.org) (as [Hidden Service](http://searx.cwuzdtzlubq5uual.onion/)) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
 
