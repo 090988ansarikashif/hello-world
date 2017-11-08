@@ -150,6 +150,9 @@
 
 * [**searx.antirep.net**](https://searx.antirep.net/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.antirep.net)
 
+* [**search.stinpriza.org**](https://search.stinpriza.org) - Issuer : Let's Encrypt 
+[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.stinpriza.org&hideResults=on)
+
 ### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
