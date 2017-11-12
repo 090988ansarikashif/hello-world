@@ -182,6 +182,8 @@
 
 * [**search.static.lu**](https://search.static.lu/) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
 
+* [**searx.glibre.net**](https://searx.glibre.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.glibre.net)
+
 * [**searx.jeanphilippemorvan.info**](https://searx.jeanphilippemorvan.info/) - (down) Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.jeanphilippemorvan.info)
 
 * [**search.mypsc.ca**](https://search.mypsc.ca/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mypsc.ca)
