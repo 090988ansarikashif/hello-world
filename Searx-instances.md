@@ -153,6 +153,9 @@
 * [**search.stinpriza.org**](https://search.stinpriza.org) - Issuer : Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.stinpriza.org&hideResults=on)
 
+* [**searx.fi**](https://searx.fi) - Issuer : Let's Encrypt 
+[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fi&hideResults=on)
+
 ### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
