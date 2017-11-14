@@ -65,7 +65,7 @@
 
 * [**searx.32bitflo.at**](https://searx.32bitflo.at) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at)
 
-* [**framabee.org**](https://framabee.org/) - Issuer : UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
+* [**framabee.org**](https://framabee.org/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
 
 * [**s3arch.eu**](https://s3arch.eu) (as [Hidden Service](http://eb6w5ctgodhchf3p.onion)) - Issuer : Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s3arch.eu&hideResults=on)
