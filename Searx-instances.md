@@ -55,7 +55,7 @@
 
 * [**searx.oe5tpo.com**](https://searx.oe5tpo.com) - Issuer : StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.oe5tpo.com)
 
-* [**search.kujiu.org**](https://search.kujiu.org) - Issuer : CAcert 
+* [**search.kujiu.org**](https://search.kujiu.org) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kujiu.org)
 
 * [**searx.new-admin.net**](https://searx.new-admin.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.new-admin.net)
 
