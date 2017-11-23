@@ -82,7 +82,7 @@
 
 * [**search.koehn.com**](https://search.koehn.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
 
-* [**searx.ng0.infotropique.org**](https://searx.ng0.infotropique.org) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ng0.infotropique.org)
+* [**s.n0.is**](https://s.n0.is) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.n0.is)
 
 * [**search.notoriousdev.com**](https://search.notoriousdev.com) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.notoriousdev.com)
 
