@@ -158,7 +158,7 @@
 * [**searx.fi**](https://searx.fi) - Issuer : Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fi&hideResults=on)
 
-* [**search.mdosch.de**](https://search.mdosch.de/) (as [Hidden Service](http://search.4bkxscubgtxwvhpe.onion/)) - Issuer : Let's Encrypt
+* [**search.mdosch.de**](https://search.mdosch.de/) (as [Hidden Service](http://search.4bkxscubgtxwvhpe.onion/)) - Issuer: Let's Encrypt
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mdosch.de)
 
 ### Running with an incorrect SSL certificate:
