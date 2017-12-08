@@ -88,7 +88,7 @@
 
 * [**searx.drakonix.net**](https://searx.drakonix.net) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
 
-* [**www.heraut.eu/search/**](https://www.heraut.eu/search/) - **France Only** - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.heraut.eu)
+* [**www.heraut.eu/search/**](https://www.heraut.eu/search/) - (**country France only**) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.heraut.eu)
 
 * [**search.4ray.co**](https://search.4ray.co/) - Issuer : Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.4ray.co)
 
