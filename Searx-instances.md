@@ -159,7 +159,7 @@
 * [**search.mdosch.de**](https://search.mdosch.de/) (as [Hidden Service](http://search.4bkxscubgtxwvhpe.onion/)) - Issuer: Let's Encrypt
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mdosch.de)
 
-* [**www.searx.eu**](https://www.searxs.eu) - Issuer : Let's Encrypt 
+* [**www.searxs.eu**](https://www.searxs.eu) - Issuer : Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 
 ### Running with an incorrect SSL certificate:
