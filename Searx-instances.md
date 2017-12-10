@@ -159,6 +159,9 @@
 * [**search.mdosch.de**](https://search.mdosch.de/) (as [Hidden Service](http://search.4bkxscubgtxwvhpe.onion/)) - Issuer: Let's Encrypt
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mdosch.de)
 
+* [**www.searx.eu**](https://www.searxs.eu) - Issuer : Let's Encrypt 
+[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
+
 ### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
@@ -173,6 +176,8 @@
 
 
 * [**searx.libmail.eu**](http://searx.libmail.eu/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu)
+
+
 
 ### Offline:
 
