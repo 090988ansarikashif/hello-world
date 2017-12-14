@@ -27,7 +27,7 @@
 
 * [**searx.gotrust.de**](https://searx.gotrust.de/) (as [Hidden Service](http://nxhhwbbxc4khvvlw.onion/))  - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.gotrust.de)
 
-* [**search.gibberfish.org**](https://search.gibberfish.org/) (as [Hidden Service](http://o2jdk5mdsijm2b7l.onion/)) ([Proxied through Tor](https://search.gibberfish.org/tor/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.gibberfish.org)
+* [**search.gibberfish.org**](https://search.gibberfish.org/) (as [Hidden Service](http://o2jdk5mdsijm2b7l.onion/) or [Proxied through Tor](https://search.gibberfish.org/tor/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.gibberfish.org)
 
 * [**searx.prvcy.eu**](https://searx.prvcy.eu/) (as [Hidden Service](http://twmpzbyurmu2hjpp.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.prvcy.eu)
 
