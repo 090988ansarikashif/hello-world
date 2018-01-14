@@ -41,7 +41,7 @@
 
 * [**searx.ch**](https://searx.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ch) 
 
-* [**searx.apply55gx.com**](https://searx.apply55gx.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.apply55gx.com) 
+* [**searx.pw**](https://searx.pw/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pw) 
 
 * [**citizen-cam.de**](https://citizen-cam.de/) (as [Hidden Service](http://eljwdzi4pgrrlwwq.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=citizen-cam.de)
 
