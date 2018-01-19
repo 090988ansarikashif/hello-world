@@ -220,4 +220,4 @@
 
 * [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare 
 
-* [[**www.lhorn.de**](https://www.lhorn.de/searx/) - Issuer: Let's Encrypt
+* [**www.lhorn.de**](https://www.lhorn.de/searx/) - Issuer: Let's Encrypt
