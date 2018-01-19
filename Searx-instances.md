@@ -219,3 +219,5 @@
 * [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
 * [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare 
+
+* [[**www.lhorn.de**](https://www.lhorn.de/searx/) - Issuer: Let's Encrypt
