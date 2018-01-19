@@ -176,6 +176,8 @@
 
 * [**www.lhorn.de**](https://www.lhorn.de/searx/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.lhorn.de&latest)
 
+* [**search.openhoofd.nl**](https://searx.openhoofd.nl/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.openhoofd.nl)
+
 ### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
