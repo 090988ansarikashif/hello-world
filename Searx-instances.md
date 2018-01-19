@@ -188,6 +188,7 @@
 
 * [**searx.libmail.eu**](http://searx.libmail.eu/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu)
 
+* [**www.lhorn.de**](https://www.lhorn.de/searx/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.lhorn.de&latest)
 
 
 ### Offline:
@@ -219,5 +220,3 @@
 * [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
 * [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare 
-
-* [**www.lhorn.de**](https://www.lhorn.de/searx/) - Issuer: Let's Encrypt
