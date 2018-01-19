@@ -174,6 +174,8 @@
 * [**searx.ehrmanns.ch**](https://searx.ehrmanns.ch) - Issuer: Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ehrmanns.ch)
 
+* [**www.lhorn.de**](https://www.lhorn.de/searx/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.lhorn.de&latest)
+
 ### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
@@ -187,8 +189,6 @@
 * [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
 
 * [**searx.libmail.eu**](http://searx.libmail.eu/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu)
-
-* [**www.lhorn.de**](https://www.lhorn.de/searx/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.lhorn.de&latest)
 
 
 ### Offline:
