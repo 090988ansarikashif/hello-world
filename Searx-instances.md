@@ -13,6 +13,8 @@
 ### Alive and running:
 * [**searx.abenthung.it**](https://searx.abenthung.it/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.abenthung.it)
 
+* [**gruble.de**](https://www.gruble.de/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.gruble.de)
+
 * [**search.disroot.org**](https://search.disroot.org/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.disroot.org)
 
 * [**searx.good.one.pl**](https://searx.good.one.pl) (as [Hidden Service](http://searxl7u2y6gvonm.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.good.one.pl)
