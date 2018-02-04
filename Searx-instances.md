@@ -11,6 +11,9 @@
 ## List of public Searx instances
 
 ### Alive and running:
+
+* [**searx.angristan.xyz**](https://searx.angristan.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.angristan.xyz)
+
 * [**searx.abenthung.it**](https://searx.abenthung.it/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.abenthung.it)
 
 * [**gruble.de**](https://www.gruble.de/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.gruble.de)
