@@ -133,7 +133,7 @@
 
 * [**searx.remote-shell.net**](https://searx.remote-shell.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.remote-shell.net)
 
-* [**s.matejc.com**](https://s.matejc.com/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.matejc.com)
+* [**s.matejc.com**](https://s.matejc.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.matejc.com)
 
 * [**searx.mrtino.eu**](https://searx.mrtino.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.mrtino.eu)
 
