@@ -24,8 +24,6 @@
 
 * [**searx.dk**](https://searx.dk/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dk)
 
-* [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.rubbeldiekatz.info)
-
 * [**suche.ftp.sh**](https://suche.ftp.sh/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
 
 * [**search.datensturm.net**](https://search.datensturm.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.datensturm.net)
@@ -85,10 +83,6 @@
 
 * [**search.koehn.com**](https://search.koehn.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
 
-* [**s.n0.is**](https://s.n0.is) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.n0.is)
-
-* [**search.notoriousdev.com**](https://search.notoriousdev.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.notoriousdev.com)
-
 * [**searx.drakonix.net**](https://searx.drakonix.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
 
 * [**search.4ray.co**](https://search.4ray.co/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.4ray.co)
@@ -107,8 +101,6 @@
 
 * [**search.st8.at**](https://search.st8.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.st8.at)
 
-* [**search.r3d007.com**](https://search.r3d007.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=r3d007.com)
-
 * [**search.kosebamse.com**](https://search.kosebamse.com/) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
 
 * [**perfectpixel.de/searx/**](https://www.perfectpixel.de/searx/) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
@@ -122,8 +114,6 @@
 * [**searx.kvch.me**](https://searx.kvch.me) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kvch.me)
 
 * [**searx.com.au**](https://searx.com.au) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
-
-* [**www.mercurius.space**](https://www.mercurius.space/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.mercurius.space)
 
 * [**p9e.de**](https://p9e.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=p9e.de)
 
@@ -141,11 +131,7 @@
 
 * [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
 
-* [**searx.impstyle.com**](https://searx.impstyle.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.impstyle.com)
-
 * [**searx.targaryen.house**](https://searx.targaryen.house/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.targaryen.house)
-
-* [**searx.steinscraft.net**](https://searx.steinscraft.net/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.steinscraft.net)
 
 * [**pigtown.news/searx**](https://pigtown.news/searx/) (HTTPS only) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=pigtown.news)
 
@@ -155,9 +141,6 @@
 
 * [**search.stinpriza.org**](https://search.stinpriza.org) - Issuer: Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.stinpriza.org&hideResults=on)
-
-* [**searx.fi**](https://searx.fi) - Issuer: Let's Encrypt 
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fi&hideResults=on)
 
 * [**search.mdosch.de**](https://search.mdosch.de/) (as [Hidden Service](http://search.4bkxscubgtxwvhpe.onion/)) - Issuer: Let's Encrypt
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mdosch.de)
@@ -171,13 +154,8 @@
 * [**searx.pofilo.fr**](https://searx.pofilo.fr) - Issuer: Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pofilo.fr)
 
-* [**icebal.com**](https://icebal.com) - Issuer: Let's Encrypt 
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=icebal.com)
-
 * [**searx.ehrmanns.ch**](https://searx.ehrmanns.ch) - Issuer: Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ehrmanns.ch)
-
-* [**www.lhorn.de**](https://www.lhorn.de/searx/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.lhorn.de&latest)
 
 * [**searx.openhoofd.nl**](https://searx.openhoofd.nl/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=openhoofd.nl)
 
@@ -193,10 +171,13 @@
 
 * [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 
-* [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
+* [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
 
-* [**OpenGO**](https://www.opengo.nl) - Incorrectly configured [SSL certificate]
-(https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl) 
+* [**OpenGO**](https://www.opengo.nl) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
+
+* [**www.lhorn.de**](https://www.lhorn.de/searx/) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=www.lhorn.de&latest)
+
+* [**search.notoriousdev.com**](https://search.notoriousdev.com) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.notoriousdev.com)
 
 ### Offline:
 
@@ -226,4 +207,21 @@
 
 * [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
-* [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare 
+* [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare
+
+* [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - (down) Issuer: Let's Encrypt
+
+* [**icebal.com**](https://icebal.com) - (down) Issuer: Let's Encrypt
+
+* [**searx.fi**](https://searx.fi) - (down) Issuer: Let's Encrypt
+
+* [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: CloudFlare
+
+* [**searx.impstyle.com**](https://searx.impstyle.com) - (down) Issuer: Let's Encrypt
+
+* [**www.mercurius.space**](https://www.mercurius.space/) - (down) Issuer: Let's Encrypt
+
+* [**search.r3d007.com**](https://search.r3d007.com/) - (down) Issuer: Let's Encrypt
+
+* [**s.n0.is**](https://s.n0.is) - (down) Issuer: Let's Encrypt
+
