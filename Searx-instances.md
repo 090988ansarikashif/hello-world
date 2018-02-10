@@ -42,8 +42,6 @@
 
 * [**search404.io**](https://www.search404.io/) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
 
-* [**OpenGO**](https://www.opengo.nl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl) 
-
 * [**searx.ch**](https://searx.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ch) 
 
 * [**searx.pw**](https://searx.pw/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pw) 
@@ -197,6 +195,8 @@
 
 * [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
 
+* [**OpenGO**](https://www.opengo.nl) - Incorrectly configured [SSL certificate]
+(https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl) 
 
 ### Offline:
 
