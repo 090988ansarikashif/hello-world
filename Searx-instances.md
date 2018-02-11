@@ -12,6 +12,8 @@
 
 ### Alive and running:
 
+* [**finden.tk**](https://finden.tk/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=finden.tk)
+
 * [**searx.angristan.xyz**](https://searx.angristan.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.angristan.xyz)
 
 * [**searx.abenthung.it**](https://searx.abenthung.it/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.abenthung.it)
