@@ -12,6 +12,8 @@
 
 ### Alive and running:
 
+* [**search.biboumail.fr**](https://search.biboumail.fr/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.biboumail.fr)
+
 * [**finden.tk**](https://finden.tk/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=finden.tk)
 
 * [**searx.angristan.xyz**](https://searx.angristan.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.angristan.xyz)
