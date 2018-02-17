@@ -183,8 +183,6 @@
 
 * [**www.lhorn.de**](https://www.lhorn.de/searx/) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=www.lhorn.de&latest)
 
-* [**search.notoriousdev.com**](https://search.notoriousdev.com) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.notoriousdev.com)
-
 ### Offline:
 
 * [**srx.stdout.net**](https://srx.stdout.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.stdout.net)
