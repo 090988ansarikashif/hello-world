@@ -184,8 +184,6 @@
 
 * [**OpenGO**](https://www.opengo.nl) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
 
-* [**www.lhorn.de**](https://www.lhorn.de/searx/) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=www.lhorn.de&latest)
-
 ### Offline:
 
 * [**srx.stdout.net**](https://srx.stdout.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.stdout.net)
