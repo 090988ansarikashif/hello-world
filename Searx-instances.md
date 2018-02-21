@@ -12,6 +12,8 @@
 
 ### Alive and running:
 
+* [**searx.zareldyn.net**](https://searx.zareldyn.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zareldyn.net)
+
 * [**search.biboumail.fr**](https://search.biboumail.fr/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.biboumail.fr)
 
 * [**finden.tk**](https://finden.tk/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=finden.tk)
