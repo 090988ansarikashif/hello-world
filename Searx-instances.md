@@ -171,6 +171,8 @@
 
 * [**searx.org**](https://searx.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.org) 
 
+* [**search.tolstoevsky.ml**](https://search.tolstoevsky.ml) - Issuer: Let's Encrypt 
+[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.tolstoevsky.ml)
 
 ### Running with an incorrect SSL certificate:
 
