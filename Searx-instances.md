@@ -211,8 +211,6 @@
 
 * [**searx.space**](https://searx.space) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.space)
 
-* [**searx.xyz**](https://searx.xyz) - (down) Issuer: Let's Encrypt
-
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (down) Issuer: CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 
 * [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
