@@ -174,6 +174,8 @@
 * [**search.tolstoevsky.ml**](https://search.tolstoevsky.ml) - Issuer: Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.tolstoevsky.ml)
 
+* [**search.spaeth.me**](https://search.spaeth.me/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.spaeth.me&latest)
+
 ### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
@@ -231,4 +233,3 @@
 * [**search.r3d007.com**](https://search.r3d007.com/) - (down) Issuer: Let's Encrypt
 
 * [**s.n0.is**](https://s.n0.is) - (down) Issuer: Let's Encrypt
-
