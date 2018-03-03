@@ -26,6 +26,8 @@
 
 * [**search.disroot.org**](https://search.disroot.org/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.disroot.org)
 
+* [**search.blackit.de**](https://search.blackit.de/) - Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
+
 * [**searx.good.one.pl**](https://searx.good.one.pl) (as [Hidden Service](http://searxl7u2y6gvonm.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.good.one.pl)
 
 * [**searx.dk**](https://searx.dk/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dk)
@@ -179,8 +181,6 @@
 ### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
-
-* [**search.blackit.de**](https://search.blackit.de/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
 
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
 
