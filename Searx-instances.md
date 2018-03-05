@@ -11,6 +11,8 @@
 ## List of public Searx instances
 
 ### Alive and running:
+
+* [**openworlds.info**](https://openworlds.info/) Issuer: Let's Encrypt
 * [**searx.xyz**](https://searx.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xyz&latest)
 * [**searx.zareldyn.net**](https://searx.zareldyn.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zareldyn.net)
 
