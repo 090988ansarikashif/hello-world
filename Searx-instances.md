@@ -145,8 +145,6 @@
 
 * [**searx.targaryen.house**](https://searx.targaryen.house/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.targaryen.house)
 
-* [**pigtown.news/searx**](https://pigtown.news/searx/) (HTTPS only) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=pigtown.news)
-
 * [**searchx.mobi**](https://searchx.mobi/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchx.mobi)
 
 * [**searx.antirep.net**](https://searx.antirep.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.antirep.net)
