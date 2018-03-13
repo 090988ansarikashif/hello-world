@@ -1,7 +1,7 @@
 # Public Searx instances
 
 ## Useful information
-* [**searx.pwoss.xyz**](https://searx.pwoss.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pwoss.xyz)
+
  * Up-to-date health report available on http://stats.searx.oe5tpo.com and https://stats.searx.xyz, for onion (tor) services: https://stats.searx.xyz/tor.html
  * Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
  * Some of the searx instances have a CAcert SSL certificate. You can install the missing root cert [from here](http://www.cacert.org/index.php?id=3).
@@ -11,7 +11,7 @@
 ## List of public Searx instances
 
 ### Alive and running:
-
+* [**searx.pwoss.xyz**](https://searx.pwoss.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pwoss.xyz)
 * [**openworlds.info**](https://openworlds.info/) Issuer: Let's Encrypt
 * [**searx.xyz**](https://searx.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xyz&latest)
 * [**searx.zareldyn.net**](https://searx.zareldyn.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zareldyn.net)
