@@ -236,5 +236,3 @@
 * [**www.mercurius.space**](https://www.mercurius.space/) - (down) Issuer: Let's Encrypt
 
 * [**search.r3d007.com**](https://search.r3d007.com/) - (down) Issuer: Let's Encrypt
-
-* [**s.n0.is**](https://s.n0.is) - (down) Issuer: Let's Encrypt
