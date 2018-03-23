@@ -81,6 +81,8 @@
 
 * [**searx.32bitflo.at**](https://searx.32bitflo.at) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at)
 
+* [**searx.elukerio.org**](https://searx.elukerio.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.elukerio.org/)
+
 * [**searx.libmail.eu**](https://searx.libmail.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu/)
 
 * [**framabee.org**](https://framabee.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
