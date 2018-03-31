@@ -108,8 +108,6 @@
 
 * [**search.azkware.net**](https://search.azkware.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.azkware.net)
 
-* [**seeks.ru**](https://seeks.ru/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.ru)
-
 * [**search.alecpap.com**](https://search.alecpap.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.alecpap.com)
 
 * [**searx.at**](https://searx.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.at)
