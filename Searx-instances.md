@@ -187,6 +187,12 @@
 
 * [**searx.tyil.nl**](https://searx.tyil.nl) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tyil.nl)
 
+* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (online 20180402) Issuer: Let's Encrypt[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
+
+* [**searx.impstyle.com**](https://searx.impstyle.com) - (online 20180402) Issuer: Let's Encrypt
+
+* [**icebal.com**](https://icebal.com) - (online 20180402) Issuer: Let's Encrypt
+
 * [**OpenGO**](https://www.opengo.nl) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
 
 
@@ -199,12 +205,6 @@
 * [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 
 * [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
-
-* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (online 20180402) Issuer: Let's Encrypt[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
-
-* [**searx.impstyle.com**](https://searx.impstyle.com) - (online 20180402) Issuer: Let's Encrypt
-
-* [**icebal.com**](https://icebal.com) - (online 20180402) Issuer: Let's Encrypt
 
 
 ### Offline:
