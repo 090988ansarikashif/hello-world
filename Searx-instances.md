@@ -39,8 +39,6 @@
 
 * [**searx.dk**](https://searx.dk/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dk)
 
-* [**suche.ftp.sh**](https://suche.ftp.sh/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
-
 * [**search.datensturm.net**](https://search.datensturm.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.datensturm.net)
 
 * [**searx.gotrust.de**](https://searx.gotrust.de/) (as [Hidden Service](http://nxhhwbbxc4khvvlw.onion/))  - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.gotrust.de)
@@ -50,6 +48,8 @@
 * [**searx.prvcy.eu**](https://searx.prvcy.eu/) (as [Hidden Service](http://twmpzbyurmu2hjpp.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.prvcy.eu)
 
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
+
+* [**suche.ftp.sh**](https://suche.ftp.sh/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
 
 * [**rubri.co**](https://rubri.co) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=rubri.co)
 
@@ -187,6 +187,9 @@
 
 * [**searx.tyil.nl**](https://searx.tyil.nl) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tyil.nl)
 
+* [**OpenGO**](https://www.opengo.nl) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
+
+
 ### Running with an incorrect SSL certificate:
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
@@ -197,7 +200,12 @@
 
 * [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
 
-* [**OpenGO**](https://www.opengo.nl) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
+* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (online 20180402) Issuer: Let's Encrypt[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
+
+* [**searx.impstyle.com**](https://searx.impstyle.com) - (online 20180402) Issuer: Let's Encrypt
+
+* [**icebal.com**](https://icebal.com) - (online 20180402) Issuer: Let's Encrypt
+
 
 ### Offline:
 
@@ -221,21 +229,15 @@
 
 * [**searx.space**](https://searx.space) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.space)
 
-* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (down) Issuer: CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
-
 * [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
 * [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare
 
 * [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - (down) Issuer: Let's Encrypt
 
-* [**icebal.com**](https://icebal.com) - (down) Issuer: Let's Encrypt
-
 * [**searx.fi**](https://searx.fi) - (down) Issuer: Let's Encrypt
 
 * [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: CloudFlare
-
-* [**searx.impstyle.com**](https://searx.impstyle.com) - (down) Issuer: Let's Encrypt
 
 * [**www.mercurius.space**](https://www.mercurius.space/) - (down) Issuer: Let's Encrypt
 
