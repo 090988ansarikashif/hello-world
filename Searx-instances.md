@@ -112,11 +112,9 @@
 
 * [**searx.at**](https://searx.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.at)
 
-* [**searx.techregion.de**](https://searx.techregion.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
-
 * [**search.st8.at**](https://search.st8.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.st8.at)
 
-* [**search.kosebamse.com**](https://search.kosebamse.com/) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
+* [**search.kosebamse.com**](https://search.kosebamse.com/) (Internal Server Error 20180402)- Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
 
 * [**perfectpixel.de/searx/**](https://www.perfectpixel.de/searx/) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
 
@@ -124,11 +122,11 @@
 
 * [**searx.infini.fr**](https://searx.infini.fr) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.infini.fr)
 
-* [**search.hzsogood.net**](https://search.hzsogood.net/) - Issuer: COMODO (Cloudflare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.hzsogood.net)
+* [**search.hzsogood.net**](https://search.hzsogood.net/) (misconfigured? 20180402)- Issuer: COMODO (Cloudflare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.hzsogood.net)
 
 * [**searx.kvch.me**](https://searx.kvch.me) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kvch.me)
 
-* [**searx.com.au**](https://searx.com.au) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
+* [**searx.com.au**](https://searx.com.au) (offline? 20180402)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
 
 * [**p9e.de**](https://p9e.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=p9e.de)
 
@@ -185,7 +183,7 @@
 
 * [**s.bacafe.xyz**](https://s.bacafe.xyz) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.bacafe.xyz&latest)
 
-* [**searx.tyil.nl**](https://searx.tyil.nl) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tyil.nl)
+* [**searx.tyil.nl**](https://searx.tyil.nl) - (offline? 20180402) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tyil.nl)
 
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - (online 20180402) Issuer: Let's Encrypt[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 
@@ -197,6 +195,8 @@
 
 
 ### Running with an incorrect SSL certificate:
+
+* [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
 
