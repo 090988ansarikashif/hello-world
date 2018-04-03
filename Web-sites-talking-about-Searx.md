@@ -45,6 +45,7 @@
 * http://linuxfr.org/news/se-passer-de-google-facebook-et-autres-big-brothers-2-0-1-les-moteurs-de-recherche#seeks
 * http://framacloud.org/cultiver-son-jardin/installation-de-searx/
 * https://www.pastoutdesuite.fr/cher-google-pars/
+* http://franck-ridel.fr/comment-anonymiser-searx-partie-1-anonsurf-et-whonix/
 
 ### German
 
