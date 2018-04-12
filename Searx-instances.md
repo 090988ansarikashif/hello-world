@@ -193,6 +193,8 @@
 
 * [**OpenGO**](https://www.opengo.nl) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
 
+* [**searx.moravit.com**](https://searx.moravit.com) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.moravit.com)
+
 
 ### Running with an incorrect SSL certificate:
 
