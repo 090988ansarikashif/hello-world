@@ -165,9 +165,6 @@
 * [**searx.pofilo.fr**](https://searx.pofilo.fr) - Issuer: Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pofilo.fr)
 
-* [**searx.ehrmanns.ch**](https://searx.ehrmanns.ch) - Issuer: Let's Encrypt 
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ehrmanns.ch)
-
 * [**searx.openhoofd.nl**](https://searx.openhoofd.nl/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=openhoofd.nl)
 
 * [**searx.site**](https://searx.site/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.site) 
@@ -243,3 +240,6 @@
 * [**www.mercurius.space**](https://www.mercurius.space/) - (down) Issuer: Let's Encrypt
 
 * [**search.r3d007.com**](https://search.r3d007.com/) - (down) Issuer: Let's Encrypt
+
+* [**searx.ehrmanns.ch**](https://searx.ehrmanns.ch) - Issuer: Let's Encrypt 
+[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ehrmanns.ch)
