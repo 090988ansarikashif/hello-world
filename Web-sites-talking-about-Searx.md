@@ -63,6 +63,7 @@
 * http://codingworld.io/project/searx-auf-dem-raspberry-pi-installieren
 * http://www.dimido.de/searx-bau-dir-deine-eigene-suchmaschine-3041
 * http://www.golem.de/news/howto-goodbye-google-suchmaschinen-selber-hosten-1610-123482.html
+* https://www.kuketz-blog.de/suchmaschinen-welche-respektieren-die-privatsphaere/
 
 ### Italian
 
