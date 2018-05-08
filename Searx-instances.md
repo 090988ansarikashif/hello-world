@@ -246,8 +246,6 @@
 
 * [**search.tolstoevsky.ml**](https://search.tolstoevsky.ml) - (down) Issuer: Let's Encrypt 
 
-* [**searx.impstyle.com**](https://searx.impstyle.com) - (down) Issuer: Let's Encrypt
-
 * [**search.datensturm.net**](https://search.datensturm.net/) - (down) Issuer: Let's Encrypt
 
 * [**rubri.co**](https://rubri.co) - (down) Issuer: Let's Encrypt
