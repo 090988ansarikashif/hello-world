@@ -46,6 +46,7 @@
 * http://framacloud.org/cultiver-son-jardin/installation-de-searx/
 * https://www.pastoutdesuite.fr/cher-google-pars/
 * http://franck-ridel.fr/comment-anonymiser-searx-partie-1-anonsurf-et-whonix/
+* https://www.pofilo.fr/post/20180419_searx/
 
 ### German
 
