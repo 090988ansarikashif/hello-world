@@ -11,6 +11,8 @@
 ## List of public Searx instances
 
 ### Alive and running:
+* [**searx.win**](https://searx.win/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.win&latest)
+
 * [**searx.xyz**](https://searx.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xyz&latest)
 
 * [**citizen-cam.de**](https://citizen-cam.de/) (as [Hidden Service](http://eljwdzi4pgrrlwwq.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=citizen-cam.de)
