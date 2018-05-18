@@ -73,7 +73,7 @@
 
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
 
-* [**suche.ftp.sh**](https://suche.ftp.sh/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
+* [**suche.ftp.sh**](https://suche.ftp.sh/) (as [Hidden Service](http://suche.xyzco456vwisukfg.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
 
 * [**search404.io**](https://www.search404.io/) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
 
