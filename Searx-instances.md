@@ -188,7 +188,7 @@
 
 * [**Searx-PH**](https://z.awsmppl.com:8444/) - Issuer: Let's Encrypt [Verification]
 
-* [**search.snopyta.com**](https://search.snopyta.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.snopyta.com)
+* [**search.snopyta.com**](https://search.snopyta.com/) (as [Hidden Service](http://juy4e6eicawzdrz7.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.snopyta.com)
 
 ### Running with an incorrect SSL certificate:
 
