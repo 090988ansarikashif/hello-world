@@ -188,6 +188,8 @@
 
 * [**Searx-PH**](https://z.awsmppl.com:8444/) - Issuer: Let's Encrypt [Verification]
 
+* [**search.snopyta.com**](https://search.snopyta.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.snopyta.com)
+
 ### Running with an incorrect SSL certificate:
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
