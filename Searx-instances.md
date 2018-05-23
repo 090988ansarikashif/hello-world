@@ -184,7 +184,7 @@
 
 * [**search.moravit.com**](https://search.moravit.com) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.moravit.com)
 
-* [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification]
+* [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
 
 * [**Searx-PH**](https://z.awsmppl.com:8444/) - Issuer: Let's Encrypt [Verification]
 
