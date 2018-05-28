@@ -12,7 +12,7 @@
 
 ### Alive and running:
 
-* [**vsrv15195.customer.xenway.de**](http://http://vsrv15195.customer.xenway.de:8888/) 
+* [**vsrv15195.customer.xenway.de**](http://vsrv15195.customer.xenway.de:8888/) 
 
 * [**search.seds.nl**](https://search.seds.nl/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.seds.nl&latest)
 
