@@ -12,6 +12,8 @@
 
 ### Alive and running:
 
+* [**search.activemail.de**](https://search.activemail.de/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.activemail.de&latest)
+
 * [**vsrv15195.customer.xenway.de**](http://vsrv15195.customer.xenway.de:8888/) 
 
 * [**search.seds.nl**](https://search.seds.nl/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.seds.nl&latest)
