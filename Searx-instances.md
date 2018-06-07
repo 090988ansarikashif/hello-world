@@ -14,6 +14,8 @@
 
 * [**search.modalogi.com**](https://search.modalogi.com/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.modalogi.com&latest)
 
+* [**searx.openpandora.org**](https://searx.openpandora.org/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.openpandora.org&latest)
+
 * [**search.activemail.de**](https://search.activemail.de/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.activemail.de&latest)
 
 * [**vsrv15195.customer.xenway.de**](http://vsrv15195.customer.xenway.de:8888/) 
