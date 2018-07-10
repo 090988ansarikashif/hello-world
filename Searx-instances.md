@@ -11,6 +11,7 @@
 ## List of public Searx instances
 
 ### Alive and running:
+* [**listi.me**](https://listi.me/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=listi.me&latest)
 
 * [**search.modalogi.com**](https://search.modalogi.com/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.modalogi.com&latest)
 
