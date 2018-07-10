@@ -115,7 +115,7 @@
 
 * [**searx.drakonix.net**](https://searx.drakonix.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
 
-* [**search.4ray.co**](https://search.4ray.co/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.4ray.co)
+* [**searx.4ray.co**](https://searx.4ray.co/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.4ray.co)
 
 * [**search.azkware.net**](https://search.azkware.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.azkware.net)
 
