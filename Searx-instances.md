@@ -198,7 +198,7 @@
 
 * [**Searx-PH**](https://z.awsmppl.com:8444/) - Issuer: Let's Encrypt [Verification]
 
-* [**search.snopyta.com**](https://search.snopyta.com/) (as [Hidden Service](http://juy4e6eicawzdrz7.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.snopyta.com)
+* [**search.snopyta.org**](https://search.snopyta.org/) (as [Hidden Service](http://juy4e6eicawzdrz7.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.snopyta.org)
 
 * [**search.paulla.asso.fr**](https://search.paulla.asso.fr/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paulla.asso.fr)
 
