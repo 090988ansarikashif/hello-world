@@ -210,7 +210,7 @@
 
 * [**searx.linux.pizza**](https://searx.linux.pizza) - Issuer: Let's Encrypt [Verification] (https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
 
-* [**searx.selea.se**](https://searx.selea.se) - Issuer: RapidSSL [Verification, domain is also HSTS preloaded] (https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se)
+* [**searx.selea.se**](https://searx.selea.se) - Issuer: RapidSSL (Domain is also HSTS preloaded) [Verification]https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se)
 
 ### Running with an incorrect SSL certificate:
 
