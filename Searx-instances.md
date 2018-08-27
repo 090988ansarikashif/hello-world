@@ -214,6 +214,8 @@
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se) |
 [HSTS Preload](https://hstspreload.org/?domain=searx.selea.se)
 
+* [**searx.lvweb.host**](https://searx.lvweb.host) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lvweb.host)
+
 ### Running with an incorrect SSL certificate:
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
