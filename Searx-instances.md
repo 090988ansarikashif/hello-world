@@ -210,7 +210,7 @@
 
 * [**searx.linux.pizza**](https://searx.linux.pizza) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
 
-* [**searx.selea.se**](https://searx.selea.se) - Issuer: RapidSSL (Domain is also HSTS preloaded)
+* [**searx.selea.se**](https://searx.selea.se) - Issuer: RapidSSL (HSTS preloaded, DNSSEC)
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se) |
 [HSTS Preload](https://hstspreload.org/?domain=searx.selea.se)
 
