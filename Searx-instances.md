@@ -88,8 +88,6 @@
 
 * [**searx.nogafa.org**](https://searx.nogafa.org/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nogafa.org)
 
-* [**search.blackit.de**](https://search.blackit.de/) - Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
-
 * [**searx.good.one.pl**](https://searx.good.one.pl) (as [Hidden Service](http://searxl7u2y6gvonm.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.good.one.pl)
 
 * [**searx.dk**](https://searx.dk/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dk)
@@ -102,17 +100,11 @@
 
 * [**search404.io**](https://www.search404.io/) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
 
-* [**searx.cc**](https://searx.cc/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cc) 
-
-* [**searx.ch**](https://searx.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ch) 
-
 * [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
 
 * [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
 
 * [**searx.oe5tpo.com**](https://searx.oe5tpo.com) - Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.oe5tpo.com)
-
-* [**search.homecomputing.fr**](https://search.homecomputing.fr/) - Issuer: CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
 
 * [**searx.potato.hu**](https://searx.potato.hu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.potato.hu)
 
@@ -286,3 +278,11 @@
 * [**icebal.com**](https://icebal.com) - Issuer: Let's Encrypt
 
 * [**Searx-PH**](https://z.awsmppl.com:8444/) - Issuer: Let's Encrypt [Verification]
+
+* [**search.blackit.de**](https://search.blackit.de/) - Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
+
+* [**searx.ch**](https://searx.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ch) 
+
+* [**searx.cc**](https://searx.cc/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cc) 
+
+* [**search.homecomputing.fr**](https://search.homecomputing.fr/) - Issuer: CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
