@@ -2,7 +2,7 @@
 
 ## Useful information
 
- * Up-to-date health report available on http://stats.searx.oe5tpo.com and https://stats.searx.xyz, for onion (tor) services: https://stats.searx.xyz/tor.html
+ * Up-to-date health report available on https://stats.searx.xyz, for onion (tor) services: https://stats.searx.xyz/tor.html
  * Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
  * Some of the searx instances have a CAcert SSL certificate. You can install the missing root cert [from here](http://www.cacert.org/index.php?id=3).
  * If you can't decide which searx instance to use, try "[Searxes](https://searxes.danwin1210.me/)" or [searx.neocities.org](https://searx.neocities.org/). This will use other Searx randomly.
@@ -106,8 +106,6 @@
 * [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
 
 * [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
-
-* [**searx.oe5tpo.com**](https://searx.oe5tpo.com) - Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.oe5tpo.com)
 
 * [**searx.potato.hu**](https://searx.potato.hu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.potato.hu)
 
