@@ -195,6 +195,8 @@
 
 * [**search.wxzm.sx**](https://search.wxzm.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.wxzm.sx)
 
+* [**z.awsmppl.com**](https://z.awsmppl.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=z.awsmppl.com)
+
 ### Running with an incorrect SSL certificate:
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
@@ -280,7 +282,6 @@
 
 * [**icebal.com**](https://icebal.com) - Issuer: Let's Encrypt
 
-* [**Searx-PH**](https://z.awsmppl.com:8444/) - Issuer: Let's Encrypt [Verification]
 
 * [**search.blackit.de**](https://search.blackit.de/) - Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
 
