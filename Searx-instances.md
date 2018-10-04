@@ -21,6 +21,8 @@
 
 * [**searx.xyz**](https://searx.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xyz&latest)
 
+* [**searx.rubbeldiekatz.info**](https://searx.rubbeldiekatz.info/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.rubbeldiekatz.info/)
+
 * [**searx.elukerio.org**](https://searx.elukerio.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.elukerio.org/)
 
 * [**searx.libmail.eu**](https://searx.libmail.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu/)
@@ -245,8 +247,6 @@
 * [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
 * [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare
-
-* [**search.rubbeldiekatz.info**](https://search.rubbeldiekatz.info/) - (down) Issuer: Let's Encrypt
 
 * [**searx.fi**](https://searx.fi) - (down) Issuer: Let's Encrypt
 
