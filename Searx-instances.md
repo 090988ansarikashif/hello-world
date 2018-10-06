@@ -72,9 +72,6 @@
 
 * [**gruble.de**](https://www.gruble.de/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.gruble.de)
 
-* [**s3arch.eu**](https://s3arch.eu) (as [Hidden Service](http://eb6w5ctgodhchf3p.onion)) - Issuer: Let's Encrypt 
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s3arch.eu&hideResults=on)
-
 * [**searx.haxors.club**](https://searx.haxors.club/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.haxors.club)
 
 * [**searx.ru**](https://searx.ru/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ru)
@@ -149,7 +146,7 @@
 
 * [**searx.antirep.net**](https://searx.antirep.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.antirep.net)
 
-* [**search.stinpriza.org**](https://search.stinpriza.org) - Issuer: Let's Encrypt 
+* [**search.stinpriza.org**](https://search.stinpriza.org) (as [Hidden Service](http://z5vawdol25vrmorm4yydmohsd4u6rdoj2sylvoi3e3nqvxkvpqul7bqd.onion/))- Issuer: Let's Encrypt 
 [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.stinpriza.org&hideResults=on)
 
 * [**search.mdosch.de**](https://search.mdosch.de/) (as [Hidden Service](http://search.4bkxscubgtxwvhpe.onion/)) - Issuer: Let's Encrypt
