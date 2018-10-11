@@ -101,6 +101,11 @@ Change ownership of the new config file :
 chown uwsgi:uwsgi /etc/uwsgi.d/searx.ini
 ```
 
+Create PID directory :
+```
+mkdir /run/uwsgi
+```
+
 Activate the uwsgi application and restart :
 ```sh
 systemctl enable uwsgi
