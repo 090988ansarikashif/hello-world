@@ -104,6 +104,7 @@ chown uwsgi:uwsgi /etc/uwsgi.d/searx.ini
 Create PID directory :
 ```
 mkdir /run/uwsgi
+chown searx:searx -R /run/uwsgi
 ```
 
 Activate the uwsgi application and restart :
@@ -115,8 +116,82 @@ systemctl start uwsgi
 # Web server
 
 ## with nginx
+Install NGINX if not already installed :
 
-TODO ...
+```
+yum install nginx
+```
+
+Hosted at /
+
+Create the configuration file /etc/nginx/conf.d/searx.conf with this content:
+
+```
+server {
+    listen 80;
+    listen [::]:80;
+
+    server_name searx.example.com;
+
+    location / {
+            include uwsgi_params;
+            uwsgi_pass 127.0.0.1:8888;
+    }
+}
+```
+NOTE: If searx is the only site you are hosting on this server (ideally) then you may need to disable the NGINX default site. Delete or comment out the server section from /etc/nginx/nginx.conf
+
+Restart service:
+
+```
+systemctl restart nginx
+systemctl restart uwsgi
+```
+
+Hosted from subdirectory (/searx)
+
+Add this configuration in the server config file /etc/nginx/nginx.conf :
+
+```
+location = /searx { rewrite ^ /searx/; }
+location /searx {
+        try_files $uri @searx;
+}
+location @searx {
+        uwsgi_param SCRIPT_NAME /searx;
+        include uwsgi_params;
+        uwsgi_modifier1 30;
+        uwsgi_pass 127.0.0.1:8888;
+}
+```
+
+Enable base_url in searx/settings.yml
+
+```
+base_url : http://your.domain.tld/searx/
+```
+
+Restart service:
+
+```
+systemctl restart nginx
+systemctl restart uwsgi
+```
+
+Disable logs
+
+For better privacy you can disable nginx logs about searx.  Below uwsgi_pass in /etc/nginx/conf.d/ssearx or /etc/nginx/nginx.conf add
+
+```
+access_log /dev/null;
+error_log /dev/null;
+```
+
+Restart service:
+
+```
+sudo service nginx restart
+```
 
 ## with apache 
 
@@ -142,7 +217,7 @@ If you have SELinux enabled, you must allow httpd to allow network connect :
 setsebool -P httpd_can_network_connect 1
 ```
 
-# How to update (no tested)
+# How to update (not tested)
 
 ```sh
 cd /usr/local/searx
