@@ -194,7 +194,6 @@
 
 * [**search.wxzm.sx**](https://search.wxzm.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.wxzm.sx)
 
-* [**z.awsmppl.com**](https://z.awsmppl.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=z.awsmppl.com)
 
 ### Running with an incorrect SSL certificate:
 
@@ -287,3 +286,5 @@
 * [**searx.cc**](https://searx.cc/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cc) 
 
 * [**search.homecomputing.fr**](https://search.homecomputing.fr/) - Issuer: CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
+
+* [**z.awsmppl.com**](https://z.awsmppl.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=z.awsmppl.com)
