@@ -5,6 +5,7 @@ Because it took me some time to make things work with Apache, I thought I might 
 First of all you need to enable the Apache headers module.
 
 **a2enmod headers**
+
 **service apache2 restart**
 
 
