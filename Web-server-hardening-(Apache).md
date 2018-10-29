@@ -21,4 +21,8 @@ I managed to get an A+ rating with https://observatory.mozilla.org/ afterwards.
 
 **`Header always set Strict-Transport-Security "max-age=63072000; includeSubdomains;"`**
 
+**`Header always set Referrer-Policy "same-origin"`**
+
+
+
 **`Header always append X-XSS-Protection 1`**
