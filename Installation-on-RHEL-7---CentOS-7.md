@@ -180,7 +180,7 @@ systemctl restart uwsgi
 
 Disable logs
 
-For better privacy you can disable nginx logs about searx.  Below uwsgi_pass in /etc/nginx/conf.d/ssearx or /etc/nginx/nginx.conf add
+For better privacy you can disable nginx logs about searx.  Below uwsgi_pass in /etc/nginx/conf.d/searx.conf or /etc/nginx/nginx.conf add
 
 ```
 access_log /dev/null;
