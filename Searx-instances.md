@@ -201,6 +201,8 @@
 
 * [**trovu.komun.org**](https://trovu.komun.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=trovu.komun.org)
 
+* [**searx.riseup.net**](https://searx.riseup.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.riseup.net)
+
 
 ### Running with an incorrect SSL certificate:
 
