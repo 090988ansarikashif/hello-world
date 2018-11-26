@@ -205,6 +205,7 @@
 
 * [**searx.nakhan.net**](https://searx.nakhan.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nakhan.net)
 
+* [**searx.s42.space**](https://searx.s42.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.s42.space)
 
 ### Running with an incorrect SSL certificate:
 
