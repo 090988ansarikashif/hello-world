@@ -14,10 +14,10 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 | https://dogpile.com/ | | provide results from google and yahoo |
 | http://webcrawler.com/ | | provide results from google and yahoo | 
 | http://exalead.com/search/ | | has spam protection with captcha |
-| https://izsearch.com/ | | |
-| https://millionshort.com/ | | |
-| https://www.mojeek.com/ | https://mojeek.com/services/api.html | |
-| https://oscobo.co.uk/ | | |
+| https://izsearch.com/ | https://izsearch.com/api.html | Privacy focused, clean from the Ads and Spam web search engine. |
+| https://millionshort.com/ | | Search engine that allows you to filter and refine your search results set. |
+| https://www.mojeek.com/ | https://mojeek.com/services/api.html | Independent and unbiased engine. |
+| https://oscobo.co.uk/ | | A engine created for protecting your privacy. |
 | https://jivesearch.com/ | | A search engine that doesn't track you. Uses Yandex API. |
 
 ### Files
