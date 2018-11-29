@@ -15,12 +15,9 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 | http://webcrawler.com/ | | provide results from google and yahoo | 
 | http://exalead.com/search/ | | has spam protection with captcha |
 | https://izsearch.com/ | | |
-| https://millionshort.com/ https://milliontall.com/ | | |
+| https://millionshort.com/ | | |
 | https://www.mojeek.com/ | https://mojeek.com/services/api.html | |
 | https://oscobo.co.uk/ | | |
-| https://about.commonsearch.org/| | |
-| http://mamma.com | | Meta search engine |
-| https://deusu.org | https://github.com/MichaelSchoebel/DeuSu | Open source search engine |
 | https://jivesearch.com/ | | A search engine that doesn't track you. Uses Yandex API. |
 
 ### Files
