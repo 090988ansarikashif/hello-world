@@ -10,7 +10,7 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
 | http://yippy.com | | metasearch engine|
-| https://search.disconnect.me/ | | support google, bing, yahoo and blekko queries |
+| https://search.disconnect.me/ | | provide results from ddg, bing or yahoo |
 | http://dogpile.com/ http://www.zoo.com/ http://webcrawler.com/ | | provide results from google and yahoo |
 | http://exalead.com/search/ | | has spam protection with captcha |
 | https://izsearch.com/ | | |
