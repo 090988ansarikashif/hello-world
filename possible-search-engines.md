@@ -20,10 +20,11 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 | https://about.commonsearch.org/| | |
 | http://mamma.com | | Meta search engine |
 | https://deusu.org | https://github.com/MichaelSchoebel/DeuSu | Open source search engine |
+| https://jivesearch.com/ | | A search engine that doesn't track you. Uses Yandex API. |
 
 ### Files
 
-Note: https://torrentz2.eu/help#indexed show what torrent engines could be implemented
+Note: https://torrentz2.is/help#indexed show what torrent engines could be implemented
 
 | site-url | api-doc (if available) | comments |
 | -------- | ---------------------- | -------- |
@@ -103,6 +104,7 @@ Note: https://torrentz2.eu/help#indexed show what torrent engines could be imple
 | http://del.icio.us |  | [using operators](http://lifehacker.com/136578/geek-to-live--find-free-music-on-the-web) |
 | http://www.google.com |  | [using operators](http://www.marcandangel.com/2006/10/13/turn-google-into-napster-2000/), similarly to [Singingfish](http://wayback.archive.org/web/20050303052440/http://search.singingfish.com/sfw/home.jsp) |
 | http://www.blinkx.com | | find a/v snippets from quotes |
+| https://invidio.us | | An alternative front-end to YouTube. |
 
 ### Map
 
