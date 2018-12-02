@@ -56,8 +56,6 @@
 
 * [**searx.angristan.xyz**](https://searx.angristan.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.angristan.xyz)
 
-* [**searx.koyu.space**](https://searx.koyu.space/) Issuer: Cloudflare, Inc. [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.koyu.space)
-
 * [**searx.fr32k.de**](https://searx.fr32k.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fr32k.de)
 
 * [**searx.pofilo.fr**](https://searx.pofilo.fr) - Issuer: Let's Encrypt 
