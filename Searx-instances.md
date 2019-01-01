@@ -203,8 +203,6 @@
 
 * [**searx.lvweb.host**](https://searx.lvweb.host) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lvweb.host)
 
-* [**searx.rolobio.com**](https://searx.rolobio.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.rolobio.com)
-
 * [**search.wxzm.sx**](https://search.wxzm.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.wxzm.sx)
 
 * [**trovu.komun.org**](https://trovu.komun.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=trovu.komun.org)
