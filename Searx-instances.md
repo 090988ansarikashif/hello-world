@@ -12,6 +12,8 @@
 
 ### Alive and running:
 
+* [**searx.nixnet.xyz**](https://searx.nixnet.xyz) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nixnet.xyz)
+
 * [**search.ethibox.fr**](https://search.ethibox.fr) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.ethibox.fr)
 
 * [**s.cmd.gg**](https://s.cmd.gg) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.cmd.gg)
