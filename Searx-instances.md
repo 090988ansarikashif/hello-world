@@ -241,6 +241,7 @@
 
 * [**searx.ahh.si**](https://searx.ahh.si/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ahh.si) 
 
+* [**search.namedkitten.pw**](https://search.namedkitten.pw) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.namedkitten.pw)
 
 ### Offline:
 
