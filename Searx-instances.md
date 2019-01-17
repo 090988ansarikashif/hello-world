@@ -223,8 +223,6 @@
 
 * [**srx.stdout.net**](https://srx.stdout.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.stdout.net)
 
-* [**h.searx.info**](http://h.searx.info) - only available on Hyperboria/CJDNS network
-
 * [**search.deblan.org**](https://search.deblan.org/) (down) - Issuer: COMODO via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
 
 * [**search.mailaender.coffee**](https://search.mailaender.coffee/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mailaender.coffee)
