@@ -1,5 +1,5 @@
 ### Tools
-* https://github.com/ik9999/searx-term
+* https://github.com/ik9999/popupsearch
 * https://chrome.google.com/webstore/detail/searx-chrome-extension/ecgofbgdngapmhanfdbkbfpnfeaclkpd
 * https://github.com/fuerbringer/searxbot
 * https://bitnami.com/stack/searx
