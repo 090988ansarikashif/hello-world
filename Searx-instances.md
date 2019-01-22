@@ -247,6 +247,9 @@
 
 * [**searx.fi**](https://searx.fi) - (down) Issuer: Let's Encrypt
 
+
+* [**searx.lelux.fi**](https://searx.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lelux.fi)
+
 * [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: CloudFlare
 
 * [**www.mercurius.space**](https://www.mercurius.space/) - (down) Issuer: Let's Encrypt
@@ -270,8 +273,6 @@
 * [**search.tolstoevsky.ml**](https://search.tolstoevsky.ml) - (down) Issuer: Let's Encrypt 
 
 * [**rubri.co**](https://rubri.co) - (down) Issuer: Let's Encrypt
-
-* [**searx.lelux.fi**](https://searx.lelux.fi/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lelux.fi)
 
 * [**searx.rubbeldiekatz.info**](https://searx.rubbeldiekatz.info/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.rubbeldiekatz.info/)
 
