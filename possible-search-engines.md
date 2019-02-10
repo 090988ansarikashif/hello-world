@@ -147,3 +147,7 @@ Note: https://torrentz2.is/help#indexed show what torrent engines could be imple
 | http://spaceapi.net | | status and informations about hackerspaces |
 | http://www.navitia.io | | public transport API |
 | https://github.com/golastmile/rasa_nlu | | can parse "show me a mexican place in the centre" |
+| https://world.openfoodfacts.org/ | | food products
+| https://world.openbeautyfacts.org/ | | cosmetics and hygiene products
+| https://world.openpetfoodfacts.org/ | | pet food products
+| https://world.openproductsfacts.org/ | | other products (these open products sites have versions with `"country code"[-"language code"])` instead of `world`, or `world-"language code"`, but the Web search UI can only find the primary language version of each product anyway)
