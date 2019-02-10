@@ -15,6 +15,8 @@
 
 * [**searx.elukerio.org**](https://searx.elukerio.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.elukerio.org/)
 
+* [**haku.lelux.fi**](https://haku.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
+
 * [**searx.libmail.eu**](https://searx.libmail.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu/)
 
 * [**search.snopyta.org**](https://search.snopyta.org/) (as [Hidden Service](http://juy4e6eicawzdrz7.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.snopyta.org)
@@ -246,11 +248,6 @@
 * [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
 * [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare
-
-* [**searx.fi**](https://searx.fi) - (down) Issuer: Let's Encrypt
-
-
-* [**haku.lelux.fi**](https://haku.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
 
 * [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: CloudFlare
 
