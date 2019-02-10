@@ -250,7 +250,7 @@
 * [**searx.fi**](https://searx.fi) - (down) Issuer: Let's Encrypt
 
 
-* [**search.lelux.fi**](https://search.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.lelux.fi)
+* [**haku.lelux.fi**](https://haku.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
 
 * [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: CloudFlare
 
