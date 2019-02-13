@@ -222,8 +222,9 @@
 
 * [**listi.me**](https://listi.me/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=listi.me&latest)
 
-
 * [**searx.abenthung.it**](https://searx.abenthung.it/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.abenthung.it)
+
+* [**perfectpixel.de/searx/**](https://www.perfectpixel.de/searx/) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
 
 ### Offline:
 
@@ -280,8 +281,6 @@
 * [**searx.32bitflo.at**](https://searx.32bitflo.at/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at)
 
 * [**searx.drakonix.net**](https://searx.drakonix.net/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
-
-* [**perfectpixel.de/searx/**](https://www.perfectpixel.de/searx/) - (down) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
 
 * [**searx.com.au**](https://searx.com.au/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
 
