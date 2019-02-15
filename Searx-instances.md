@@ -200,6 +200,8 @@
 
 * [**perfectpixel.de/searx/**](https://www.perfectpixel.de/searx/) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
 
+* [**searx.be**](https://searx.be) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.be)
+
 ### Running with an incorrect SSL certificate:
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
