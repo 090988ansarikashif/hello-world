@@ -202,6 +202,8 @@
 
 * [**searx.be**](https://searx.be) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.be)
 
+* [**search.teej.xyz**](https://search.teej.xyz) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.teej.xyz)
+
 ### Running with an incorrect SSL certificate:
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
