@@ -206,6 +206,8 @@
 
 * [**searx.lavatech.top**](https://searx.lavatech.top/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lavatech.top)
 
+* [**searx.run**](https://searx.run/) Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.run)
+
 ### Running with an incorrect SSL certificate:
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
@@ -307,7 +309,6 @@
 * [**searx.mrtino.eu**](https://searx.mrtino.eu) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.mrtino.eu)
 
 * [**icebal.com**](https://icebal.com) - (down) Issuer: Let's Encrypt
-
 
 * [**search.blackit.de**](https://search.blackit.de/) - (down) Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
 
