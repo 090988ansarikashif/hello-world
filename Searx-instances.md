@@ -210,6 +210,8 @@
 
 * [**searx.run**](https://searx.run/) Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.run)
 
+* [**huyo.me**](https://huyo.me/) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=huyo.me)
+
 ### Running with an incorrect SSL certificate:
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
