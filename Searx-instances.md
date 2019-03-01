@@ -53,8 +53,6 @@
 
 * [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
 
-* [**anyonething.de**](https://anyonething.de) - Issuer: Comodo CA Limited (Cloudflare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
-
 * [**stemy.me/searx**](https://stemy.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=stemy.me)
 
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
@@ -322,3 +320,6 @@
 * [**search.homecomputing.fr**](https://search.homecomputing.fr/) - (down) Issuer: CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
 
 * [**z.awsmppl.com**](https://z.awsmppl.com) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=z.awsmppl.com)
+
+* [**anyonething.de**](https://anyonething.de) - (has become a pastebin) Issuer: Comodo CA Limited (Warning: uses CloudFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
+
