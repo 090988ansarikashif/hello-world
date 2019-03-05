@@ -211,6 +211,8 @@
 
 * [**huyo.me**](https://huyo.me/) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=huyo.me)
 
+* [**adoll.ml**](https://adoll.ml/) Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
+
 ### Running with an incorrect SSL certificate:
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
@@ -239,7 +241,6 @@
 
 * [**searx.nnto.net**](https://searx.nnto.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nnto.net)
 
-* [**adoll.ml**](https://adoll.ml/) Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
 
 ### Offline:
 
