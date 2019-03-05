@@ -239,6 +239,8 @@
 
 * [**searx.nnto.net**](https://searx.nnto.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nnto.net)
 
+* [**adoll.ml**](https://adoll.ml/) Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
+
 ### Offline:
 
 * [**srx.stdout.net**](https://srx.stdout.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.stdout.net)
