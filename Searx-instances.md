@@ -173,8 +173,6 @@
 
 * [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
 
-* [**050.ca**](https://050.ca) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=050.ca)
-
 * [**searx.zdechov.net**](https://searx.zdechov.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
 
 * [**searx.linux.pizza**](https://searx.linux.pizza) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
