@@ -14,6 +14,8 @@
 
 ### Alive and running:
 
+* [**so.sb**](https://so.sb/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
+
 * [**searx.li**](https://searx.li/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.li)
 
 * [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red&s=94.130.34.40)
