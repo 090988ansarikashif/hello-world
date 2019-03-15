@@ -134,7 +134,7 @@
 
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
 
-* [**searx.info**](https://searx.info) - Issuer: UserTrust via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.info)
+* [**searx.info**](https://searx.info) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.info)
 
 * [**search.jpope.org**](https://search.jpope.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
 
