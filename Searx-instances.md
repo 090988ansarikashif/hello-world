@@ -13,7 +13,7 @@
 ## List of public Searx instances
 
 ### Alive and running:
-* [**goso.ga**](https://goso.ga/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=goso.ga)
+* [**goso.ga**](https://goso.ga/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=goso.ga)
 
 * [**so.sb**](https://so.sb/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
 
