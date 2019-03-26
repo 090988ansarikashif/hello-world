@@ -83,6 +83,9 @@
 
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
 
+* [**suche.uferwerk.org**](https://suche.uferwerk.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.uferwerk.org)
+
+
 * [**search.disroot.org**](https://search.disroot.org/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.disroot.org)
 
 * [**searx.fr32k.de**](https://searx.fr32k.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fr32k.de)
