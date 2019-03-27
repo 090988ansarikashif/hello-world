@@ -248,6 +248,7 @@
 
 * [**searx.nnto.net**](https://searx.nnto.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nnto.net)
 
+* [**searx.ca**](https://searx.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ca)
 
 ### Offline:
 
