@@ -5,7 +5,7 @@
  * Up-to-date health report available on https://stats.searx.xyz<sup>(1)</sup>, for onion (tor) services: https://stats.searx.xyz/tor.html
  * Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
  * Some of the searx instances have a CAcert SSL certificate. You can install the missing root cert [from here](http://www.cacert.org/index.php?id=3).
- * If you can't decide which searx instance to use, try "[Searxes](https://searxes.danwin1210.me/)" or [searx.neocities.org](https://searx.neocities.org/). This will use other Searx randomly.
+ * If you can't decide which searx instance to use, try [searx.neocities.org](https://searx.neocities.org/). This will use other Searx randomly.
  * [**Searxes**](https://searxes.danwin1210.me/) (as [Hidden Service]( http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)
 
 <sup>(1)</sup> Note that most of the instances with a A+ grade in CSP column in this site are not fully functional - for example auto-completion does not work.
