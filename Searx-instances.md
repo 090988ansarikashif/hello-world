@@ -15,8 +15,8 @@ These are searx instances that source from another searx instance.  These are us
 
 | clearnet host | onion host | issuer | source selection method | extra privacy features
 |--|--|--|--|--
-[Danwin](https://searxes.danwin1210.me/) | [hidden service]( http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) | Let's Encrypt ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)) | random selection of running servers that satisfy admin's quality standards | filters out privacy-hostile CloudFlare sites and folds them below the high ranking results.
-[Neocities](https://searx.neocities.org/) | n/a | n/a | random selection of any known running server |
+[Danwin](https://searxes.danwin1210.me/) | [hidden service]( http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) | Let's Encrypt ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)) | sources data from a randomly selected running server that satisfies admin's quality standards which is used for post-processing | filters out privacy-hostile CloudFlare sites and folds them below the high ranking results.
+[Neocities](https://searx.neocities.org/) | n/a | n/a | redirects users directly to random selection of any known running server after entering query |
 
 ### Alive and running:
 * [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world)
