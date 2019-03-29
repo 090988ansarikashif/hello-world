@@ -5,12 +5,18 @@
  * Up-to-date health report available on https://stats.searx.xyz<sup>(1)</sup>, for onion (tor) services: https://stats.searx.xyz/tor.html
  * Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
  * Some of the searx instances have a CAcert SSL certificate. You can install the missing root cert [from here](http://www.cacert.org/index.php?id=3).
- * If you can't decide which searx instance to use, try [searx.neocities.org](https://searx.neocities.org/). This will use other Searx randomly.
- * [**Searxes**](https://searxes.danwin1210.me/) (as [Hidden Service]( http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)
 
 <sup>(1)</sup> Note that most of the instances with a A+ grade in CSP column in this site are not fully functional - for example auto-completion does not work.
 
 ## List of public Searx instances
+
+### Meta-searx instances
+These are searx instances that source from another searx instance.  These are useful if you can't decide which searx instance to use:
+
+| clearnet host | onion host | issuer | source selection method | extra privacy features
+|--|--|--|--|--
+[Danwin](https://searxes.danwin1210.me/) | [hidden service]( http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) | Let's Encrypt ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)) | random selection of running servers that satisfy admin's quality standards | filters out privacy-hostile CloudFlare sites and folds them below the high ranking results.
+[Neocities](https://searx.neocities.org/) | n/a | n/a | random selection of any known running server |
 
 ### Alive and running:
 * [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world)
