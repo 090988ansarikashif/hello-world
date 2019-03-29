@@ -16,11 +16,7 @@
 * [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world)
 * [**goso.ga**](https://goso.ga/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=goso.ga)
 
-* [**so.sb**](https://so.sb/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
-
 * [**searx.li**](https://searx.li/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.li)
-
-* [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red&s=94.130.34.40)
 
 * [**searx.elukerio.org**](https://searx.elukerio.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.elukerio.org/)
 
@@ -220,11 +216,15 @@
 
 * [**searx.canox.net**](https://searx.canox.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.canox.net)
 
-* [**searx.ca**](https://searx.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ca)
+
 
 ### Running with an incorrect SSL certificate:
 
 * [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
+
+* [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red&s=94.130.34.40)
+
+* [**searx.ca**](https://searx.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ca)
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
 
@@ -249,6 +249,8 @@
 * [**searx.abenthung.it**](https://searx.abenthung.it/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.abenthung.it)
 
 * [**searx.nnto.net**](https://searx.nnto.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nnto.net)
+
+* [**so.sb**](https://so.sb/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
 
 ### Offline:
 
