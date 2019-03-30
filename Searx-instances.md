@@ -19,6 +19,7 @@ These are searx instances that source from another searx instance.  These are us
 [Neocities](https://searx.neocities.org/) | n/a | n/a | redirects users directly to random selection of any known running server after entering query |
 
 ### Alive and running:
+* [**search.privacytools.io**](https://search.privacytools.io/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.privacytools.io)
 * [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world)
 * [**goso.ga**](https://goso.ga/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=goso.ga)
 
