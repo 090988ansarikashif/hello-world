@@ -99,6 +99,8 @@ These are searx instances that source from another searx instance.  These are us
 
 * [**search.activemail.de**](https://search.activemail.de/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.activemail.de&latest)
 
+* [**search.pifferi.info**](https://search.pifferi.info/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.pifferi.info&latest)
+
 * [**search.seds.nl**](https://search.seds.nl/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.seds.nl&latest)
 
 * [**searx.win**](https://searx.win/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.win&latest)
