@@ -226,6 +226,8 @@ These are searx instances that source from another searx instance.  These are us
 
 * [**searx.canox.net**](https://searx.canox.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.canox.net)
 
+* [**search.lgbtq.cool**](https://search.lgbtq.cool/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.lgbtq.cool)
+
 
 
 ### Running with an incorrect SSL certificate:
