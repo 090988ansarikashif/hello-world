@@ -228,6 +228,14 @@ These are searx instances that source from another searx instance.  These are us
 
 * [**search.lgbtq.cool**](https://search.lgbtq.cool/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.lgbtq.cool)
 
+* [**searxist.com**](https://searxist.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxist.com)
+
+* [**searx.ro**](https://searx.ro/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ro)
+
+* [**search.jpope.org**](https://search.jpope.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
+
+* [**searx.zdechov.net**](https://searx.zdechov.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
+
 
 
 ### Running with an incorrect SSL certificate:
