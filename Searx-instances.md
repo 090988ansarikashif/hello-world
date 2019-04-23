@@ -232,9 +232,19 @@ These are searx instances that source from another searx instance.  These are us
 
 * [**searx.ro**](https://searx.ro/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ro)
 
-* [**search.jpope.org**](https://search.jpope.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
+* [**searx.hardwired.link**](https://searx.hardwired.link/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.hardwired.link)
 
-* [**searx.zdechov.net**](https://searx.zdechov.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
+* [**searx.cybt.de**](https://searx.cybt.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cybt.de)
+
+* [**searx.salcay.hu**](https://searx.salcay.hu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.salcay.hu)
+
+* [**searx.operationtulip.com**](https://searx.operationtulip.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.operationtulip.com)
+
+* [**searx.orcadian.net**](https://searx.orcadian.net/) - Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.orcadian.net)
+
+* [**searx.4ray.co**](https://searx.4ray.co/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.4ray.co)
+
+* [**searx.lynnesbian.space**](https://searx.lynnesbian.space/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lynnesbian.space)
 
 
 
