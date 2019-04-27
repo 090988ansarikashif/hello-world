@@ -5,7 +5,7 @@
  * Up-to-date health report available on https://stats.searx.xyz<sup>(1)</sup>, for onion (tor) services: https://stats.searx.xyz/tor.html
  * Searx instances [mailing list](mailto:searx-instances@autistici.org) & [subscription page](https://www.autistici.org/mailman/listinfo/searx-instances).
  * Some of the Searx instances have a CAcert SSL certificate. You can install the missing root cert [from here](http://www.cacert.org/index.php?id=3).
- * You can add your own Searx instance to this page by clicking [here](https://github.com/asciimoo/searx/wiki/Searx-instances/_edit) or by clicking on the "Edit" button in the top right corner.
+ * You can add your own Searx instance to this page by clicking [here](https://github.com/asciimoo/searx/wiki/Searx-instances/_edit) or by clicking on the "Edit" button in the top right corner (when logged in). A GitHub account is required to make changes. 
 
 <sup>(1)</sup> Note that most of the instances with a A+ grade in CSP column in this site are not fully functional - for example auto-completion does not work.
 
@@ -215,8 +215,6 @@ These are searx instances that source from another searx instance.  These are us
 
 * [**searx.salcay.hu**](https://searx.salcay.hu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.salcay.hu)
 
-* [**searx.selea.se**](https://searx.selea.se) - Issuer: RapidSSL (HSTS preloaded, DNSSEC) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se) | [HSTS Preload](https://hstspreload.org/?domain=searx.selea.se)
-
 * [**searx.site**](https://searx.site/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.site) 
 
 * [**searx.solusar.de**](https://searx.solusar.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.solusar.de)
@@ -320,6 +318,8 @@ These are searx instances that source from another searx instance.  These are us
 * [**search.paulla.asso.fr**](https://search.paulla.asso.fr/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paulla.asso.fr)
 
 * [**search.r3d007.com**](https://search.r3d007.com/) - (down) Issuer: Let's Encrypt
+
+* [**searx.selea.se**](https://searx.selea.se) - (Leads to default Apache page) Issuer: RapidSSL (HSTS preloaded, DNSSEC) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se) | [HSTS Preload](https://hstspreload.org/?domain=searx.selea.se)
 
 * [**search.static.lu**](https://search.static.lu/) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
 
