@@ -19,350 +19,347 @@ These are searx instances that source from another searx instance.  These are us
 [Neocities](https://searx.neocities.org/) | n/a | n/a | redirects users directly to random selection of any known running server after entering query |
 
 ### Alive and running:
-* [**search.d4networks.com**](https://search.d4networks.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.d4networks.com)
-* [**search.privacytools.io**](https://search.privacytools.io/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.privacytools.io)
-* [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world)
-* [**goso.ga**](https://goso.ga/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=goso.ga)
-
-* [**searx.li**](https://searx.li/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.li)
-
-* [**searx.elukerio.org**](https://searx.elukerio.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.elukerio.org/)
-
-* [**haku.lelux.fi**](https://haku.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
-
-* [**searx.libmail.eu**](https://searx.libmail.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu/)
-
-* [**search.snopyta.org**](https://search.snopyta.org/) (as [Hidden Service](http://juy4e6eicawzdrz7.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.snopyta.org)
-
-* [**searx.pofilo.fr**](https://searx.pofilo.fr) - Issuer: Let's Encrypt 
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pofilo.fr)
-
-* [**searx.at**](https://searx.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.at)
-
-* [**search.st8.at**](https://search.st8.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.st8.at)
-
-* [**search.mdosch.de**](https://search.mdosch.de/) (as [Hidden Service](http://search.4bkxscubgtxwvhpe.onion/)) - Issuer: Let's Encrypt
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mdosch.de)
-
-* [**searx.xyz**](https://searx.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xyz&latest)
-
-* [**searx.prvcy.eu**](https://searx.prvcy.eu/) (as [Hidden Service](http://twmpzbyurmu2hjpp.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.prvcy.eu)
-
-* [**search.stinpriza.org**](https://search.stinpriza.org) (as [Hidden Service](http://z5vawdol25vrmorm4yydmohsd4u6rdoj2sylvoi3e3nqvxkvpqul7bqd.onion/))- Issuer: Let's Encrypt 
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.stinpriza.org&hideResults=on)
-
-* [**searx.site**](https://searx.site/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.site) 
-
-* [**search.ethibox.fr**](https://search.ethibox.fr) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.ethibox.fr)
-
-* [**s.cmd.gg**](https://s.cmd.gg) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.cmd.gg)
-
-* [**search.datensturm.net**](https://search.datensturm.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.datensturm.net)
-
-* [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
-
-* [**stemy.me/searx**](https://stemy.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=stemy.me)
-
-* [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
-
-* [**searx.ch**](https://searx.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ch)
-
-* [**haku.ahmia.fi**](https://haku.ahmia.fi/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.ahmia.fi&latest)
-
-* [**searx.zareldyn.net**](https://searx.zareldyn.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zareldyn.net)
-
-* [**search.modalogi.com**](https://search.modalogi.com/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.modalogi.com&latest)
-
-* [**searx.nixnet.xyz**](https://searx.nixnet.xyz) - (as [Hidden Service](http://searx.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nixnet.xyz)
-
-* [**searx.tyil.nl**](https://searx.tyil.nl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tyil.nl)
-
-* [**searx.aquilenet.fr**](https://searx.aquilenet.fr/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.aquilenet.fr)
-
-* [**searx.nulltime.net**](https://searx.nulltime.net/) (as [Hidden Service](http://searx7gwtu5rh6wr.onion)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)  
-
-* [**searx.solusar.de**](https://searx.solusar.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.solusar.de)
-
-* [**search.sudo-i.net**](https://search.sudo-i.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.sudo-i.net)
-
-* [**suche.elaon.de**](https://suche.elaon.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
-
-* [**suche.uferwerk.org**](https://suche.uferwerk.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.uferwerk.org)
-
-
-* [**search.disroot.org**](https://search.disroot.org/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.disroot.org)
-
-* [**searx.fr32k.de**](https://searx.fr32k.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fr32k.de)
-
-* [**searx.anongoth.pl**](https://searx.anongoth.pl) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.anongoth.pl&latest)
-
-* [**searx.openpandora.org**](https://searx.openpandora.org/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.openpandora.org&latest)
-
-* [**search.activemail.de**](https://search.activemail.de/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.activemail.de&latest)
-
-* [**search.pifferi.info**](https://search.pifferi.info/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.pifferi.info&latest)
-
-* [**search.seds.nl**](https://search.seds.nl/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.seds.nl&latest)
-
-* [**searx.win**](https://searx.win/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.win&latest)
-
-* [**gruble.de**](https://www.gruble.de/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.gruble.de)
-
-* [**searx.haxors.club**](https://searx.haxors.club/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.haxors.club)
-
-* [**searx.ru**](https://searx.ru/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ru)
-
-* [**searx.pwoss.xyz**](https://searx.pwoss.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pwoss.xyz)
-
-* [**openworlds.info**](https://openworlds.info/) Issuer: Let's Encrypt
-
-* [**search.biboumail.fr**](https://search.biboumail.fr/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.biboumail.fr)
-
-* [**finden.tk**](https://finden.tk/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=finden.tk)
-
-* [**searx.nogafa.org**](https://searx.nogafa.org/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nogafa.org)
-
-* [**searx.good.one.pl**](https://searx.good.one.pl) (as [Hidden Service](http://searxl7u2y6gvonm.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.good.one.pl)
-
-* [**searx.dk**](https://searx.dk/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dk)
-
-* [**searx.gotrust.de**](https://searx.gotrust.de/) (as [Hidden Service](http://nxhhwbbxc4khvvlw.onion/))  - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.gotrust.de)
-
-* [**search.gibberfish.org**](https://search.gibberfish.org/) (as [Hidden Service](http://o2jdk5mdsijm2b7l.onion/) or [Proxied through Tor](https://search.gibberfish.org/tor/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.gibberfish.org)
-
-* [**suche.ftp.sh**](https://suche.ftp.sh/) (as [Hidden Service](http://suche.xyzco456vwisukfg.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
-
-* [**search404.io**](https://www.search404.io/) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
-
-* [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
-
-* [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
-
-* [**searx.potato.hu**](https://searx.potato.hu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.potato.hu)
-
-* [**framabee.org**](https://framabee.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
-
-* [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
-
-* [**searx.info**](https://searx.info) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.info)
-
-* [**search.jpope.org**](https://search.jpope.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
-
-* [**searx.fossencdi.org**](https://searx.fossencdi.org) (as [Hidden Service](http://searx.cwuzdtzlubq5uual.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
-
-* [**search.koehn.com**](https://search.koehn.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
-
-* [**search.azkware.net**](https://search.azkware.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.azkware.net)
-
-* [**searx.infini.fr**](https://searx.infini.fr) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.infini.fr)
-
-* [**searx.kvch.me**](https://searx.kvch.me) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kvch.me)
-
-* [**p9e.de**](https://p9e.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=p9e.de)
-
-* [**searx.remote-shell.net**](https://searx.remote-shell.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.remote-shell.net)
-
-* [**roflcopter.fr**](https://wtf.roflcopter.fr/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=wtf.roflcopter.fr)
-
-* [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
-
-* [**searchx.mobi**](https://searchx.mobi/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchx.mobi)
-
-* [**searx.antirep.net**](https://searx.antirep.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.antirep.net)
-
-* [**www.searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt 
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
-
-* [**searx.foo.li**](https://searx.foo.li) - Issuer: Let's Encrypt 
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.foo.li&hideResults=on)
-
-* [**searx.openhoofd.nl**](https://searx.openhoofd.nl/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=openhoofd.nl)
-
-* [**searx.org**](https://searx.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.org) 
-
-* [**search.spaeth.me**](https://search.spaeth.me/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.spaeth.me&latest)
-
-* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer: Let's Encrypt[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
-
-* [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
-
-* [**searx.zdechov.net**](https://searx.zdechov.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
-
-* [**searx.linux.pizza**](https://searx.linux.pizza) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
-
-* [**searx.selea.se**](https://searx.selea.se) - Issuer: RapidSSL (HSTS preloaded, DNSSEC)
-[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se) |
-[HSTS Preload](https://hstspreload.org/?domain=searx.selea.se)
-
-* [**search.wxzm.sx**](https://search.wxzm.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.wxzm.sx)
-
-* [**trovu.komun.org**](https://trovu.komun.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=trovu.komun.org)
-
-* [**searx.nakhan.net**](https://searx.nakhan.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nakhan.net)
-
-* [**searx.s42.space**](https://searx.s42.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.s42.space)
-
-* [**rapu.nz**](https://rapu.nz/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=rapu.nz)
-
-* [**mijisou.com**](https://mijisou.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=mijisou.com)
-
-* [**ransack.i2p**](http://ransack.i2p/) - I2P eepsite, only accessible with [I2P](https://geti2p.net/) ([base32 address](http://mqamk4cfykdvhw5kjez2gnvse56gmnqxn7vkvvbuor4k4j2lbbnq.b32.i2p))
-
-* [**searx.xi.ht**](https://searx.xi.ht/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xi.ht)
-
-* [**perfectpixel.de/searx/**](https://www.perfectpixel.de/searx/) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
-
-* [**searx.be**](https://searx.be) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.be)
-
-* [**search.teej.xyz**](https://search.teej.xyz) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.teej.xyz)
-
-* [**searx.lavatech.top**](https://searx.lavatech.top/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lavatech.top)
-
-* [**searx.run**](https://searx.run/) Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.run)
-
-* [**huyo.me**](https://huyo.me/) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=huyo.me)
 
 * [**adoll.ml**](https://adoll.ml/) Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
 
-* [**searx.canox.net**](https://searx.canox.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.canox.net)
+* [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
+
+* [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
+
+* [**finden.tk**](https://finden.tk/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=finden.tk)
+
+* [**framabee.org**](https://framabee.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
+
+* [**goso.ga**](https://goso.ga/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=goso.ga)
+
+* [**gruble.de**](https://www.gruble.de/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.gruble.de)
+
+* [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
+
+* [**haku.ahmia.fi**](https://haku.ahmia.fi/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.ahmia.fi&latest)
+
+* [**haku.lelux.fi**](https://haku.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
+
+* [**mijisou.com**](https://mijisou.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=mijisou.com)
+
+* [**openworlds.info**](https://openworlds.info/) Issuer: Let's Encrypt
+
+* [**p9e.de**](https://p9e.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=p9e.de)
+
+* [**perfectpixel.de/searx/**](https://www.perfectpixel.de/searx/) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
+
+* [**ransack.i2p**](http://ransack.i2p/) - I2P eepsite, only accessible with [I2P](https://geti2p.net/) ([base32 address](http://mqamk4cfykdvhw5kjez2gnvse56gmnqxn7vkvvbuor4k4j2lbbnq.b32.i2p))
+
+* [**rapu.nz**](https://rapu.nz/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=rapu.nz)
+
+* [**roflcopter.fr**](https://wtf.roflcopter.fr/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=wtf.roflcopter.fr)
+
+* [**s.cmd.gg**](https://s.cmd.gg) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.cmd.gg)
+
+* [**search.activemail.de**](https://search.activemail.de/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.activemail.de&latest)
+
+* [**search.azkware.net**](https://search.azkware.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.azkware.net)
+
+* [**search.biboumail.fr**](https://search.biboumail.fr/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.biboumail.fr)
+
+* [**search.d4networks.com**](https://search.d4networks.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.d4networks.com)
+
+* [**search.datensturm.net**](https://search.datensturm.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.datensturm.net)
+
+* [**search.disroot.org**](https://search.disroot.org/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.disroot.org)
+
+* [**search.ethibox.fr**](https://search.ethibox.fr) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.ethibox.fr)
+
+* [**search.gibberfish.org**](https://search.gibberfish.org/) (as [Hidden Service](http://o2jdk5mdsijm2b7l.onion/) or [Proxied through Tor](https://search.gibberfish.org/tor/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.gibberfish.org)
+
+* [**search.jpope.org**](https://search.jpope.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
+
+* [**search.koehn.com**](https://search.koehn.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
 
 * [**search.lgbtq.cool**](https://search.lgbtq.cool/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.lgbtq.cool)
 
-* [**searxist.com**](https://searxist.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxist.com)
+* [**search.mdosch.de**](https://search.mdosch.de/) (as [Hidden Service](http://search.4bkxscubgtxwvhpe.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mdosch.de)
 
-* [**searx.ro**](https://searx.ro/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ro)
+* [**search.modalogi.com**](https://search.modalogi.com/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.modalogi.com&latest)
 
-* [**searx.hardwired.link**](https://searx.hardwired.link/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.hardwired.link)
+* [**search.pifferi.info**](https://search.pifferi.info/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.pifferi.info&latest)
+
+* [**search.privacytools.io**](https://search.privacytools.io/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.privacytools.io)
+
+* [**search.seds.nl**](https://search.seds.nl/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.seds.nl&latest)
+
+* [**search.snopyta.org**](https://search.snopyta.org/) (as [Hidden Service](http://juy4e6eicawzdrz7.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.snopyta.org)
+
+* [**search.spaeth.me**](https://search.spaeth.me/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.spaeth.me&latest)
+
+* [**search.st8.at**](https://search.st8.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.st8.at)
+
+* [**search.stinpriza.org**](https://search.stinpriza.org) (as [Hidden Service](http://z5vawdol25vrmorm4yydmohsd4u6rdoj2sylvoi3e3nqvxkvpqul7bqd.onion/))- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.stinpriza.org&hideResults=on)
+
+* [**search.sudo-i.net**](https://search.sudo-i.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.sudo-i.net)
+
+* [**search.teej.xyz**](https://search.teej.xyz) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.teej.xyz)
+
+* [**search.wxzm.sx**](https://search.wxzm.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.wxzm.sx)
+
+* [**search404.io**](https://www.search404.io/) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
+
+* [**searchx.mobi**](https://searchx.mobi/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchx.mobi)
+
+* [**searx.anongoth.pl**](https://searx.anongoth.pl) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.anongoth.pl&latest)
+
+* [**searx.antirep.net**](https://searx.antirep.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.antirep.net)
+
+* [**searx.aquilenet.fr**](https://searx.aquilenet.fr/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.aquilenet.fr)
+
+* [**searx.at**](https://searx.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.at)
+
+* [**searx.be**](https://searx.be) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.be)
+
+* [**searx.canox.net**](https://searx.canox.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.canox.net)
+
+* [**searx.ch**](https://searx.ch/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ch)
 
 * [**searx.cybt.de**](https://searx.cybt.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cybt.de)
 
-* [**searx.salcay.hu**](https://searx.salcay.hu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.salcay.hu)
+* [**searx.de**](https://www.searx.de/) (HTTPS only) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
+
+* [**searx.dk**](https://searx.dk/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dk)
+
+* [**searx.elukerio.org**](https://searx.elukerio.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.elukerio.org/)
+
+* [**searx.foo.li**](https://searx.foo.li) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.foo.li&hideResults=on)
+
+* [**searx.fossencdi.org**](https://searx.fossencdi.org) (as [Hidden Service](http://searx.cwuzdtzlubq5uual.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fossencdi.org)
+
+* [**searx.fr32k.de**](https://searx.fr32k.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.fr32k.de)
+
+* [**searx.good.one.pl**](https://searx.good.one.pl) (as [Hidden Service](http://searxl7u2y6gvonm.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.good.one.pl)
+
+* [**searx.gotrust.de**](https://searx.gotrust.de/) (as [Hidden Service](http://nxhhwbbxc4khvvlw.onion/))  - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.gotrust.de)
+
+* [**searx.hardwired.link**](https://searx.hardwired.link/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.hardwired.link)
+
+* [**searx.haxors.club**](https://searx.haxors.club/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.haxors.club)
+
+* [**searx.infini.fr**](https://searx.infini.fr) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.infini.fr)
+
+* [**searx.info**](https://searx.info) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.info)
+
+* [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
+
+* [**searx.kvch.me**](https://searx.kvch.me) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kvch.me)
+
+* [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
+
+* [**searx.lavatech.top**](https://searx.lavatech.top/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lavatech.top)
+
+* [**searx.li**](https://searx.li/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.li)
+
+* [**searx.libmail.eu**](https://searx.libmail.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu/)
+
+* [**searx.linux.pizza**](https://searx.linux.pizza) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
+
+* [**searx.lynnesbian.space**](https://searx.lynnesbian.space/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lynnesbian.space)
+
+* [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
+
+* [**searx.nakhan.net**](https://searx.nakhan.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nakhan.net)
+
+* [**searx.nixnet.xyz**](https://searx.nixnet.xyz) - (as [Hidden Service](http://searx.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nixnet.xyz)
+
+* [**searx.nogafa.org**](https://searx.nogafa.org/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nogafa.org)
+
+* [**searx.nulltime.net**](https://searx.nulltime.net/) (as [Hidden Service](http://searx7gwtu5rh6wr.onion)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)  
+
+* [**searx.openhoofd.nl**](https://searx.openhoofd.nl/)- Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=openhoofd.nl)
+
+* [**searx.openpandora.org**](https://searx.openpandora.org/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.openpandora.org&latest)
 
 * [**searx.operationtulip.com**](https://searx.operationtulip.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.operationtulip.com)
 
 * [**searx.orcadian.net**](https://searx.orcadian.net/) - Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.orcadian.net)
 
-* [**searx.4ray.co**](https://searx.4ray.co/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.4ray.co)
+* [**searx.org**](https://searx.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.org) 
 
-* [**searx.lynnesbian.space**](https://searx.lynnesbian.space/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lynnesbian.space)
+* [**searx.pofilo.fr**](https://searx.pofilo.fr) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pofilo.fr)
+
+* [**searx.potato.hu**](https://searx.potato.hu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.potato.hu)
+
+* [**searx.prvcy.eu**](https://searx.prvcy.eu/) (as [Hidden Service](http://twmpzbyurmu2hjpp.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.prvcy.eu)
+
+* [**searx.pwoss.xyz**](https://searx.pwoss.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pwoss.xyz)
+
+* [**searx.remote-shell.net**](https://searx.remote-shell.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.remote-shell.net)
+
+* [**searx.ro**](https://searx.ro/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ro)
+
+* [**searx.ru**](https://searx.ru/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ru)
+
+* [**searx.run**](https://searx.run/) Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.run)
+
+* [**searx.s42.space**](https://searx.s42.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.s42.space)
+
+* [**searx.salcay.hu**](https://searx.salcay.hu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.salcay.hu)
+
+* [**searx.selea.se**](https://searx.selea.se) - Issuer: RapidSSL (HSTS preloaded, DNSSEC) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se) | [HSTS Preload](https://hstspreload.org/?domain=searx.selea.se)
+
+* [**searx.site**](https://searx.site/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.site) 
+
+* [**searx.solusar.de**](https://searx.solusar.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.solusar.de)
+
+* [**searx.tyil.nl**](https://searx.tyil.nl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tyil.nl)
+
+* [**searx.win**](https://searx.win/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.win&latest)
+
+* [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world)
+
+* [**searx.xi.ht**](https://searx.xi.ht/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xi.ht)
+
+* [**searx.xyz**](https://searx.xyz/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xyz&latest)
+
+* [**searx.zareldyn.net**](https://searx.zareldyn.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zareldyn.net)
+
+* [**searx.zdechov.net**](https://searx.zdechov.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
+
+* [**searxist.com**](https://searxist.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxist.com)
+
+* [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer: Let's Encrypt[Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
+
+* [**stemy.me/searx**](https://stemy.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=stemy.me)
+
+* [**suche.elaon.de**](https://suche.elaon.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
+
+* [**suche.ftp.sh**](https://suche.ftp.sh/) (as [Hidden Service](http://suche.xyzco456vwisukfg.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
+
+* [**suche.uferwerk.org**](https://suche.uferwerk.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.uferwerk.org)
+
+* [**trovu.komun.org**](https://trovu.komun.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=trovu.komun.org)
+
+* [**www.searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 
 
 
 ### Running with an incorrect SSL certificate:
 
-* [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
+* [**listi.me**](https://listi.me/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=listi.me&latest)
 
-* [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red&s=94.130.34.40)
+* [**s.matejc.com**](https://s.matejc.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.matejc.com)
 
-* [**searx.ca**](https://searx.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ca)
+* [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
 
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - Incorrectly configured [SSL certificate](https://www.ssllabs.com/ssltest/analyze.html?d=search.kakise.xyz)
+
+* [**search.namedkitten.pw**](https://search.namedkitten.pw) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.namedkitten.pw)
+
+* [**search.paviro.de**](https://search.paviro.de) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paviro.de)
+
+* [**searx.abenthung.it**](https://searx.abenthung.it/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.abenthung.it)
+
+* [**searx.ahh.si**](https://searx.ahh.si/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ahh.si) 
+
+* [**searx.ca**](https://searx.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ca)
 
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
 
 * [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 
-* [**search.jollausers.de**](https://search.jollausers.de) - Incorrectly configured [SSL certificate] (https://www.ssllabs.com/ssltest/analyze.html?d=search.jollausers.de)
-
-* [**vsrv15195.customer.xenway.de**](http://vsrv15195.customer.xenway.de:8888/)
-
-* [**search.paviro.de**](https://search.paviro.de) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paviro.de)
-
-* [**s.matejc.com**](https://s.matejc.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.matejc.com)
-
-* [**searx.ahh.si**](https://searx.ahh.si/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ahh.si) 
-
-* [**search.namedkitten.pw**](https://search.namedkitten.pw) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.namedkitten.pw)
-
-* [**listi.me**](https://listi.me/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=listi.me&latest)
-
-* [**searx.abenthung.it**](https://searx.abenthung.it/) Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.abenthung.it)
-
 * [**searx.nnto.net**](https://searx.nnto.net/) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nnto.net)
+
+* [**searx.techregion.de**](https://searx.techregion.de/) - (Certificate name mismatch 20180402) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
 
 * [**so.sb**](https://so.sb/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
 
+* [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red&s=94.130.34.40)
+
+* [**vsrv15195.customer.xenway.de**](http://vsrv15195.customer.xenway.de:8888/)
+
+
+
 ### Offline:
 
-* [**srx.stdout.net**](https://srx.stdout.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.stdout.net)
+* [**icebal.com**](https://icebal.com) - (down) Issuer: Let's Encrypt
+
+* [**rubri.co**](https://rubri.co) - (down) Issuer: Let's Encrypt
+
+* [**s.bacafe.xyz**](https://s.bacafe.xyz/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.bacafe.xyz&latest)
+
+* [**search.alecpap.com**](https://search.alecpap.com/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.alecpap.com)
+
+* [**search.blackit.de**](https://search.blackit.de/) - (down) Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
 
 * [**search.deblan.org**](https://search.deblan.org/) (down) - Issuer: COMODO via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
+
+* [**search.homecomputing.fr**](https://search.homecomputing.fr/) - (down) Issuer: CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
+
+* [**search.hzsogood.net**](https://search.hzsogood.net/) - (down) Issuer: COMODO (Cloudflare)
+
+* [**search.kosebamse.com**](https://search.kosebamse.com/) - (down) Issuer: LetsEncrypt
+
+* [**search.kujiu.org**](https://search.kujiu.org) - (down) Issuer: Let's Encrypt
 
 * [**search.mailaender.coffee**](https://search.mailaender.coffee/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mailaender.coffee)
 
 * [**search.matrix.ac**](https://search.matrix.ac) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=matrix.ac)
 
+* [**search.moravit.com**](https://search.moravit.com) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.moravit.com)
+
+* [**search.mypsc.ca**](https://search.mypsc.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mypsc.ca)
+
+* [**search.paulla.asso.fr**](https://search.paulla.asso.fr/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paulla.asso.fr)
+
+* [**search.r3d007.com**](https://search.r3d007.com/) - (down) Issuer: Let's Encrypt
+
 * [**search.static.lu**](https://search.static.lu/) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
+
+* [**search.tolstoevsky.ml**](https://search.tolstoevsky.ml) - (down) Issuer: Let's Encrypt 
+
+* [**searx.32bitflo.at**](https://searx.32bitflo.at/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at)
+
+* [**searx.angristan.xyz**](https://searx.angristan.xyz/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.angristan.xyz)
+
+* [**searx.cc**](https://searx.cc/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cc) 
+
+* [**searx.com.au**](https://searx.com.au/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
+
+* [**searx.drakonix.net**](https://searx.drakonix.net/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
+
+* [**searx.ehrmanns.ch**](https://searx.ehrmanns.ch) - (down) Issuer: Let's Encrypt 
 
 * [**searx.glibre.net**](https://searx.glibre.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.glibre.net)
 
 * [**searx.jeanphilippemorvan.info**](https://searx.jeanphilippemorvan.info/) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.jeanphilippemorvan.info)
 
-* [**search.mypsc.ca**](https://search.mypsc.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mypsc.ca)
-
-* [**searx.space**](https://searx.space) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.space)
-
-* [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
-
-* [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare
-
-* [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: CloudFlare
-
-* [**www.mercurius.space**](https://www.mercurius.space/) - (down) Issuer: Let's Encrypt
-
-* [**search.r3d007.com**](https://search.r3d007.com/) - (down) Issuer: Let's Encrypt
-
-* [**searx.ehrmanns.ch**](https://searx.ehrmanns.ch) - (down) Issuer: Let's Encrypt 
-
-* [**search.kujiu.org**](https://search.kujiu.org) - (down) Issuer: Let's Encrypt
-
-* [**searx.new-admin.net**](https://searx.new-admin.net) - (down) Issuer: Let's Encrypt
-
-* [**search.kosebamse.com**](https://search.kosebamse.com/) - (down) Issuer: LetsEncrypt
-
-* [**search.hzsogood.net**](https://search.hzsogood.net/) - (down) Issuer: COMODO (Cloudflare)
-
-* [**win8linux.nohost.me**](https://win8linux.nohost.me/searx/) - (down) Issuer: Let's Encrypt
-
-* [**searx.targaryen.house**](https://searx.targaryen.house/) - (down) Issuer: Let's Encrypt
-
-* [**search.tolstoevsky.ml**](https://search.tolstoevsky.ml) - (down) Issuer: Let's Encrypt 
-
-* [**rubri.co**](https://rubri.co) - (down) Issuer: Let's Encrypt
-
-* [**searx.rubbeldiekatz.info**](https://searx.rubbeldiekatz.info/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.rubbeldiekatz.info/)
-
-* [**searx.angristan.xyz**](https://searx.angristan.xyz/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.angristan.xyz)
-
-* [**searx.32bitflo.at**](https://searx.32bitflo.at/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at)
-
-* [**searx.drakonix.net**](https://searx.drakonix.net/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
-
-* [**searx.com.au**](https://searx.com.au/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
-
-* [**s.bacafe.xyz**](https://s.bacafe.xyz/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.bacafe.xyz&latest)
-
-* [**OpenGO**](https://www.opengo.nl) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
-
-* [**search.moravit.com**](https://search.moravit.com) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.moravit.com)
-
-* [**search.paulla.asso.fr**](https://search.paulla.asso.fr/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paulla.asso.fr)
-
 * [**searx.lvweb.host**](https://searx.lvweb.host) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lvweb.host)
-
-* [**search.alecpap.com**](https://search.alecpap.com/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.alecpap.com)
 
 * [**searx.mrtino.eu**](https://searx.mrtino.eu) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.mrtino.eu)
 
-* [**icebal.com**](https://icebal.com) - (down) Issuer: Let's Encrypt
+* [**searx.new-admin.net**](https://searx.new-admin.net) - (down) Issuer: Let's Encrypt
 
-* [**search.blackit.de**](https://search.blackit.de/) - (down) Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
+* [**searx.rubbeldiekatz.info**](https://searx.rubbeldiekatz.info/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.rubbeldiekatz.info/)
 
-* [**searx.cc**](https://searx.cc/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cc) 
+* [**searx.space**](https://searx.space) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.space)
 
-* [**search.homecomputing.fr**](https://search.homecomputing.fr/) - (down) Issuer: CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
+* [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: CloudFlare
+
+* [**searx.targaryen.house**](https://searx.targaryen.house/) - (down) Issuer: Let's Encrypt
+
+* [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare
+
+* [**srx.stdout.net**](https://srx.stdout.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.stdout.net)
+
+* [**win8linux.nohost.me**](https://win8linux.nohost.me/searx/) - (down) Issuer: Let's Encrypt
+
+* [**www.mercurius.space**](https://www.mercurius.space/) - (down) Issuer: Let's Encrypt
+
+* [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 
 * [**z.awsmppl.com**](https://z.awsmppl.com) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=z.awsmppl.com)
 
+* [**OpenGO**](https://www.opengo.nl) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
+
 * [**anyonething.de**](https://anyonething.de) - (was found to have become a pastebin on or before 2019-03-01) Issuer: Comodo CA Limited (Warning: uses CloudFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
 
+* [**huyo.me**](https://huyo.me/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=huyo.me)
+
+* [**searx.4ray.co**](https://searx.4ray.co/) - (no longer an instance, redirects to main page) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.4ray.co)
