@@ -249,6 +249,8 @@ These are searx instances that source from another searx instance.  These are us
 
 * [**www.searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 
+* [**searx.lhorn.de**](https://searx.lhorn.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lhorn.de&latest)
+
 
 
 ### Running with an incorrect SSL certificate:
