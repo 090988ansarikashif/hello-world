@@ -29,6 +29,20 @@ These are searx instances that source from another searx instance.  These are us
 
 * [**burtrum.org/searx**](https://burtrum.org/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=burtrum.org/searx)
 
+* [**wiznet.tech**](https://wiznet.tech) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=wiznet.tech)
+
+* [**dynabyte.ca**](https://dynabyte.ca) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=dynabyte.ca)
+
+* [**searx.wegeeks.win**](https://searx.wegeeks.win) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.wegeeks.win)
+
+* [**zlsdzh.tk**](https://zlsdzh.tk) - Issuer: TrustAsia Technologies, Inc. [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=zlsdzh.tk)
+
+* [**le-dahut.com/searx**](https://le-dahut.com/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=le-dahut.com/searx)
+
+* [**timdor.noip.me/searx**](https://timdor.noip.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=timdor.noip.me/searx)
+
+* [**ai.deafpray.wtf/searx**](https://ai.deafpray.wtf/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=ai.deafpray.wtf/searx)
+
 * [**finden.tk**](https://finden.tk/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=finden.tk)
 
 * [**framabee.org**](https://framabee.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
