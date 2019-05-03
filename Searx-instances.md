@@ -69,6 +69,8 @@ These are searx instances that source from another searx instance.  These are us
 
 * [**s.cmd.gg**](https://s.cmd.gg) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.cmd.gg)
 
+* [**searchsin.com/searx**](https://searchsin.com/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchsin.com/searx)
+
 * [**search.activemail.de**](https://search.activemail.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.activemail.de&latest)
 
 * [**search.azkware.net**](https://search.azkware.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.azkware.net)
