@@ -16,11 +16,11 @@ These are websites that source from other searx instances.  These are useful if 
 
 | clearnet host | onion host | issuer | source selection method | extra privacy features
 |--|--|--|--|--
-[Searxes](https://searxes.danwin1210.me/) @Danwin | onion v3 [hidden service]( http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) | Let's Encrypt ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)) | sources data from a randomly selected running server that satisfies admin's quality standards which is used for post-processing | filters out privacy-hostile CloudFlare sites and either marks them as such or folds them below the high ranking results.
+[Searxes](https://searxes.danwin1210.me/) @Danwin | onion v3 [hidden service]( http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) | Let's Encrypt ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)) | sources data from a randomly selected running server that satisfies admin's quality standards which is used for post-processing | filters out privacy-hostile Cloudflare websites and either marks them as such or folds them below the high ranking results.
 [Neocities](https://searx.neocities.org/) | n/a | n/a | redirects users directly to random selection of any known running server after entering query |
 
 ### Alive and running:
-**NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and can be blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
+**NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and consequently have a higher chance of being blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
 
 
 * [**adoll.ml**](https://adoll.ml/) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
@@ -105,7 +105,7 @@ These are websites that source from other searx instances.  These are useful if 
 
 * [**search.pifferi.info**](https://search.pifferi.info/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.pifferi.info&latest)
 
-* [**search.privacytools.io**](https://search.privacytools.io/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.privacytools.io)
+* [**search.privacytools.io**](https://search.privacytools.io/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.privacytools.io) - Uses Matomo for user tracking and analytics
 
 * [**search.seds.nl**](https://search.seds.nl/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.seds.nl&latest)
 
