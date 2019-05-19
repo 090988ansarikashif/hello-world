@@ -7,7 +7,7 @@
  * Some of the Searx instances have a CAcert SSL certificate. You can install the missing root cert [from here](http://www.cacert.org/index.php?id=3).
  * You can add your own Searx instance to this page by clicking [here](https://github.com/asciimoo/searx/wiki/Searx-instances/_edit) or by clicking on the "Edit" button in the top right corner (when logged in). A GitHub account is required to make changes. 
 
-<sup>(1)</sup> Note that most of the instances with a A+ grade in CSP column in this site are not fully functional - for example auto-completion does not work.
+<sup>(1)</sup> Note that most of the instances with a A+ grade in CSP column in this site are not fully functional - for example auto-completion may not work.
 
 ## List of public Searx instances
 
