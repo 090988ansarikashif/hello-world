@@ -137,8 +137,6 @@ These are websites that source from other searx instances.  These are useful if 
 
 * [**searx.aquilenet.fr**](https://searx.aquilenet.fr/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.aquilenet.fr)
 
-* [**searx.at**](https://searx.at/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.at)
-
 * [**searx.be**](https://searx.be) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.be)
 
 * [**searx.ca**](https://searx.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ca)
@@ -352,6 +350,8 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.32bitflo.at**](https://searx.32bitflo.at/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.32bitflo.at)
 
 * [**searx.angristan.xyz**](https://searx.angristan.xyz/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.angristan.xyz)
+
+* [**searx.at**](https://searx.at/) - (return "request exception" at every search) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.at)
 
 * [**searx.cc**](https://searx.cc/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cc) 
 
