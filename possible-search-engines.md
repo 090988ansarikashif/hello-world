@@ -19,6 +19,7 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 | https://www.mojeek.com/ | https://mojeek.com/services/api.html | Independent and unbiased engine. |
 | https://oscobo.co.uk/ | | A engine created for protecting your privacy. |
 | https://jivesearch.com/ | | A search engine that doesn't track you. Uses Yandex API. |
+| https://searchpal.com/ | | A Safe Search Engine that blocks harmful and offensive traffic. |
 
 ### Files
 
