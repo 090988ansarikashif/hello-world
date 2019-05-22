@@ -229,6 +229,8 @@ These are websites that source from other searx instances.  These are useful if 
 
 * [**www.searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 
+* [**searx.dnswarden.com**](https://searx.dnswarden.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dnswarden.com)
+
 ### Running with an incorrect SSL certificate:
 
 * [**hacktivis.me/searx**](https://hacktivis.me/searx) - (return a 403 HTTP error) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=hacktivis.me/searx)
