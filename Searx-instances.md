@@ -136,9 +136,6 @@ These are websites that source from other searx instances.  These are useful if 
 
 ### Offline:
 
-* [**so.sb**](https://so.sb/) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
-* [**searx.linux.pizza**](https://searx.linux.pizza) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
-* [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - (error page about GDPR even when browsing it from USA and Asia) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 * [**adoll.ml**](https://adoll.ml/) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
 * [**anyonething.de**](https://anyonething.de) - (was found to have become a pastebin on or before 2019-03-01) Issuer: Comodo CA Limited (Warning: uses CloudFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
 * [**finden.tk**](https://finden.tk/) - (down - timeout) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=finden.tk)
@@ -190,9 +187,11 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.infini.fr**](https://searx.infini.fr) - (return a page stating that the website is not installed) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.infini.fr)
 * [**searx.jeanphilippemorvan.info**](https://searx.jeanphilippemorvan.info/) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.jeanphilippemorvan.info)
 * [**searx.lhorn.de**](https://searx.lhorn.de/) - (redirect the Searx's github repository page) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lhorn.de&latest) (only reachable from european countries)
+* [**searx.linux.pizza**](https://searx.linux.pizza) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
 * [**searx.lvweb.host**](https://searx.lvweb.host) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lvweb.host)
 * [**searx.mrtino.eu**](https://searx.mrtino.eu) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.mrtino.eu)
 * [**searx.new-admin.net**](https://searx.new-admin.net) - (down) Issuer: Let's Encrypt
+* [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - (error page about GDPR even when browsing it from USA and Asia) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 * [**searx.nogafa.org**](https://searx.nogafa.org/)- (broken CSS) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nogafa.org)
 * [**searx.potato.hu**](https://searx.potato.hu) - (not a searx instance) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.potato.hu)
 * [**searx.rubbeldiekatz.info**](https://searx.rubbeldiekatz.info/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.rubbeldiekatz.info/)
@@ -206,6 +205,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare
 * [**searx.xi.ht**](https://searx.xi.ht/) - (return a 502 HTTP error) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xi.ht)
 * [**searxist.com**](https://searxist.com/) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxist.com)
+* [**so.sb**](https://so.sb/) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
 * [**srx.stdout.net**](https://srx.stdout.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.stdout.net)
 * [**unmonito.red**](https://unmonito.red/) - (SSL protocol error) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red&s=94.130.34.40)
 * [**win8linux.nohost.me**](https://win8linux.nohost.me/searx/) - (down) Issuer: Let's Encrypt
