@@ -21,13 +21,14 @@ These are websites that source from other searx instances.  These are useful if 
 
 ### Alive and running:
 **NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and consequently have a higher chance of being blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
+
 * [**ai.deafpray.wtf/searx**](https://ai.deafpray.wtf/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=ai.deafpray.wtf/searx)
 * [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
 * [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
 * [**burtrum.org/searx**](https://burtrum.org/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=burtrum.org/searx)
 * [**dynabyte.ca**](https://dynabyte.ca) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=dynabyte.ca)
 * [**framabee.org**](https://framabee.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
-* [**goso.ga**](https://goso.ga/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=goso.ga)
+* [**goso.ga**](https://goso.ga/search) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=goso.ga)
 * [**gruble.de**](https://www.gruble.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.gruble.de)
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service
 * [**huyo.me**](https://huyo.me/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=huyo.me)
@@ -85,7 +86,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.lavatech.top**](https://searx.lavatech.top/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lavatech.top)
 * [**searx.li**](https://searx.li/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.li)
 * [**searx.libmail.eu**](https://searx.libmail.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu/)
-* [**searx.linux.pizza**](https://searx.linux.pizza) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
 * [**searx.lynnesbian.space**](https://searx.lynnesbian.space/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lynnesbian.space)
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
 * [**searx.nakhan.net**](https://searx.nakhan.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nakhan.net)
@@ -114,7 +114,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.zdechov.net**](https://searx.zdechov.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
 * [**searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
-* [**so.sb**](https://so.sb/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
 * [**spot.ecloud.global**](https://spot.ecloud.global/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=spot.ecloud.global)
 * [**srx.sx**](https://srx.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.sx)
 * [**stemy.me/searx**](https://stemy.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=stemy.me)
@@ -137,6 +136,8 @@ These are websites that source from other searx instances.  These are useful if 
 
 ### Offline:
 
+* [**so.sb**](https://so.sb/) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
+* [**searx.linux.pizza**](https://searx.linux.pizza) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
 * [**searx.netzspielplatz.de**](https://searx.netzspielplatz.de/) - (error page about GDPR even when browsing it from USA and Asia) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.netzspielplatz.de)
 * [**adoll.ml**](https://adoll.ml/) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
 * [**anyonething.de**](https://anyonething.de) - (was found to have become a pastebin on or before 2019-03-01) Issuer: Comodo CA Limited (Warning: uses CloudFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
