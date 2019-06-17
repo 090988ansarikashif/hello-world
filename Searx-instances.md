@@ -137,6 +137,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**timdor.noip.me/searx**](https://timdor.noip.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=timdor.noip.me/searx)
 * [**trovu.komun.org**](https://trovu.komun.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=trovu.komun.org)
 * [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red)
+* [**searx.john-at-me.net**](https://searx.john-at-me.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.john-at-me.net)
 
 ### Running with an incorrect SSL certificate:
 
@@ -148,7 +149,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.coding4schoki.org**](https://searx.coding4schoki.org/) - Incorrectly configured [SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=searx.coding4schoki.org)
 * [**searx.haxors.club**](https://searx.haxors.club/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.haxors.club)
 * [**searx.nulltime.net**](https://searx.nulltime.net/) (as [Hidden Service](http://searx7gwtu5rh6wr.onion)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nulltime.net)
-* [**searx.john-at-me.net**](https://searx.john-at-me.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.john-at-me.net)
+
 
 ### Offline:
 
