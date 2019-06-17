@@ -51,6 +51,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**search.datensturm.net**](https://search.datensturm.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.datensturm.net)
 * [**search.disroot.org**](https://search.disroot.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.disroot.org)
 * [**search.ethibox.fr**](https://search.ethibox.fr) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.ethibox.fr)
+* [**search.fossdaily.xyz**](https://search.fossdaily.xyz) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.fossdaily.xyz)
 * [**search.gibberfish.org**](https://search.gibberfish.org/) (as [Hidden Service](http://o2jdk5mdsijm2b7l.onion/) or [Proxied through Tor](https://search.gibberfish.org/tor/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.gibberfish.org)
 * [**search.koehn.com**](https://search.koehn.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.koehn.com)
 * [**search.kosebamse.com**](https://search.kosebamse.com) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
