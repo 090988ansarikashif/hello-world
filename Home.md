@@ -9,7 +9,7 @@
 ## developer documentation
 * [Compiling Styles](https://github.com/asciimoo/searx/wiki/Styles)
 * [Compiling Javascripts](https://github.com/asciimoo/searx/wiki/Grunt-for-the-javascript-files)
-* [Docker environment](https://github.com/asciimoo/searx/wiki/docker-dev-env)
+* [Docker environment](https://github.com/asciimoo/searx/wiki/Docker-developement-environment)
 
 #### engines
 * [possible search-engines](https://github.com/asciimoo/searx/wiki/possible-search-engines)
