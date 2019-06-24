@@ -24,6 +24,7 @@ These are websites that source from other searx instances.  These are useful if 
 
 * [**ai.deafpray.wtf/searx**](https://ai.deafpray.wtf/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=ai.deafpray.wtf/searx)
 * [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
+* [**bamboozle.it**](https://bamboozle.it/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bamboozle.it)
 * [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
 * [**burtrum.org/searx**](https://burtrum.org/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=burtrum.org/searx)
 * [**dynabyte.ca**](https://dynabyte.ca) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=dynabyte.ca)
