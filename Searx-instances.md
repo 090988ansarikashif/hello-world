@@ -110,7 +110,6 @@ Searxes unavailable on clearnet | onion v3 [hidden service]( http://searxes.nmqn
 * [**searx.tyil.nl**](https://searx.tyil.nl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tyil.nl)
 * [**searx.wegeeks.win**](https://searx.wegeeks.win) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.wegeeks.win)
 * [**searx.win**](https://searx.win/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.win&latest)
-* [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world) - Adds Amazon affiliate links
 * [**searx.xyz**](https://searx.xyz/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xyz&latest)
 * [**searx.zareldyn.net**](https://searx.zareldyn.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zareldyn.net)
 * [**searx.zdechov.net**](https://searx.zdechov.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
@@ -135,6 +134,7 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**searchx.mobi**](https://searchx.mobi/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchx.mobi)
 * [**searx.org**](https://searx.org/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.org) 
 * [**searx.run**](https://searx.run/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.run)
+* [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world) - Adds Amazon affiliate links
 
 ### Running with an incorrect SSL certificate:
 
