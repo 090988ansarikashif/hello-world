@@ -1,7 +1,12 @@
 ## Classic installation
 See https://asciimoo.github.io/searx/dev/install/installation.html.
 
-## With Docker
+## With docker (unfinished)
+
+See https://github.com/searx/searx-docker
+
+## With Docker (previous way)
+
 First, make sure you have installed [Docker](https://docs.docker.com/engine/installation/). **It is recommended to know how Docker containers work.**
 
 #### Build
