@@ -36,7 +36,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**huyo.me**](https://huyo.me/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=huyo.me)
 * [**jsearch.pw**](https://jsearch.pw) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=jsearch.pw)
 * [**le-dahut.com/searx**](https://le-dahut.com/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=le-dahut.com/searx)
-* [**mijisou.com**](https://mijisou.com/) - (down on 2019-06-26) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=mijisou.com)
+* [**mijisou.com**](https://mijisou.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=mijisou.com)
 * [**null.media**](https://null.media) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=null.media)
 * [**openworlds.info**](https://openworlds.info/) - Issuer: Let's Encrypt
 * [**perfectpixel.de/searx/**](https://www.perfectpixel.de/searx/) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
