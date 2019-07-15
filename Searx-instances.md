@@ -45,8 +45,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**roflcopter.fr**](https://wtf.roflcopter.fr/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=wtf.roflcopter.fr)
 * [**s.cmd.gg**](https://s.cmd.gg) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.cmd.gg)
 * [**search.activemail.de**](https://search.activemail.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.activemail.de&latest)
-* [**search.anonymize.com**](https://search.anonymize.com/) - Issuer: Let's Encrypt [Verification]
-(https://www.ssllabs.com/ssltest/analyze.html?d=search.anonymize.com)
+* [**search.anonymize.com**](https://search.anonymize.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.anonymize.com)
 * [**search.azkware.net**](https://search.azkware.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.azkware.net)
 * [**search.biboumail.fr**](https://search.biboumail.fr/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.biboumail.fr)
 * [**search.d4networks.com**](https://search.d4networks.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.d4networks.com)
