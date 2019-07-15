@@ -26,7 +26,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**ai.deafpray.wtf/searx**](https://ai.deafpray.wtf/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=ai.deafpray.wtf/searx)
 * [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
 * [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
-* [**burtrum.org/searx**](https://burtrum.org/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=burtrum.org/searx)
+* [**burtrum.org/sea rx**](https://burtrum.org/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=burtrum.org/searx)
 * [**dynabyte.ca**](https://dynabyte.ca) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=dynabyte.ca)
 * [**finden.tk**](https://finden.tk/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=finden.tk)
 * [**framabee.org**](https://framabee.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
@@ -45,6 +45,8 @@ These are websites that source from other searx instances.  These are useful if 
 * [**roflcopter.fr**](https://wtf.roflcopter.fr/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=wtf.roflcopter.fr)
 * [**s.cmd.gg**](https://s.cmd.gg) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.cmd.gg)
 * [**search.activemail.de**](https://search.activemail.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.activemail.de&latest)
+* [**search.anonymize.com**](https://search.anonymize.com/) - Issuer: Let's Encrypt [Verification]
+(https://www.ssllabs.com/ssltest/analyze.html?d=search.anonymize.com)
 * [**search.azkware.net**](https://search.azkware.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.azkware.net)
 * [**search.biboumail.fr**](https://search.biboumail.fr/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.biboumail.fr)
 * [**search.d4networks.com**](https://search.d4networks.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.d4networks.com)
