@@ -22,7 +22,6 @@ These are websites that source from other searx instances.  These are useful if 
 ### Alive and running:
 **NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and consequently have a higher chance of being blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
 
-* [**Intelme.com**](https://intelme.com) - Issuer: Let's Encrypt [Verification](https://www.intelme.com/ssltest/analyze.html?d=intelme.com)
 * [**ai.deafpray.wtf/searx**](https://ai.deafpray.wtf/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=ai.deafpray.wtf/searx)
 * [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
 * [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
@@ -34,6 +33,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**gruble.de**](https://www.gruble.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.gruble.de)
 * [**haku.ahmia.fi**](https://haku.ahmia.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.ahmia.fi&latest)
 * [**huyo.me**](https://huyo.me/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=huyo.me)
+* [**intelme.com**](https://intelme.com) - Issuer: Let's Encrypt [Verification](https://www.intelme.com/ssltest/analyze.html?d=intelme.com)
 * [**jsearch.pw**](https://jsearch.pw) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=jsearch.pw)
 * [**le-dahut.com/searx**](https://le-dahut.com/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=le-dahut.com/searx)
 * [**mijisou.com**](https://mijisou.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=mijisou.com)
