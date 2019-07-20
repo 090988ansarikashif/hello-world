@@ -33,7 +33,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**gruble.de**](https://www.gruble.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.gruble.de)
 * [**haku.ahmia.fi**](https://haku.ahmia.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.ahmia.fi&latest)
 * [**huyo.me**](https://huyo.me/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=huyo.me)
-* [**isoyu.com**](https://isoyu.com) - Issuer: Let's Encrypt [Verification](https://www.isoyu.com/ssltest/analyze.html?d=isoyu.com)
 * [**intelme.com**](https://intelme.com) - Issuer: Let's Encrypt [Verification](https://www.intelme.com/ssltest/analyze.html?d=intelme.com)
 * [**jsearch.pw**](https://jsearch.pw) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=jsearch.pw)
 * [**le-dahut.com/searx**](https://le-dahut.com/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=le-dahut.com/searx)
