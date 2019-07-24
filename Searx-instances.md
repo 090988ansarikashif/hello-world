@@ -33,7 +33,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**gruble.de**](https://www.gruble.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.gruble.de)
 * [**haku.ahmia.fi**](https://haku.ahmia.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.ahmia.fi&latest)
 * [**huyo.me**](https://huyo.me/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=huyo.me)
-* [**intelme.com**](https://intelme.com) - Issuer: Let's Encrypt [Verification](https://www.intelme.com/ssltest/analyze.html?d=intelme.com)
 * [**jsearch.pw**](https://jsearch.pw) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=jsearch.pw)
 * [**le-dahut.com/searx**](https://le-dahut.com/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=le-dahut.com/searx)
 * [**mijisou.com**](https://mijisou.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=mijisou.com)
@@ -133,6 +132,7 @@ These are websites that source from other searx instances.  These are useful if 
 
 ### Running in exclusive private walled-gardens
 These instances run in walled-gardens that exclude some segment of the general public (e.g. Tor users and users sharing IPs with many other users).  Caution: privacy is also compromised on these sites due to exposure of cleartext traffic to a third party other than the website operator.
+* [**intelme.com**](https://intelme.com) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=intelme.com)
 * [**search404.io**](https://www.search404.io/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
 * [**searx.com.au**](https://searx.com.au/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
 * [**searx.lavatech.top**](https://searx.lavatech.top/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lavatech.top)
