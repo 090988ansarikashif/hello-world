@@ -16,13 +16,13 @@ These are websites that source from other searx instances.  These are useful if 
 
 | clearnet host | onion host | issuer | source selection method | extra privacy features | 
 |--|--|--|--|--
-[SKYN3T](https://www.skyn3t.in/search/) | onion [hidden service]( http://oj5zjis3oewjfzfk.onion/) | Let's Encrypt
 [Searxes](https://searxes.eu.org/) | onion v3 [hidden service]( http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) | Let's Encrypt ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)) | Sources data from a randomly selected running server that satisfies admin's quality standards which is used for post-processing.  [Instances proxied through CF](https://github.com/asciimoo/searx/wiki/Searx-instances#running-in-exclusive-private-walled-gardens) would not make the shortlist of sourced instances.  This keeps the search itself CAPTCHA-free for everyone and also mitigates risk of search queries being shared with CF. | Filters out privacy-hostile *results* (like CloudFlare sites) and folds them below the high ranking results.
 [Neocities](https://searx.neocities.org/) | n/a | Comodo ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.neocities.org)) | Redirects users directly to random selection of any known running server after entering query.  [Instances proxied through CloudFlare](https://github.com/asciimoo/searx/wiki/Searx-instances#running-in-exclusive-private-walled-gardens) are among the set of sourced instances so it's possible to write a query and then get hit with a CAPTCHA prior to seeing the results. |
 
 ### Alive and running:
 **NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and consequently have a higher chance of being blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
 
+* [**www.skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service]( http://oj5zjis3oewjfzfk.onion/ )
 * [**ai.deafpray.wtf/searx**](https://ai.deafpray.wtf/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=ai.deafpray.wtf/searx)
 * [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
 * [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
