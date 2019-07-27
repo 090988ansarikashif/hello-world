@@ -22,15 +22,11 @@ These are websites that source from other searx instances.  These are useful if 
 ### Alive and running:
 **NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and consequently have a higher chance of being blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
 
-* [**search.privacytools.io**](https://search.privacytools.io/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.privacytools.io) - Uses Matomo for user tracking and analytics
-* [**search.jpope.org**](https://search.jpope.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
-* [**search.kosebamse.com**](https://search.kosebamse.com) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
-* [**bamboozle.it**](https://bamboozle.it/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bamboozle.it)
 * [**www.skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service]( http://oj5zjis3oewjfzfk.onion/ )
 * [**ai.deafpray.wtf/searx**](https://ai.deafpray.wtf/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=ai.deafpray.wtf/searx)
 * [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
 * [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
-* [**burtrum.org/searx**](https://burtrum.org/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=burtrum.org/searx)
+* [**burtrum.org/sea rx**](https://burtrum.org/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=burtrum.org/searx)
 * [**dynabyte.ca**](https://dynabyte.ca) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=dynabyte.ca)
 * [**finden.tk**](https://finden.tk/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=finden.tk)
 * [**framabee.org**](https://framabee.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=framabee.org) (also available as [trouvons.org](https://trouvons.org) and [tontonroger.org](https://tontonroger.org), same issuer)
@@ -162,6 +158,8 @@ These instances run in walled-gardens that exclude some segment of the general p
 
 * [**adoll.ml**](https://adoll.ml/) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
 * [**anyonething.de**](https://anyonething.de) - (was found to have become a pastebin on or before 2019-03-01) Issuer: Comodo CA Limited (Warning: uses CloudFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
+* [**bamboozle.it**](https://bamboozle.it/) - (down on 2019-06-26) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bamboozle.it)
+* [**search.kosebamse.com**](https://search.kosebamse.com) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service (down on 2019-06-26)
 * [**hacktivis.me/searx**](https://hacktivis.me/searx) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=hacktivis.me/searx)
 * [**haku.lelux.fi**](https://haku.lelux.fi/) - (down - timeout) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
@@ -169,12 +167,14 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**netrangler.host**](https://netrangler.host) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=netrangler.host)
 * [**opengo.nl**](https://www.opengo.nl) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
 * [**p9e.de**](https://p9e.de/) - (down - timeout) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=p9e.de)
+* [**search.privacytools.io**](https://search.privacytools.io/) - (down on 2019-06-26) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.privacytools.io) - Uses Matomo for user tracking and analytics
 * [**rubri.co**](https://rubri.co) - (down) Issuer: Let's Encrypt
 * [**s.bacafe.xyz**](https://s.bacafe.xyz/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=s.bacafe.xyz&latest)
 * [**search.alecpap.com**](https://search.alecpap.com/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.alecpap.com)
 * [**search.blackit.de**](https://search.blackit.de/) - (down) Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.blackit.de)
 * [**search.deblan.org**](https://search.deblan.org/) (down) - Issuer: COMODO via GANDI [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.deblan.org)
 * [**search.homecomputing.fr**](https://search.homecomputing.fr/) - (down) Issuer: CAcert [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.homecomputing.fr)
+* [**search.jpope.org**](https://search.jpope.org) - (down - timeout) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.jpope.org)
 * [**search.kakise.xyz**](https://search.kakise.xyz/) - down
 * [**search.kujiu.org**](https://search.kujiu.org) - (down) Issuer: Let's Encrypt
 * [**search.mailaender.coffee**](https://search.mailaender.coffee/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mailaender.coffee)
