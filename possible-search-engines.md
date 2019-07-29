@@ -103,7 +103,7 @@ Note: https://torrentz2.is/help#indexed show what torrent engines could be imple
 | http://del.icio.us |  | [using operators](http://lifehacker.com/136578/geek-to-live--find-free-music-on-the-web) |
 | http://www.google.com |  | [using operators](http://www.marcandangel.com/2006/10/13/turn-google-into-napster-2000/), similarly to [Singingfish](http://wayback.archive.org/web/20050303052440/http://search.singingfish.com/sfw/home.jsp) |
 | http://www.blinkx.com | | find a/v snippets from quotes |
-| https://invidio.us | | An alternative front-end to YouTube. |
+| https://invidio.us | https://github.com/omarroth/invidious/wiki/API | An alternative front-end to YouTube. |
 
 ### Map
 
