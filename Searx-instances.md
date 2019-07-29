@@ -22,7 +22,6 @@ These are websites that source from other searx instances.  These are useful if 
 ### Alive and running:
 **NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and consequently have a higher chance of being blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
 
-* [**www.skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service]( http://oj5zjis3oewjfzfk.onion/ )
 * [**ai.deafpray.wtf/searx**](https://ai.deafpray.wtf/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=ai.deafpray.wtf/searx)
 * [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
 * [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
@@ -68,7 +67,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**search.stinpriza.org**](https://search.stinpriza.org) (as [Hidden Service](http://z5vawdol25vrmorm4yydmohsd4u6rdoj2sylvoi3e3nqvxkvpqul7bqd.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.stinpriza.org&hideResults=on)
 * [**search.sudo-i.net**](https://search.sudo-i.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.sudo-i.net)
 * [**search.tolstoevsky.ml**](https://search.tolstoevsky.ml) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.tolstoevsky.ml)
-* [**search.wxzm.sx**](https://search.wxzm.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.wxzm.sx)
 * [**searchsin.com/searx**](https://searchsin.com/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchsin.com/searx)
 * [**searx.anongoth.pl**](https://searx.anongoth.pl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.anongoth.pl&latest)
 * [**searx.be**](https://searx.be) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.be) - Uses fingerprinting and analytics which are not blocked by popular privacy filter lists
@@ -88,6 +86,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.hardwired.link**](https://searx.hardwired.link/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.hardwired.link)
 * [**searx.info**](https://searx.info) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.info)
 * [**searx.itunix.eu**](https://searx.itunix.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.itunix.eu)
+* [**searx.john-at-me.net**](https://searx.john-at-me.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.john-at-me.net)
 * [**searx.kvch.me**](https://searx.kvch.me) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.kvch.me)
 * [**searx.laquadrature.net**](https://searx.laquadrature.net) (as [Hidden Service](http://searchb5a7tmimez.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net)
 * [**searx.li**](https://searx.li/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.li)
@@ -104,7 +103,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.pofilo.fr**](https://searx.pofilo.fr) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pofilo.fr)
 * [**searx.prvcy.eu**](https://searx.prvcy.eu/) (as [Hidden Service](http://hmfztxt3pfhevucl.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.prvcy.eu)
 * [**searx.pwoss.xyz**](https://searx.pwoss.xyz/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pwoss.xyz)
-* [**searx.remote-shell.net**](https://searx.remote-shell.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.remote-shell.net)
+* [**searx.remote-shell.net**](https://searx.remote-shell.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.remote-shell.net) - Uses Matomo for user tracking and analytics
 * [**searx.ro**](https://searx.ro/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ro)
 * [**searx.ru**](https://searx.ru/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ru)
 * [**searx.site**](https://searx.site/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.site) 
@@ -128,8 +127,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**timdor.noip.me/searx**](https://timdor.noip.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=timdor.noip.me/searx)
 * [**trovu.komun.org**](https://trovu.komun.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=trovu.komun.org)
 * [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red)
-* [**searx.john-at-me.net**](https://searx.john-at-me.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.john-at-me.net)
-* [**a.searx.space**](https://a.searx.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=a.searx.space) (unstable, under construction).
+* [**www.skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service]( http://oj5zjis3oewjfzfk.onion/ ) - Uses Matomo for user tracking and analytics
 
 ### Running in exclusive private walled-gardens
 These instances run in walled-gardens that exclude some segment of the general public (e.g. Tor users and users sharing IPs with many other users).  Caution: privacy is also compromised on these sites due to exposure of cleartext traffic to a third party other than the website operator.
@@ -156,6 +154,7 @@ These instances run in walled-gardens that exclude some segment of the general p
 
 ### Offline:
 
+* [**a.searx.space**](https://a.searx.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=a.searx.space) (unstable, under construction).
 * [**adoll.ml**](https://adoll.ml/) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
 * [**anyonething.de**](https://anyonething.de) - (was found to have become a pastebin on or before 2019-03-01) Issuer: Comodo CA Limited (Warning: uses CloudFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
 * [**bamboozle.it**](https://bamboozle.it/) - (down on 2019-06-26) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bamboozle.it)
@@ -222,5 +221,6 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**wiznet.tech**](https://wiznet.tech) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=wiznet.tech)
 * [**www.mercurius.space**](https://www.mercurius.space/) - (down) Issuer: Let's Encrypt
 * [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
+* [**search.wxzm.sx**](https://search.wxzm.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.wxzm.sx)
 * [**z.awsmppl.com**](https://z.awsmppl.com) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=z.awsmppl.com)
 * [**zlsdzh.tk**](https://zlsdzh.tk) - (down - 404 HTTP error) Issuer: TrustAsia Technologies, Inc. [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=zlsdzh.tk)
