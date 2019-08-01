@@ -127,7 +127,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**timdor.noip.me/searx**](https://timdor.noip.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=timdor.noip.me/searx)
 * [**trovu.komun.org**](https://trovu.komun.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=trovu.komun.org)
 * [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red)
-* [**www.skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service]( http://oj5zjis3oewjfzfk.onion/ ) - Uses Matomo for user tracking and analytics
+* [**www.skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service](http://skyn3tb3bas655mw.onion/search/) - Crawls using YaCy / Uses Matomo for user tracking and analytics
 
 ### Running in exclusive private walled-gardens
 These instances run in walled-gardens that exclude some segment of the general public (e.g. Tor users and users sharing IPs with many other users).  Caution: privacy is also compromised on these sites due to exposure of cleartext traffic to a third party other than the website operator.
