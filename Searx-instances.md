@@ -69,7 +69,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**search.tolstoevsky.ml**](https://search.tolstoevsky.ml) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.tolstoevsky.ml)
 * [**searchsin.com/searx**](https://searchsin.com/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchsin.com/searx)
 * [**searx.anongoth.pl**](https://searx.anongoth.pl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.anongoth.pl&latest)
-* [**searx.be**](https://searx.be) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.be) - Uses fingerprinting and analytics which are not blocked by popular privacy filter lists
+* [**searx.be**](https://searx.be) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.be) - Uses Matomo for user tracking and analytics
 * [**searx.ca**](https://searx.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ca)
 * [**searx.canox.net**](https://searx.canox.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.canox.net)
 * [**searx.cybt.de**](https://searx.cybt.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cybt.de)
@@ -118,6 +118,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.zdechov.net**](https://searx.zdechov.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
 * [**searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
+* [**skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service](http://skyn3tb3bas655mw.onion/search/) - Crawls using YaCy / Uses Matomo for user tracking and analytics
 * [**spot.ecloud.global**](https://spot.ecloud.global/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=spot.ecloud.global)
 * [**srx.sx**](https://srx.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.sx)
 * [**stemy.me/searx**](https://stemy.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=stemy.me)
@@ -127,7 +128,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**timdor.noip.me/searx**](https://timdor.noip.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=timdor.noip.me/searx)
 * [**trovu.komun.org**](https://trovu.komun.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=trovu.komun.org)
 * [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red)
-* [**www.skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service](http://skyn3tb3bas655mw.onion/search/) - Crawls using YaCy / Uses Matomo for user tracking and analytics
 
 ### Running in exclusive private walled-gardens
 These instances run in walled-gardens that exclude some segment of the general public (e.g. Tor users and users sharing IPs with many other users).  Caution: privacy is also compromised on these sites due to exposure of cleartext traffic to a third party other than the website operator.
