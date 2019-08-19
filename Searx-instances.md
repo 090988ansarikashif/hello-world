@@ -60,7 +60,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**search.moravit.com**](https://search.moravit.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.moravit.com)
 * [**search.paulla.asso.fr**](https://search.paulla.asso.fr/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paulla.asso.fr)
 * [**search.poal.co**](https://search.poal.co/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.poal.co)
-* [**search.privacytools.io**](https://search.privacytools.io/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.privacytools.io)
+* [**search.privacytools.io**](https://search.privacytools.io/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.privacytools.io) - Uses Matomo for user tracking and analytics
 * [**search.seds.nl**](https://search.seds.nl/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.seds.nl&latest)
 * [**search.snopyta.org**](https://search.snopyta.org/) (as [Hidden Service](http://juy4e6eicawzdrz7.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.snopyta.org)
 * [**search.spaeth.me**](https://search.spaeth.me/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.spaeth.me&latest)
