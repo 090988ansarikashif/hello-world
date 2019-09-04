@@ -16,7 +16,6 @@ These are websites that source from other searx instances.  These are useful if 
 
 | clearnet host | onion host | issuer | source selection method | extra privacy features | 
 |--|--|--|--|--
-[Searxes](https://searxes.eu.org/) | onion v3 [hidden service]( http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) | Let's Encrypt ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.danwin1210.me)) | Sources data from a randomly selected running server that satisfies admin's quality standards which is used for post-processing.  [Instances proxied through CF](https://github.com/asciimoo/searx/wiki/Searx-instances#running-in-exclusive-private-walled-gardens) would not make the shortlist of sourced instances.  This keeps the search itself CAPTCHA-free for everyone and also mitigates risk of search queries being shared with CF. | Filters out privacy-hostile *results* (like CloudFlare sites) and folds them below the high ranking results.
 [Neocities](https://searx.neocities.org/) | n/a | Comodo ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.neocities.org)) | Redirects users directly to a random selection of any known running server after entering query. Requires Javascript. [Changelog](https://searx.neocities.org/changelog.html). | Excludes servers with user tracking and analytics or are proxied through Cloudflare. |
 
 ### Alive and running:
@@ -131,6 +130,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**unmonito.red**](https://unmonito.red/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=unmonito.red)
 * [**roteserver.de/searx**](https://roteserver.de/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=roteserver.de)
 * [**searx.linux.pizza**](https://searx.linux.pizza) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
+* [**searx.hlfh.space**](https://searx.hlfh.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.hlfh.space)
 
 ### Running in exclusive private walled-gardens
 These instances run in walled-gardens that exclude some segment of the general public (e.g. Tor users and users sharing IPs with many other users).  Caution: privacy is also compromised on these sites due to exposure of cleartext traffic to a third party other than the website operator.
