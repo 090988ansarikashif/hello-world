@@ -20,7 +20,7 @@ These are websites that source from other searx instances.  These are useful if 
 
 ### Alive and running:
 **NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and consequently have a higher chance of being blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
-* [**[Hidden](http://w6f7cgdm54cyvohcuhraaafhajctyj3ihenrovuxogoagrr5g43qmoid.onion/)**] | onion | (http://w6f7cgdm54cyvohcuhraaafhajctyj3ihenrovuxogoagrr5g43qmoid.onion/)
+* [**(http://w6f7cgdm54cyvohcuhraaafhajctyj3ihenrovuxogoagrr5g43qmoid.onion/)**] | onion | (http://w6f7cgdm54cyvohcuhraaafhajctyj3ihenrovuxogoagrr5g43qmoid.onion/)
 * [**ai.deafpray.wtf/searx**](https://ai.deafpray.wtf/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=ai.deafpray.wtf/searx)
 * [**anonyk.com**](https://anonyk.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anonyk.com)
 * [**beezboo.com**](https://beezboo.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=beezboo.com)
