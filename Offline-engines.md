@@ -22,7 +22,7 @@ If an offline engine has to be private, administrators can provide tokens for th
 
 #### Programming interface
 
-##### `init()`
+##### `init(engine_settings=None)`
 
 All offline engines can have their own `init` function to setup the engine before accepting requests. The function gets the settings from `settings.yml` as a parameter. This function can be omitted, if there is no need to setup anything in advance.
 
