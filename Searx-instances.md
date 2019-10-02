@@ -131,6 +131,9 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.linux.pizza**](https://searx.linux.pizza) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
 * [**searx.hlfh.space**](https://searx.hlfh.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.hlfh.space)
 * [**bee.jaekr.me**](https://bee.jaekr.me) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bee.jaekr.me)
+* [**haku.lelux.fi**](https://haku.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
+* [**searx.lelux.fi**](https://searx.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
+
 
 ### Running in exclusive private walled-gardens
 These instances run in walled-gardens that exclude some segment of the general public (e.g. Tor users and users sharing IPs with many other users).  Caution: privacy is also compromised on these sites due to exposure of cleartext traffic to a third party other than the website operator.
@@ -164,7 +167,6 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**search.kosebamse.com**](https://search.kosebamse.com) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service (down on 2019-06-26)
 * [**hacktivis.me/searx**](https://hacktivis.me/searx) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=hacktivis.me/searx)
-* [**haku.lelux.fi**](https://haku.lelux.fi/) - (down - timeout) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
 * [**icebal.com**](https://icebal.com) - (down) Issuer: Let's Encrypt
 * [**netrangler.host**](https://netrangler.host) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=netrangler.host)
 * [**opengo.nl**](https://www.opengo.nl) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.opengo.nl)
