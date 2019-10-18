@@ -133,7 +133,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**bee.jaekr.me**](https://bee.jaekr.me) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bee.jaekr.me)
 * [**haku.lelux.fi**](https://haku.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
 * [**searx.lelux.fi**](https://searx.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
-
+* [**searx.lhorn.de**](https://searx.lhorn.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lhorn.de&latest)
 
 ### Running in exclusive private walled-gardens
 These instances run in walled-gardens that exclude some segment of the general public (e.g. Tor users and users sharing IPs with many other users).  Caution: privacy is also compromised on these sites due to exposure of cleartext traffic to a third party other than the website operator.
