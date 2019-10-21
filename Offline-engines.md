@@ -32,10 +32,6 @@ Each offline engine has a function named `search`. This function is responsible 
 
 The return value is a list of results retrieved by the engine.
 
-##### `available_params()`
-
-The third function required if the engine has some advanced setting to be configured from the "Advanced settings" section. If the engine does not have such options, return an empty list or omit the function.
-
 #### Engine representation in `/config`
 
 If an engine is offline, the attribute `offline` is set to `True`.
