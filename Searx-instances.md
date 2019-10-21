@@ -130,7 +130,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**roteserver.de/searx**](https://roteserver.de/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=roteserver.de)
 * [**searx.linux.pizza**](https://searx.linux.pizza) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza)
 * [**searx.hlfh.space**](https://searx.hlfh.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.hlfh.space)
-* [**bee.jaekr.me**](https://bee.jaekr.me) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bee.jaekr.me)
+* [**bee.jaekr.dev**](https://bee.jaekr.dev) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bee.jaekr.dev)
 * [**haku.lelux.fi**](https://haku.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
 * [**searx.lelux.fi**](https://searx.lelux.fi/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi)
 * [**searx.lhorn.de**](https://searx.lhorn.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lhorn.de&latest)
