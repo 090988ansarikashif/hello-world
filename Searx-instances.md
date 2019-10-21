@@ -77,6 +77,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.de**](https://www.searx.de/) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
 * [**searx.dnswarden.com**](https://searx.dnswarden.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dnswarden.com)
 * [**searx.drakonix.net**](https://searx.drakonix.net/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
+* [**searx.dresden.network**](https://searx.dresden.network/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dresden.network)
 * [**searx.elukerio.org**](https://searx.elukerio.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.elukerio.org/)
 * [**searx.everdot.org**](https://searx.everdot.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.everdot.org/) - Crawls using YaCy
 * [**searx.foo.li**](https://searx.foo.li) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.foo.li&hideResults=on)
@@ -93,6 +94,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.li**](https://searx.li/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.li)
 * [**searx.libmail.eu**](https://searx.libmail.eu/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu/)
 * [**searx.lynnesbian.space**](https://searx.lynnesbian.space/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lynnesbian.space)
+* [**searx.mastodontech.de**](https://searx.mastodontech.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.mastodontech.de)
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
 * [**searx.nakhan.net**](https://searx.nakhan.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nakhan.net)
 * [**searx.nixnet.xyz**](https://searx.nixnet.xyz) - (as [Hidden Service](http://searx.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nixnet.xyz) 
