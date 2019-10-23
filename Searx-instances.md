@@ -186,7 +186,7 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**search.matrix.ac**](https://search.matrix.ac) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=matrix.ac)
 * [**search.mypsc.ca**](https://search.mypsc.ca/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mypsc.ca)
 * [**search.namedkitten.pw**](https://search.namedkitten.pw) - (SSL error) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.namedkitten.pw)
-* [**search.pifferi.info**](https://search.pifferi.info/) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.pifferi.info&latest)
+* [**search.pifferi.info**](https://search.pifferi.info/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.pifferi.info&latest)
 * [**search.r3d007.com**](https://search.r3d007.com/) - (down) Issuer: Let's Encrypt
 * [**search.static.lu**](https://search.static.lu/) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.static.lu)
 * [**search.teej.xyz**](https://search.teej.xyz) - (down) Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.teej.xyz)
