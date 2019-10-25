@@ -149,7 +149,7 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**searx.org**](https://searx.org/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.org) 
 * [**searx.run**](https://searx.run/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.run)
 * [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world) - Adds Amazon affiliate links
-
+* [**bamboozle.it**](https://bamboozle.it/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bamboozle.it)
 ### Running with an incorrect SSL certificate:
 
 * [**listi.me**](https://listi.me/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=listi.me&latest)
@@ -167,7 +167,6 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**a.searx.space**](https://a.searx.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=a.searx.space) (unstable, under construction).
 * [**adoll.ml**](https://adoll.ml/) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
 * [**anyonething.de**](https://anyonething.de) - (was found to have become a pastebin on or before 2019-03-01) Issuer: Comodo CA Limited (Warning: uses CloudFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
-* [**bamboozle.it**](https://bamboozle.it/) - (down on 2019-06-26) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=bamboozle.it)
 * [**search.kosebamse.com**](https://search.kosebamse.com) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service (down on 2019-06-26)
 * [**hacktivis.me/searx**](https://hacktivis.me/searx) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=hacktivis.me/searx)
