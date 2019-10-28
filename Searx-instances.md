@@ -76,6 +76,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.canox.net**](https://searx.canox.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.canox.net)
 * [**searx.cybt.de**](https://searx.cybt.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.cybt.de)
 * [**searx.de**](https://www.searx.de/) - Issuer: COMODO [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.de)
+* [**searx.decatec.de**](https://searx.decatec.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.decatec.de)
 * [**searx.dnswarden.com**](https://searx.dnswarden.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dnswarden.com)
 * [**searx.drakonix.net**](https://searx.drakonix.net/) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.drakonix.net)
 * [**searx.dresden.network**](https://searx.dresden.network/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.dresden.network)
