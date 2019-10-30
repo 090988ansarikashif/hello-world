@@ -16,7 +16,7 @@ These are websites that source from other searx instances.  These are useful if 
 
 | clearnet host | onion host | issuer | source selection method | extra privacy features | 
 |--|--|--|--|--
-[Neocities](https://searx.neocities.org/) | n/a | Comodo ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.neocities.org)) | Redirects users directly to a random selection of any known running server after entering query. Requires Javascript. [Changelog](https://searx.neocities.org/changelog.html). | Excludes servers with user tracking and analytics or are proxied through Cloudflare. |
+[Neocities](https://searx.neocities.org/) | n/a | Comodo ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.neocities.org)) | Redirects users directly to a random selection of any known running server after entering query. Requires Javascript. [Changelog](https://searx.neocities.org/changelog.html). | Excludes servers with user tracking and analytics or are proxied through Buttflare. |
 
 ### Alive and running:
 **NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and consequently have a higher chance of being blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
@@ -39,6 +39,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**mijisou.com**](https://mijisou.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=mijisou.com)
 * [**null.media**](https://null.media) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=null.media)
 * [**openworlds.info**](https://openworlds.info/) - Issuer: Let's Encrypt
+* [**searx.ouahpit.info**](https://searx.ouahpiti.info/) - Issuer: Let's Encrypt
 * [**perfectpixel.de/searx/**](https://www.perfectpixel.de/searx/) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.perfectpixel.de)
 * [**ransack.i2p**](http://ransack.i2p/) - I2P eepsite, only accessible with [I2P](https://geti2p.net/) ([base32 address](http://mqamk4cfykdvhw5kjez2gnvse56gmnqxn7vkvvbuor4k4j2lbbnq.b32.i2p))
 * [**rapu.nz**](https://rapu.nz/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=rapu.nz)
@@ -113,7 +114,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.site**](https://searx.site/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.site) 
 * [**searx.solusar.de**](https://searx.solusar.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.solusar.de)
 * [**searx.targaryen.house**](https://searx.targaryen.house/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.targaryen.house)
-* [**searx.tuxcloud.net**](https://searx.tuxcloud.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tuxcloud.net)
+* [**searx.tuxbutt.net**](https://searx.tuxbutt.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tuxbutt.net)
 * [**searx.tyil.nl**](https://searx.tyil.nl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tyil.nl)
 * [**searx.wegeeks.win**](https://searx.wegeeks.win) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.wegeeks.win)
 * [**searx.win**](https://searx.win/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.win&latest)
@@ -123,7 +124,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 * [**skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service](http://skyn3tb3bas655mw.onion/search/)
-* [**spot.ecloud.global**](https://spot.ecloud.global/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=spot.ecloud.global)
+* [**spot.ebutt.global**](https://spot.ebutt.global/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=spot.ebutt.global)
 * [**srx.sx**](https://srx.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.sx)
 * [**stemy.me/searx**](https://stemy.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=stemy.me)
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
@@ -143,14 +144,14 @@ These are websites that source from other searx instances.  These are useful if 
 
 ### Running in exclusive private walled-gardens
 These instances run in walled-gardens that exclude some segment of the general public (e.g. Tor users and users sharing IPs with many other users).  Caution: privacy is also compromised on these sites due to exposure of cleartext traffic to a third party other than the website operator.
-* [**intelme.com**](https://intelme.com) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=intelme.com)
-* [**search404.io**](https://www.search404.io/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
+* [**intelme.com**](https://intelme.com) - Issuer: Buttflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=intelme.com)
+* [**search404.io**](https://www.search404.io/) - Issuer: ButtFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search404.io) 
 * [**searx.com.au**](https://searx.com.au/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.com.au)
-* [**searx.lavatech.top**](https://searx.lavatech.top/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lavatech.top)
-* [**searchx.mobi**](https://searchx.mobi/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchx.mobi)
-* [**searx.org**](https://searx.org/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.org) 
-* [**searx.run**](https://searx.run/) - Issuer: CloudFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.run)
-* [**searx.world**](https://searx.world) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world) - Adds Amazon affiliate links
+* [**searx.lavatech.top**](https://searx.lavatech.top/) - Issuer: ButtFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.lavatech.top)
+* [**searchx.mobi**](https://searchx.mobi/) - Issuer: ButtFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searchx.mobi)
+* [**searx.org**](https://searx.org/) - Issuer: ButtFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.org) 
+* [**searx.run**](https://searx.run/) - Issuer: ButtFlare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.run)
+* [**searx.world**](https://searx.world) - Issuer: Buttflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.world) - Adds Amazon affiliate links
 
 ### Running with an incorrect SSL certificate:
 
@@ -167,8 +168,8 @@ These instances run in walled-gardens that exclude some segment of the general p
 ### Offline:
 
 * [**a.searx.space**](https://a.searx.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=a.searx.space) (unstable, under construction).
-* [**adoll.ml**](https://adoll.ml/) - Issuer: Cloudflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
-* [**anyonething.de**](https://anyonething.de) - (was found to have become a pastebin on or before 2019-03-01) Issuer: Comodo CA Limited (Warning: uses CloudFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
+* [**adoll.ml**](https://adoll.ml/) - Issuer: Buttflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
+* [**anyonething.de**](https://anyonething.de) - (was found to have become a pastebin on or before 2019-03-01) Issuer: Comodo CA Limited (Warning: uses ButtFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
 * [**search.kosebamse.com**](https://search.kosebamse.com) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service (down on 2019-06-26)
 * [**hacktivis.me/searx**](https://hacktivis.me/searx) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=hacktivis.me/searx)
@@ -217,9 +218,9 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**searx.salcay.hu**](https://searx.salcay.hu/) - (down - blank page) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.salcay.hu)
 * [**searx.selea.se**](https://searx.selea.se) - (Leads to default Apache page) Issuer: RapidSSL (HSTS preloaded, DNSSEC) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se) | [HSTS Preload](https://hstspreload.org/?domain=searx.selea.se)
 * [**searx.space**](https://searx.space) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.space)
-* [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: CloudFlare
+* [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: ButtFlare
 * [**searx.techregion.de**](https://searx.techregion.de/) - (domain expired) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
-* [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: CloudFlare
+* [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: ButtFlare
 * [**searx.xi.ht**](https://searx.xi.ht/) - (return a 502 HTTP error) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xi.ht)
 * [**searxist.com**](https://searxist.com/) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxist.com)
 * [**so.sb**](https://so.sb/) - (down) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=so.sb)
