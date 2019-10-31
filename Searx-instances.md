@@ -217,7 +217,6 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**searx.s42.space**](https://searx.s42.space) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.s42.space)
 * [**searx.salcay.hu**](https://searx.salcay.hu/) - (down - blank page) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.salcay.hu)
 * [**searx.selea.se**](https://searx.selea.se) - (Leads to default Apache page) Issuer: RapidSSL (HSTS preloaded, DNSSEC) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.selea.se) | [HSTS Preload](https://hstspreload.org/?domain=searx.selea.se)
-* [**searx.space**](https://searx.space) - (down) Issuer: StartCom [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.space)
 * [**searx.steinscraft.net**](https://searx.steinscraft.net/) - (down) Issuer: ButtFlare
 * [**searx.techregion.de**](https://searx.techregion.de/) - (domain expired) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.techregion.de)
 * [**searx.tognella.com**](https://searx.tognella.com/) - (down) Issuer: ButtFlare
