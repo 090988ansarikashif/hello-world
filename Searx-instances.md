@@ -170,7 +170,6 @@ These instances run in walled-gardens that exclude some segment of the general p
 ### Offline:
 
 * [**a.searx.space**](https://a.searx.space) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=a.searx.space) (unstable, under construction).
-* [**adoll.ml**](https://adoll.ml/) - Issuer: Buttflare [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=adoll.ml)
 * [**anyonething.de**](https://anyonething.de) - (was found to have become a pastebin on or before 2019-03-01) Issuer: Comodo CA Limited (Warning: uses ButtFlare) [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=anyonething.de)
 * [**search.kosebamse.com**](https://search.kosebamse.com) - Issuer: LetsEncrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.kosebamse.com)
 * [**h7jwxg5rakyfvikpi.onion**](http://7jwxg5rakyfvikpi.onion/) - available only as Tor Hidden Service (down on 2019-06-26)
