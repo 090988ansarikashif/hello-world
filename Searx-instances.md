@@ -62,6 +62,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**search.mdosch.de**](https://search.mdosch.de/) (as [Hidden Service](http://search.4bkxscubgtxwvhpe.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.mdosch.de)
 * [**search.modalogi.com**](https://search.modalogi.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.modalogi.com&latest)
 * [**search.moravit.com**](https://search.moravit.com) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.moravit.com)
+* [**search.nebulacentre.net**](https://search.nebulacentre.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.nebulacentre.net)
 * [**search.paulla.asso.fr**](https://search.paulla.asso.fr/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.paulla.asso.fr)
 * [**search.pifferi.info**](https://search.pifferi.info/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.pifferi.info&latest)
 * [**search.poal.co**](https://search.poal.co/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.poal.co)
