@@ -233,4 +233,5 @@ These instances run in walled-gardens that exclude some segment of the general p
 * [**www.ready.pm**](https://www.ready.pm) - Issuer: WoSign [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.ready.pm)
 * [**search.wxzm.sx**](https://search.wxzm.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.wxzm.sx)
 * [**z.awsmppl.com**](https://z.awsmppl.com) - (down) Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=z.awsmppl.com)
-* [**zlsdzh.tk**](https://zlsdzh.tk) - (down - 404 HTTP error) Issuer: TrustAsia Technologies, Inc. [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=zlsdzh.tk)* 
+* [**zlsdzh.tk**](https://zlsdzh.tk) - (down - 404 HTTP error) Issuer: TrustAsia Technologies, Inc. [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=zlsdzh.tk)*
+* [**search.opentunisia.org**](https://search.opentunisia.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=search.opentunisia.org)
