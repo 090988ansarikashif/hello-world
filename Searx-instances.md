@@ -111,7 +111,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.me**](https://searx.me) (as [Hidden Service](http://ulrn6sryqaifefld.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.me)
 * [**searx.mxchange.org**](https://searx.mxchange.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.mxchange.org)
 * [**searx.nakhan.net**](https://searx.nakhan.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nakhan.net)
-* [**searx.nickwasused.com**](https://searx.nickwasused.com) - Issuer: CloudFlare Inc [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nickwasused.com)
 * [**searx.nixnet.xyz**](https://searx.nixnet.xyz) (as [Hidden Service](http://searx.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nixnet.xyz)
 * [**searx.nnto.net**](https://searx.nnto.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.nnto.net)
 * [**searx.openhoofd.nl**](https://searx.openhoofd.nl/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=openhoofd.nl)
