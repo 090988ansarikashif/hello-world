@@ -20,6 +20,7 @@ Also this list of publicly available APIs may be of use: https://github.com/todd
 | https://oscobo.co.uk/ | | A engine created for protecting your privacy. |
 | https://jivesearch.com/ | | A search engine that doesn't track you. Uses Yandex API. |
 | https://searchpal.com/ | | A Safe Search Engine that blocks harmful and offensive traffic. |
+| https://beta.cliqz.com/ | Searx integration [suggested by Cliqz CEO](https://twitter.com/MarcAlHames/status/1199956996293824515). They might provide an API if desired. | A quick search engine from Germany, financed by Burda. |
 
 ### Files
 
