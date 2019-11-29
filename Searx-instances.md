@@ -126,6 +126,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.solusar.de**](https://searx.solusar.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.solusar.de)
 * [**searx.targaryen.house**](https://searx.targaryen.house/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.targaryen.house)
 * [**searx.tuxbutt.net**](https://searx.tuxbutt.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tuxbutt.net)
+* [**searx.tuxcloud.net**](https://searx.tuxcloud.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tuxcloud.net)
 * [**searx.tyil.nl**](https://searx.tyil.nl) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tyil.nl)
 * [**searx.wegeeks.win**](https://searx.wegeeks.win) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.wegeeks.win)
 * [**searx.win**](https://searx.win/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.win&latest)
