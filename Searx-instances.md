@@ -120,7 +120,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.operationtulip.com**](https://searx.operationtulip.com/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.operationtulip.com)
 * [**searx.orcadian.net**](https://searx.orcadian.net/) - Issuer: Comodo CA Limited [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.orcadian.net)
 * [**searx.ouahpit.info**](https://searx.ouahpiti.info/) - Issuer: Let's Encrypt
-* [**searx.pofilo.fr**](https://searx.pofilo.fr/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pofilo.fr)
 * [**searx.prvcy.eu**](https://searx.prvcy.eu/) (as [Hidden Service](http://hmfztxt3pfhevucl.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.prvcy.eu)
 * [**searx.pwoss.org**](https://searx.pwoss.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pwoss.org)
 * [**searx.ro**](https://searx.ro/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ro)
