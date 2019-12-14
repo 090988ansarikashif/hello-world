@@ -137,7 +137,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.zdechov.net**](https://searx.zdechov.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
 * [**searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
-* [**skyn3t.in/search**](https://www.skyn3t.in/search/) - Issuer: Let's Encrypt | onion [hidden service](http://skyn3tb3bas655mw.onion/search/)
+* [**skyn3t.in/srx**](https://skyn3t.in/srx/) - Issuer: Let's Encrypt | onion [hidden service](http://skyn3tb3bas655mw.onion/srx/)
 * [**spot.ecloud.global**](https://spot.ecloud.global/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=spot.ecloud.global)
 * [**srx.sx**](https://srx.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.sx)
 * [**stemy.me/searx**](https://stemy.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=stemy.me)
