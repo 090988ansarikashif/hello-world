@@ -135,6 +135,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.xyz**](https://searx.xyz/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xyz&latest)
 * [**searx.zareldyn.net**](https://searx.zareldyn.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zareldyn.net)
 * [**searx.zdechov.net**](https://searx.zdechov.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
+* [**searxes.eu.org**](https://searxes.eu.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.eu.org)
 * [**searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 * [**skyn3t.in/srx**](https://skyn3t.in/srx/) - Issuer: Let's Encrypt | onion [hidden service](http://skyn3tb3bas655mw.onion/srx/)
