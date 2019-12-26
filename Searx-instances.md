@@ -141,6 +141,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**spot.ecloud.global**](https://spot.ecloud.global/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=spot.ecloud.global)
 * [**srx.sx**](https://srx.sx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=srx.sx)
 * [**stemy.me/searx**](https://stemy.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=stemy.me)
+* [**suche.dasnetzundich.de**](https://suche.dasnetzundich.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.dasnetzundich.de)
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
 * [**suche.ftp.sh**](https://suche.ftp.sh/) (as [Hidden Service](http://suche.xyzco456vwisukfg.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
 * [**suche.uferwerk.org**](https://suche.uferwerk.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.uferwerk.org)
