@@ -1,3 +1,5 @@
+**DO NOT EDIT THIS** wiki entry, it has been moved to the docs ... follow PR https://github.com/asciimoo/searx/issues/1785
+
 This page describe the options possibilities of the settings.yml file.
 
 ### Global structure
