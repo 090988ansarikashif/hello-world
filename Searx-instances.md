@@ -124,7 +124,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.pwoss.org**](https://searx.pwoss.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.pwoss.org)
 * [**searx.ro**](https://searx.ro/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ro)
 * [**searx.ru**](https://searx.ru/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.ru)
-* [**searx.site**](https://searx.site/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.site)
 * [**searx.solusar.de**](https://searx.solusar.de/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.solusar.de)
 * [**searx.targaryen.house**](https://searx.targaryen.house/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.targaryen.house)
 * [**searx.tuxcloud.net**](https://searx.tuxcloud.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.tuxcloud.net)
