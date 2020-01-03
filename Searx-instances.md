@@ -142,7 +142,7 @@ These are websites that source from other searx instances.  These are useful if 
 * [**stemy.me/searx**](https://stemy.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=stemy.me)
 * [**suche.dasnetzundich.de**](https://suche.dasnetzundich.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.dasnetzundich.de)
 * [**suche.elaon.de**](https://suche.elaon.de) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.elaon.de)
-* [**suche.ftp.sh**](https://suche.ftp.sh/) (as [Hidden Service](http://suche.xyzco456vwisukfg.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.ftp.sh)
+* [**suche.xyzco456vwisukfg.onion**](http://suche.xyzco456vwisukfg.onion/)
 * [**suche.uferwerk.org**](https://suche.uferwerk.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=suche.uferwerk.org)
 * [**timdor.noip.me/searx**](https://timdor.noip.me/searx) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=timdor.noip.me/searx)
 * [**trovu.komun.org**](https://trovu.komun.org) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=trovu.komun.org)
