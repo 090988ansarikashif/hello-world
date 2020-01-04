@@ -1,4 +1,4 @@
-**DO NOT EDIT THIS** wiki entry, it has been moved to the docs ... follow PR https://github.com/asciimoo/searx/issues/1785
+**DO NOT EDIT THIS** wiki entry, it has been moved to the docs ... follow PR https://github.com/asciimoo/searx/pull/1791
 
 
 
