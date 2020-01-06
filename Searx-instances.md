@@ -1,6 +1,4 @@
-**DO NOT EDIT THIS** wiki entry any longer!
-
-The list of public searx instances has been moved to the documentation:
+# The list of public searx instances has been moved to the documentation
 
 - https://asciimoo.github.io/searx/user/public_instances.html
 
@@ -12,10 +10,6 @@ For more information about add or remove from the searx-stats2 list visit
 
 - [move list of searx-instances from searx to searx-stats2](https://github.com/dalf/searx-stats2/issues/7)
 
-
-
-# Public Searx instances
-
 ## Useful information
 
  * Up-to-date health report available on https://stats.searx.xyz<sup>(1)</sup>, for onion (tor) services: https://stats.searx.xyz/tor.html
@@ -25,14 +19,11 @@ For more information about add or remove from the searx-stats2 list visit
 
 <sup>(1)</sup> Note that most of the instances with a A+ grade in CSP column in this site are not fully functional - for example auto-completion may not work.
 
-## List of public Searx instances
+## List of public Searx instances [OLD!!!](https://github.com/asciimoo/searx/pull/1791#issuecomment-571161547)
 
 ### Meta-searx instances
-These are websites that source from other searx instances.  These are useful if you can't decide which Searx instance to use:
 
-| clearnet host | onion host | issuer | source selection method | extra privacy features | 
-|--|--|--|--|--
-[Neocities](https://searx.neocities.org/) | n/a | Comodo ([verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.neocities.org)) | Redirects users directly to a random selection of any known running server after entering query. Requires Javascript. [Changelog](https://searx.neocities.org/changelog.html). | Excludes servers with user tracking and analytics or are proxied through Cloudflare. |
+See https://asciimoo.github.io/searx/user/public_instances.html#meta-searx-instances
 
 ### Alive and running:
 **NOTE:** Public instances listed here may yield less accurate results as they have much higher traffic and consequently have a higher chance of being blocked by search providers such as Google, Qwant, Bing, Startpage, etc.  Hosting your own instance or using an instance that isn't listed here may give you a more consistent search experience.
@@ -149,7 +140,6 @@ These are websites that source from other searx instances.  These are useful if 
 * [**searx.xyz**](https://searx.xyz/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.xyz&latest)
 * [**searx.zareldyn.net**](https://searx.zareldyn.net/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zareldyn.net)
 * [**searx.zdechov.net**](https://searx.zdechov.net) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searx.zdechov.net)
-* [**searxes.eu.org**](https://searxes.eu.org) ([As Hidden Service](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=searxes.eu.org)
 * [**searxs.eu**](https://www.searxs.eu) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=www.searxs.eu&hideResults=on)
 * [**seeks.hsbp.org**](https://seeks.hsbp.org/) - Issuer: Let's Encrypt [Verification](https://www.ssllabs.com/ssltest/analyze.html?d=seeks.hsbp.org) - [PGP signed fingerprints of cert](https://seeks.hsbp.org/cert)
 * [**skyn3t.in/srx**](https://skyn3t.in/srx/) - Issuer: Let's Encrypt | onion [hidden service](http://skyn3tb3bas655mw.onion/srx/)
