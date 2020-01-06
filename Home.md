@@ -1,5 +1,5 @@
 ## User Documentation
-* Available public [searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances)
+* Available public [searx instances](https://asciimoo.github.io/searx/user/public_instances.html)
 
 ## Admin Documentation
 * [Installation and setup guide](https://github.com/asciimoo/searx/wiki/Installation)
