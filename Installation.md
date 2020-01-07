@@ -1,5 +1,7 @@
 ## Classic installation
-See https://asciimoo.github.io/searx/dev/install/installation.html.
+
+The installation instruction has been moved to the documentations.  See https://asciimoo.github.io/searx/admin/installation.html
+
 
 ## With docker (unfinished)
 
